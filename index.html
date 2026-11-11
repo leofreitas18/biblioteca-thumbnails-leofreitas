@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Biblioteca Thumbnails — Stake</title>
+<title>Biblioteca Thumbnails</title>
 <style>
   :root{
     --bg:#0f1420; --bg-alt:#161d2e; --panel:#1b2436; --border:#2a3550;
@@ -271,7 +271,7 @@ function renderGrid(){
 
   const visible = filtered.slice(0, state.page * PAGE_SIZE);
   grid.innerHTML = visible.map(g => {
-    const small = (g.w && g.h && (g.w < 360 || g.h < 472)) ? '<span class="small-flag" title="Imagem original da Stake menor que o padrao 2x">menor</span>' : '';
+    const small = (g.w && g.h && (g.w < 360 || g.h < 472)) ? '<span class="small-flag" title="Imagem original menor que o padrao 2x">menor</span>' : '';
     const fileName = g.file.split('/').pop();
     return `<div class="card">
       <div class="thumb-wrap">
