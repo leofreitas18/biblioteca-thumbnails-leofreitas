@@ -1,0 +1,716 @@
+nome_do_jogo,arquivo,largura,altura,url_origem
+"Gates of Olympus Super Scatter",gates-of-olympus-super-scatter.jpg,360,472,https://mediumrare.imgix.net/73318f9e220e1637c4b11338d10f377cd997d0232636f5f5a1940167ad0451cd?w=360&h=472&fit=min&auto=format
+"Gates of Olympus 1000",gates-of-olympus-1000.jpg,208,273,https://mediumrare.imgix.net/fdf333e96a5e21555bbb4e9e04a3ee4e1986c9cca9aa75141597041cc8334d23?w=360&h=472&fit=min&auto=format
+"Gates of Olympus 2500",gates-of-olympus-2500.jpg,360,472,https://mediumrare.imgix.net/0993fd9fa06afec06bab1de08bade3e8e90bf9b4f98db5f77013f1fe4ce40905?w=360&h=472&fit=min&auto=format
+"Sugar Rush 1000",sugar-rush-1000.jpg,360,472,https://mediumrare.imgix.net/14d5410c6cf4c303d291262a10e949dc14b0ac2eca2a7a730b0401919c01358e?w=360&h=472&fit=min&auto=format
+"Sweet Bonanza 1000",sweet-bonanza-1000.jpg,360,472,https://mediumrare.imgix.net/73754d4bf421b78fbd3895bbc7890d379797588cb699d6cbe47f3656aa93613b?w=360&h=472&fit=min&auto=format
+"Sweet Bonanza 2500",sweet-bonanza-2500.jpg,360,472,https://mediumrare.imgix.net/76411df1039d658a8b9c9f90c14467c7ca7c240feeed97274ea73208d786484e?w=360&h=472&fit=min&auto=format
+"Big Bass Vegas 1000",big-bass-vegas-1000.jpg,360,472,https://mediumrare.imgix.net/84e8d0d542775ca4506d21e7e720eab605a875c88e974c689011aa1ac77ca133?w=360&h=472&fit=min&auto=format
+"Big Bass Splash",big-bass-splash.jpg,360,472,https://mediumrare.imgix.net/98801318d067e57c3d22f9453d970d5278bf253365600c4d93841b9c994bf82a?w=360&h=472&fit=min&auto=format
+"Big Bass Splash 1000",big-bass-splash-1000.jpg,204,267,https://mediumrare.imgix.net/1cab3479be96a3bb59020b9c135a4756807f8bdbd9f0d8f56009d064fc9cee5e?w=360&h=472&fit=min&auto=format
+"Big Bass Halloween Splash 1000",big-bass-halloween-splash-1000.jpg,360,472,https://mediumrare.imgix.net/ab57d0bd9c3265d7c6b0aa25827543285d33dabd25932c1843cc6bc9451ea82d?w=360&h=472&fit=min&auto=format
+"5 Lions Megaways 2",5-lions-megaways-2.jpg,360,472,https://mediumrare.imgix.net/0eeb084b421e2e96d17fce52d9bd81ca5c7396e8035beaf30e84a8510169e1b4?w=360&h=472&fit=min&auto=format
+"Super Golden Spins",super-golden-spins.jpg,360,472,https://mediumrare.imgix.net/12f970d8c4722f9d3da3a97c0d1b9915230ab9368069d6984711dc329246f19e?w=360&h=472&fit=min&auto=format
+"Joker's Jewels",joker-s-jewels.jpg,360,472,https://mediumrare.imgix.net/2859df47036f5c6d3f33fead0d26c9538046589c90d5b59621306d9e4e7bfcc0?w=360&h=472&fit=min&auto=format
+"Killer Night",killer-night.jpg,360,472,https://mediumrare.imgix.net/29579a3cb51b8cd31797305776666282f882448bbb288142e45887539ae33c49?w=360&h=472&fit=min&auto=format
+"Sweet Rush Bonanza",sweet-rush-bonanza.jpg,360,472,https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f?w=360&h=472&fit=min&auto=format
+"The Dog House",the-dog-house.jpg,360,472,https://mediumrare.imgix.net/eb75dbe63e5b45feb035e02cba7f846d6e71a9343f66187387a32ee8abe21e75?w=360&h=472&fit=min&auto=format
+"Starlight Princess 1000",starlight-princess-1000.jpg,360,472,https://mediumrare.imgix.net/9b33e65dac8fca557649b0e87eb60754a62cc9ba40abd415b68ddfde4d799997?w=360&h=472&fit=min&auto=format
+"Zeus vs Hades: Gods of War",zeus-vs-hades-gods-of-war.jpg,360,472,https://mediumrare.imgix.net/f09e34a1c42095b679434c10820f323e2bde3c7b4f6330b587e10eebd16f82c8?w=360&h=472&fit=min&auto=format
+"Sweet Loot",sweet-loot.jpg,360,472,https://mediumrare.imgix.net/cb28b5b3c9a558a9b5f78c18f5663eae64a238a8c0959efb3beb62ad31a23684?w=360&h=472&fit=min&auto=format
+"Gold Party",gold-party.jpg,360,472,https://mediumrare.imgix.net/e3151334228b0cd92436375fb7fa236faf566f13cf75bef167a5bce8b415f379?w=360&h=472&fit=min&auto=format
+"Chronos: Sands of Eternity",chronos-sands-of-eternity.jpg,360,472,https://mediumrare.imgix.net/962f30d4db4a3e425b726d3de9f84e8acfb830201167bd99ce7a9ae21bb900c6?w=360&h=472&fit=min&auto=format
+"Fruit Party",fruit-party.jpg,360,472,https://mediumrare.imgix.net/cb8c8e48781137b94c5dea7326d5c4d15b045ee1e8282b8ca674a0ac231914a8?w=360&h=472&fit=min&auto=format
+"Better Barn House Bonanza",better-barn-house-bonanza.jpg,360,472,https://mediumrare.imgix.net/c1d5d8021966826471fb2e3b10012e33472ebff58f2eb20554155a4d1adac12c?w=360&h=472&fit=min&auto=format
+"5 Lions Megaways",5-lions-megaways.jpg,360,472,https://mediumrare.imgix.net/741f8f9dd2ead70e1e3fb9b34ef4058b0b431ea93f60f17b71ac65fa7f41bf17?w=360&h=472&fit=min&auto=format
+"Big Bass Bonanza 1000",big-bass-bonanza-1000.jpg,360,472,https://mediumrare.imgix.net/7a73d0321e7b6501b7f92b3522c7e6410f4ba8a94ffbf2a260b92a4c509e8cec?w=360&h=472&fit=min&auto=format
+"Buffalo King Megaways",buffalo-king-megaways.jpg,360,472,https://mediumrare.imgix.net/14059b04f3c74d1f642ad789b769bf2f095076e33fa8402ec716105b54605394?w=360&h=472&fit=min&auto=format
+"The Dog House Megaways 1000",the-dog-house-megaways-1000.jpg,360,472,https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61?w=360&h=472&fit=min&auto=format
+"Big Bass Floats my Boat",big-bass-floats-my-boat.jpg,360,472,https://mediumrare.imgix.net/c50be64591bed4e2b5975dfd941b7f5169d005c84824f35fa32c3ab05df7309b?w=360&h=472&fit=min&auto=format
+"Big Bass Secrets of the Golden Lake",big-bass-secrets-of-the-golden-lake.jpg,360,472,https://mediumrare.imgix.net/516dd23e24bc643b9f6d77362b11b8b077ccea882a4dffb2913e023d7131fbef?w=360&h=472&fit=min&auto=format
+"Chests of Cai Shen: Infinity",chests-of-cai-shen-infinity.jpg,360,472,https://mediumrare.imgix.net/88273c95385dccd53fbf23a67cbd25a7ecb3c6ea774193b7b3927008c7ed230d?w=360&h=472&fit=min&auto=format
+"Gates of Olympus",gates-of-olympus.jpg,360,472,https://mediumrare.imgix.net/f38cea26bce753243bbdbc06ffb7a4b46972bc1254e41f3c79ace5fba9e6aae2?w=360&h=472&fit=min&auto=format
+"Sugar Rush",sugar-rush.jpg,360,472,https://mediumrare.imgix.net/2cef1d4fc88f4f91ab86775d25b4cc3fed042af3ac81d641a559a4c517f3d9ef?w=360&h=472&fit=min&auto=format
+"Wild West Gold",wild-west-gold.jpg,360,472,https://mediumrare.imgix.net/fb17464538c19b76e9b501e8bb3bcfe787643779a5059d788141d6d21f736400?w=360&h=472&fit=min&auto=format
+"Big Bass Boxing Bonus Round",big-bass-boxing-bonus-round.jpg,360,472,https://mediumrare.imgix.net/83f635b69fd26ecd4a7c43a983302ad110a1150ffc23b930fa04d99f6fb186bf?w=360&h=472&fit=min&auto=format
+"Gold Party 2 - After Hours",gold-party-2-after-hours.jpg,360,472,https://mediumrare.imgix.net/61aff4b0576e94af8e472da08694b9d63c47a08401e90fbecb381578704175c4?w=360&h=472&fit=min&auto=format
+"Starlight Princess Super Scatter",starlight-princess-super-scatter.jpg,204,267,https://mediumrare.imgix.net/7d94399af668af79f99a8103723c0f1c588dbde97481a8c5ea6da206fdb189f0?w=360&h=472&fit=min&auto=format
+"Big Bass Bonanza",big-bass-bonanza.jpg,360,472,https://mediumrare.imgix.net/713054d6e4d7a33d599e02ca3a53ff486c018b07def931e61b6b06fe94183d0f?w=360&h=472&fit=min&auto=format
+"Bigger Bass Bonanza",bigger-bass-bonanza.jpg,360,472,https://mediumrare.imgix.net/aa1d816ec96179fb6c1e385fc121dfda9558aa7acf5be6f5c823ad20ad1e6225?w=360&h=472&fit=min&auto=format
+"Club Tropicana",club-tropicana.jpg,360,472,https://mediumrare.imgix.net/d458ccd98456e4181292976ebfcc87bfe1a48773945ca4ab3d799e69f38019b5?w=360&h=472&fit=min&auto=format
+"Joker's Jewels Cash",joker-s-jewels-cash.jpg,360,472,https://mediumrare.imgix.net/e505eda36f86032aa3a75c7b38b39e96d98069fdc03153641d276f36e6f3fb29?w=360&h=472&fit=min&auto=format
+"Pompeii Megareels Megaways",pompeii-megareels-megaways.jpg,360,472,https://mediumrare.imgix.net/4af24920ee5ecb18c43c754e17f03803bb465100ae71123e40db0f34f10b0b84?w=360&h=472&fit=min&auto=format
+"Big Bass Vegas Double Down Deluxe",big-bass-vegas-double-down-deluxe.jpg,360,472,https://mediumrare.imgix.net/c4afdff961df33dbf99a1b9544e78659e5a58d5624a30b5017c98a947a94a5b1?w=360&h=472&fit=min&auto=format
+"Joker's Jewel Dice",joker-s-jewel-dice.jpg,360,472,https://mediumrare.imgix.net/957a3902196945ed8446b330f3e96e2c9786fd86a0ac107ba32d7518e4f2325c?w=360&h=472&fit=min&auto=format
+"Juicy Fruits",juicy-fruits.jpg,360,472,https://mediumrare.imgix.net/884da2c4d7b719ff5078a4960928d11f831314f1c4fe6db828d3fced07404d13?w=360&h=472&fit=min&auto=format
+"Sweet Bonanza 1000 Dice",sweet-bonanza-1000-dice.jpg,360,472,https://mediumrare.imgix.net/4a8e119e4fc2dfd38439f8adbd315ed6c377f5ea825bb293f28fabbe0a34cd38?w=360&h=472&fit=min&auto=format
+"Triple Pot Gold",triple-pot-gold.jpg,360,472,https://mediumrare.imgix.net/e365aeb59268c5b855faa72d77feb90c08ac4ffbeb701c81448f4db96a7ecee1?w=360&h=472&fit=min&auto=format
+"Bee Keeper",bee-keeper.jpg,360,472,https://mediumrare.imgix.net/4dd82e4a742d93dc80c411ea0b7bde677a01727287535e07946f831cfccf0957?w=360&h=472&fit=min&auto=format
+"Bigger Bass Splash",bigger-bass-splash.jpg,360,472,https://mediumrare.imgix.net/181ccd872939a7a23b955a3de13bb83cc2c923e20fe358c37f70d3f9af533e7e?w=360&h=472&fit=min&auto=format
+"Club Tropicana - Happy Hour",club-tropicana-happy-hour.jpg,360,472,https://mediumrare.imgix.net/179ea3eb0e30b31875d7889466c65b52f028eb05d5153cab9e7aaddc1007e18c?w=360&h=472&fit=min&auto=format
+"Joker's Jewels Wild",joker-s-jewels-wild.jpg,360,472,https://mediumrare.imgix.net/b2e1d649b7ff80738f410e78eeaf6b781b98aa667960d72e043a0b1f3d4c766a?w=360&h=472&fit=min&auto=format
+"Wisdom of Athena 1000",wisdom-of-athena-1000.jpg,360,472,https://mediumrare.imgix.net/957cb56330a924f67b9c2596af223e6d05ec404e028da24b84a1dee59e38fc7c?w=360&h=472&fit=min&auto=format
+"Big Bass Halloween",big-bass-halloween.jpg,360,472,https://mediumrare.imgix.net/ba66a2f67cd50b8b41327126cfa1cde25760665976142b642df0b30d7321e888?w=360&h=472&fit=min&auto=format
+"Big Bass Halloween 3",big-bass-halloween-3.jpg,360,472,https://mediumrare.imgix.net/98ba809b9d06b63646e6868b7be75aacb26423c4c2b76bc4345b93f8dbfc5b15?w=360&h=472&fit=min&auto=format
+"Gates of Olympus Xmas 1000",gates-of-olympus-xmas-1000.jpg,360,472,https://mediumrare.imgix.net/206a059864461c5bb63e1af83d5a105a2c36205cb8e01b37418f57d10d295252?w=360&h=472&fit=min&auto=format
+"Madame Destiny Megaways",madame-destiny-megaways.jpg,360,472,https://mediumrare.imgix.net/628496a33da1c9c2c781d908a993a0de45f6672a1a4187b03e014743280f9f71?w=360&h=472&fit=min&auto=format
+"Clover Gold",clover-gold.jpg,360,472,https://mediumrare.imgix.net/80987919d4aa387ebdd70045c930a556e6905899121577da102dcb19f728e026?w=360&h=472&fit=min&auto=format
+"Mummy's Jewels 100",mummy-s-jewels-100.jpg,204,267,https://mediumrare.imgix.net/716d194fd90fc9c8d8489d895e84d0ffbc9e9a5489ac3af58244f41206f83994?w=360&h=472&fit=min&auto=format
+"Sugar Supreme Powernudge",sugar-supreme-powernudge.jpg,360,472,https://mediumrare.imgix.net/fc3a732b64a73b0011a0e55def22bb91de90bddf3637f5aad383fd30e47b1fa8?w=360&h=472&fit=min&auto=format
+"Sweet Bonanza Super Scatter",sweet-bonanza-super-scatter.jpg,360,472,https://mediumrare.imgix.net/2e0fb5d8d19a26f8dabafc4076ce81c7eb653a613219a9fbb7cc44ec936ce993?w=360&h=472&fit=min&auto=format
+"Fortune of Olympus",fortune-of-olympus.jpg,204,267,https://mediumrare.imgix.net/fd61eede3628522d57ac12a3b98112f8f6ceee2bb8ae3acc5fe129e10911d241?w=360&h=472&fit=min&auto=format
+"Chests of Cai Shen 2",chests-of-cai-shen-2.jpg,360,472,https://mediumrare.imgix.net/1c8a989068cc402e0477b3732d0c2caf6f97d1498cc731300180c1f73e75040a?w=360&h=472&fit=min&auto=format
+"Floating Dragon",floating-dragon.jpg,360,472,https://mediumrare.imgix.net/f8d4a6ac6d2e1d8c7dd7f7ea09f1ac2af84e55bf9f8313326221b8cda9184c97?w=360&h=472&fit=min&auto=format
+"Fortune of Giza",fortune-of-giza.jpg,360,472,https://mediumrare.imgix.net/6de4ad5cbac5be1dbb06c9bbee87bea4b08b1d30fa4715229cc421f972a65337?w=360&h=472&fit=min&auto=format
+"Big Bass Amazon Xtreme",big-bass-amazon-xtreme.jpg,360,472,https://mediumrare.imgix.net/796957e88a7a9d2531a60ccde77ed922ebb028c6e3d2d3a3eb683ca3e7dd9feb?w=360&h=472&fit=min&auto=format
+"Sky Bounty",sky-bounty.jpg,360,472,https://mediumrare.imgix.net/fbd7a2ba07635bf8178c91c910f92d85ffa4fd4320a52885e7f6d005e872b8a6?w=360&h=472&fit=min&auto=format
+"Zombie School Megaways",zombie-school-megaways.jpg,360,472,https://mediumrare.imgix.net/bd67700cf684d1daa75d808717669a10499b5524127bc7c67c2b0a1f3d5ea16c?w=360&h=472&fit=min&auto=format
+"Big Bass Mission Fishin'",big-bass-mission-fishin.jpg,360,472,https://mediumrare.imgix.net/6eba0e3bad33c83a24477372960f6abdcb7087e42a8fd35423beb4e083c33060?w=360&h=472&fit=min&auto=format
+"Christmas Big Bass Bonanza",christmas-big-bass-bonanza.jpg,360,472,https://mediumrare.imgix.net/09dafeb49bb8893af92978be45c903cf32f9b674ba07d7fb4976968e41f9915f?w=360&h=472&fit=min&auto=format
+"The Dog House Megaways",the-dog-house-megaways.jpg,360,472,https://mediumrare.imgix.net/6bd16708800d460b31c2ee7996f01a806496830fe5cff923daa003eeca3d0fd8?w=360&h=472&fit=min&auto=format
+"Big Bass Reel Repeat",big-bass-reel-repeat.jpg,360,472,https://mediumrare.imgix.net/7f65a3148997321a5a97908745726044e003b310bc0e52a397acef36b525dcbe?w=360&h=472&fit=min&auto=format
+"Bigger Bass Blizzard - Christmas Catch",bigger-bass-blizzard-christmas-catch.jpg,360,472,https://mediumrare.imgix.net/1139a921ef1767dab416f87e9f178271ff411f89523e61125f010cb66df857bc?w=360&h=472&fit=min&auto=format
+"Brick House Bonanza",brick-house-bonanza.jpg,360,472,https://mediumrare.imgix.net/d2514ab16b92a600d6d5103fbda10baa2f456dfdc19d0f8634c4f8c8de870c4f?w=360&h=472&fit=min&auto=format
+"Cleocatra",cleocatra.jpg,360,472,https://mediumrare.imgix.net/f8599efe28ee0205325f47b4776941b83273be25517af23d23f895b285d0f064?w=360&h=472&fit=min&auto=format
+"Fire Stampede Ultimate",fire-stampede-ultimate.jpg,360,472,https://mediumrare.imgix.net/fc0b657af08a24edb96769ce6a388359ed0f8574dbadfcd963f5223b992d7895?w=360&h=472&fit=min&auto=format
+"Big Bass Christmas Bash",big-bass-christmas-bash.jpg,360,472,https://mediumrare.imgix.net/81464023e40669234a26cff8ebc3e39f5ce435490be8002b43986dab3768113a?w=360&h=472&fit=min&auto=format
+"Great Ghosts!",great-ghosts.jpg,360,472,https://mediumrare.imgix.net/5632d46fab9bca65312ed3237ef45a909cbc82643be47fb4acee0cff4226d6f0?w=360&h=472&fit=min&auto=format
+"Big Bass Halloween 2",big-bass-halloween-2.jpg,360,472,https://mediumrare.imgix.net/47b80f887282c2e75f1d398eb58823e9ecf0abd0bcf72d25f8c38e64a33a577e?w=360&h=472&fit=min&auto=format
+"Gems Bonanza",gems-bonanza.jpg,360,472,https://mediumrare.imgix.net/58af3324803454557a6f58c076ffe9aaf319f16e5aa2b63d4d7858c1a3f59b8c?w=360&h=472&fit=min&auto=format
+"Super Gummy Strike",super-gummy-strike.jpg,360,472,https://mediumrare.imgix.net/1d599736ba8a969639ded76bbe88e370cc7b3adb396a4490359f18ec0a760f3e?w=360&h=472&fit=min&auto=format
+"Vampy Party",vampy-party.jpg,360,472,https://mediumrare.imgix.net/385705dc3bc1b5cff015de7acb337ccb6767a42e19ed12a5f70089b67361218d?w=360&h=472&fit=min&auto=format
+"Zeus vs Hades - Gods of War 250",zeus-vs-hades-gods-of-war-250.jpg,360,472,https://mediumrare.imgix.net/3fd6d9de7b4e08acca4d60f12839575b99afbe450f2c0aa1d2f1d8e0b84db974?w=360&h=472&fit=min&auto=format
+"Big Bass Trophy Catch",big-bass-trophy-catch.jpg,360,472,https://mediumrare.imgix.net/b8ff74d3afa7ebda46f1abb4f9208743bf2ff4df1ea23a1f619af0d3522d1ca3?w=360&h=472&fit=min&auto=format
+"Cosmic Cash",cosmic-cash.jpg,360,472,https://mediumrare.imgix.net/0b269cceb05d0f0a368c87fc7d6412c77574a0414f451cb9b9c550c0b1381a2d?w=360&h=472&fit=min&auto=format
+"Bigger Barn House Bonanza",bigger-barn-house-bonanza.jpg,360,472,https://mediumrare.imgix.net/4cb1ded0004d8bfc0133b38ad1ba357ecb1610eae73c8587cd09d5aa4becaf98?w=360&h=472&fit=min&auto=format
+"The Dog House Dice Show",the-dog-house-dice-show.jpg,360,472,https://mediumrare.imgix.net/05ad9197b799b8181405c7f7bd504a2521a295631018c27e0fcb9fd2100ee9ca?w=360&h=472&fit=min&auto=format
+"Fire Portals",fire-portals.jpg,360,472,https://mediumrare.imgix.net/5f66bd7f515175883d6d66e609e125fcf33f53508ea9a986841a822b63dbc9cf?w=360&h=472&fit=min&auto=format
+"Sweet Bonanza Xmas",sweet-bonanza-xmas.jpg,360,472,https://mediumrare.imgix.net/ddb67bc0b0608a8178ee81f18f8806f3853bff56000aa459c376e92aa790cb8f?w=360&h=472&fit=min&auto=format
+"3 Buzzing Wilds",3-buzzing-wilds.jpg,360,472,https://mediumrare.imgix.net/a8f4ae8daa91d9a794025d815e9734243916bf1744860e2d52ca104751a9abbc?w=360&h=472&fit=min&auto=format
+"Big Bass Football Bonanza",big-bass-football-bonanza.jpg,360,472,https://mediumrare.imgix.net/b3b25082906745c192159d6ceebedbfdf7b0d4bc38e240bf014228ca466e0bbb?w=360&h=472&fit=min&auto=format
+"Big Bass Raceday Repeat",big-bass-raceday-repeat.jpg,360,472,https://mediumrare.imgix.net/3ea127cc8674676aac581e6387908978f27f3f84676223be7cc3b442514ccf84?w=360&h=472&fit=min&auto=format
+"Hearts of Venus",hearts-of-venus.jpg,360,472,https://mediumrare.imgix.net/2fb07f6afd1505c99649688d20fd4a4a8a19ab71b008bd0a227fd2c10ec03cb7?w=360&h=472&fit=min&auto=format
+"Rock Vegas",rock-vegas.jpg,360,472,https://mediumrare.imgix.net/fa642b7a616b2f2e983bceffeb7a79493071384a7a5f24f96a79a43b85ed4aa6?w=360&h=472&fit=min&auto=format
+"Fire Stampede 2",fire-stampede-2.jpg,360,472,https://mediumrare.imgix.net/8db2a8fe1345b39a2a90e04cdcce1de795a3d3c4116a3b1a05c4485fbed88027?w=360&h=472&fit=min&auto=format
+"Fury of Anubis",fury-of-anubis.jpg,360,472,https://mediumrare.imgix.net/d3a463c081862ce0cfa75897b2b1243d78ef123000ad8ccdf643248579f14ba4?w=360&h=472&fit=min&auto=format
+"Joker's Jewels Hot",joker-s-jewels-hot.jpg,360,472,https://mediumrare.imgix.net/5befbb8621f3b529ef0a8576edc94bce337c013f8788e9fb71d8b552a0bd5f9e?w=360&h=472&fit=min&auto=format
+"Peppe's Pepperoni Pizza Plaza",peppe-s-pepperoni-pizza-plaza.jpg,360,472,https://mediumrare.imgix.net/a710fb4b159d4a3cf7c814d11b1ea07fe0a5ce4442122ea3ce102c96eb89dc5b?w=360&h=472&fit=min&auto=format
+"Starlight Princess",starlight-princess.jpg,360,472,https://mediumrare.imgix.net/efed5a3fd23d5a61db4a034fffb1b2df5614c121df71b4914eac0ba2c5a6ea57?w=360&h=472&fit=min&auto=format
+"Wild West Gold Megaways",wild-west-gold-megaways.jpg,360,472,https://mediumrare.imgix.net/a16bace509a7b8962e9cd0582832042f2f16c8280015f82894cd8db6a843d2b9?w=360&h=472&fit=min&auto=format
+"Fish Eye",fish-eye.jpg,360,472,https://mediumrare.imgix.net/4e8700d561e278d0610921e475b9620ce9195458ecc29e10b29a78c25ca98aec?w=360&h=472&fit=min&auto=format
+"Great Rhino Megaways",great-rhino-megaways.jpg,360,472,https://mediumrare.imgix.net/7681efb7a93a1213310cb40d18f06111d8809ce1becf6b77ef033ac83d2d1d24?w=360&h=472&fit=min&auto=format
+"Jelly Express",jelly-express.jpg,360,472,https://mediumrare.imgix.net/386ba23036ab82e5d095e833b11d5ffd765dc5ac64a0b18be64ff17081689dd0?w=360&h=472&fit=min&auto=format
+"Muertos Multiplier Megaways",muertos-multiplier-megaways.jpg,360,472,https://mediumrare.imgix.net/58d261aa0cb26e3647956d9cedb3d6efbd8bf9fc12d1498dda8ee053c64cc064?w=360&h=472&fit=min&auto=format
+"Book of the Fallen",book-of-the-fallen.jpg,360,472,https://mediumrare.imgix.net/300a9fc26efaaa63219e5fa1e610ea033a1a0de5132cebbdf11ba3ff8a35f2cc?w=360&h=472&fit=min&auto=format
+"Pirate's Pub",pirate-s-pub.jpg,360,472,https://mediumrare.imgix.net/767b3f62a9beb01c841faca3bb76846e7a4626efe2f8b67e195880d9bebe817f?w=360&h=472&fit=min&auto=format
+"Sugar Rush Xmas",sugar-rush-xmas.jpg,360,472,https://mediumrare.imgix.net/0e621a565ef413c50798294d014cb1e96550effe8ab5befcd1d6774d9dc20148?w=360&h=472&fit=min&auto=format
+"Big Bass Blast",big-bass-blast.jpg,360,472,https://mediumrare.imgix.net/ee636eef7388578b750480165a4dd52b8b748714d358ab0aa6b81448472e9c9b?w=360&h=472&fit=min&auto=format
+"Big Bass Christmas - Frozen Lake",big-bass-christmas-frozen-lake.jpg,204,267,https://mediumrare.imgix.net/01128ea95e8bdcbbac96eb0c6f97924cfb401f32f4156b2e3a9022d1c0def5b2?w=360&h=472&fit=min&auto=format
+"Mahjong Wins Super Scatter",mahjong-wins-super-scatter.jpg,360,472,https://mediumrare.imgix.net/1b79532a239bd087f3c3ea7d3fc831587d03ee765a07fcb4b1ca104a055544b2?w=360&h=472&fit=min&auto=format
+"Sleeping Dragon",sleeping-dragon.jpg,360,472,https://mediumrare.imgix.net/6dcf1405b1b25a951812be21b316d1401d1f904b8b7e05150c2dee04c3346251?w=360&h=472&fit=min&auto=format
+"Monster Superlanche",monster-superlanche.jpg,360,472,https://mediumrare.imgix.net/439e7de65b2cfd9d9c3285dfce9ad504f6d025316670f45f1be0870bdaaf2d5a?w=360&h=472&fit=min&auto=format
+"The Dog House Multihold",the-dog-house-multihold.jpg,360,472,https://mediumrare.imgix.net/4e9386ce838d3c59b1905529a13063930ea1bc11cc9bd29a5062dd7d47c383d1?w=360&h=472&fit=min&auto=format
+"Gates of Hades",gates-of-hades.jpg,360,472,https://mediumrare.imgix.net/60206bb76f8d15dd2975ea5d5c908194c66a1183683e6988c83027ada9befbef?w=360&h=472&fit=min&auto=format
+"7 Clovers of Fortune",7-clovers-of-fortune.jpg,360,472,https://mediumrare.imgix.net/0a5613eebb8aaba6ad298a129fb8cd32271e3fac1ff308f24aa4957e3e093278?w=360&h=472&fit=min&auto=format
+"Angel vs Sinner",angel-vs-sinner.jpg,360,472,https://mediumrare.imgix.net/c53db31ed6d3fef176df820476615c673184ada4eddc3506442e7b779a1258e3?w=360&h=472&fit=min&auto=format
+"PIZZA! PIZZA? PIZZA!",pizza-pizza-pizza.jpg,360,472,https://mediumrare.imgix.net/b1599aa0b84487625b7ae717369210668a1d866b95ec9fccfa325fb9782a213e?w=360&h=472&fit=min&auto=format
+"The Big Dog House",the-big-dog-house.jpg,360,472,https://mediumrare.imgix.net/e7d9c69afc43a5ec663bfae87e17a02aa7e5954edbbfd1687e7cdfb049e3ea07?w=360&h=472&fit=min&auto=format
+"Congo Cash",congo-cash.jpg,360,472,https://mediumrare.imgix.net/e11c1c21daa857e502d301e37b85ab1bd8d8b4a7a4f08cfce0c741691a7c29ab?w=360&h=472&fit=min&auto=format
+"Gates of Olympus 1000 Dice",gates-of-olympus-1000-dice.jpg,360,472,https://mediumrare.imgix.net/c0343caad3435cc83db2e072a20e450fa3502a1b5d45d67bba2adbd85d797d45?w=360&h=472&fit=min&auto=format
+"Rat Royale",rat-royale.jpg,360,472,https://mediumrare.imgix.net/aba670b2c4887e8ee55a6cb7c1a06a386d79fe49e3a32a140b68861cdf01a9c0?w=360&h=472&fit=min&auto=format
+"Super Tiki Strike",super-tiki-strike.jpg,204,267,https://mediumrare.imgix.net/f10b2b1e38ecea0dac1a4a93e400f67a1b62db82cb9b1d06e0bea9f67995da56?w=360&h=472&fit=min&auto=format
+"The Dog House - Dog or Alive",the-dog-house-dog-or-alive.jpg,360,472,https://mediumrare.imgix.net/938221a5e413a428d8b0ba3a0d8394ee38db8f90ed49bf584c1956deadc5461d?w=360&h=472&fit=min&auto=format
+"Lucky's Wild Pub 2",lucky-s-wild-pub-2.jpg,360,472,https://mediumrare.imgix.net/0d828049dd0f79bc64b53dd5346f33c8ee8c891ef09a117ab69eaa785851d6b2?w=360&h=472&fit=min&auto=format
+"Mahjong Wins Triple Pot",mahjong-wins-triple-pot.jpg,360,472,https://mediumrare.imgix.net/8500df915b278b4e1745aafc6cbe71d892a78a2d632be224225684b01bef371a?w=360&h=472&fit=min&auto=format
+"Big Bass Dice",big-bass-dice.jpg,360,472,https://mediumrare.imgix.net/3b1de17d4f265d5ca39a883d651bd70a6b0a6859203e519d2f67e2598a4704aa?w=360&h=472&fit=min&auto=format
+"Chilli Heat",chilli-heat.jpg,360,472,https://mediumrare.imgix.net/33ea7f514199523216fbb025355f8fdbb0a29bae063e751655e64c99743f16ac?w=360&h=472&fit=min&auto=format
+"Big Bass Xmas Xtreme",big-bass-xmas-xtreme.jpg,360,472,https://mediumrare.imgix.net/e368e3376b987897e6efa70518ce562b65b940eee11839dfdb80192b4ad8df3c?w=360&h=472&fit=min&auto=format
+"CULT.",cult.jpg,360,472,https://mediumrare.imgix.net/4fa578acd157a142851d4b713138e63016c6081514373954fba712b99e08dab3?w=360&h=472&fit=min&auto=format
+"Zombie Carnival",zombie-carnival.jpg,360,472,https://mediumrare.imgix.net/bbd5d7b9543ba2d37489c79ce6d5687bab314a13cc88da8cc35281140a293a7c?w=360&h=472&fit=min&auto=format
+"Big Bass - Hold & Spinner",big-bass-hold-spinner.jpg,360,472,https://mediumrare.imgix.net/e15d5cff1437aa646156c0b1629eafe2a0c9c2210b8d04c32405e2eceafb8df9?w=360&h=472&fit=min&auto=format
+"Chests of Cai Shen",chests-of-cai-shen.jpg,360,472,https://mediumrare.imgix.net/e9fe64436c485ca471ccb7cf8362ef8f872580c3bcacaaeb253ee3007c115b51?w=360&h=472&fit=min&auto=format
+"Wonders of Aztec",wonders-of-aztec.jpg,360,472,https://mediumrare.imgix.net/999819f16f291ee7ce80bd3aa2d70ec7fb4bcbd859df3a895b61bfaff0b9e07a?w=360&h=472&fit=min&auto=format
+"Book of Tut",book-of-tut.jpg,360,472,https://mediumrare.imgix.net/c1379f9f3c072a3335d2b8ef6ca5dcd94ed51acd30c255ada295b4a513e71c63?w=360&h=472&fit=min&auto=format
+"Buffalo King",buffalo-king.jpg,360,472,https://mediumrare.imgix.net/25cd1adef282051892c89c8a3f46c00975e5452f776c49bf8f8e9bdce81c8483?w=360&h=472&fit=min&auto=format
+"Wild West Duels",wild-west-duels.jpg,360,472,https://mediumrare.imgix.net/62b2449f9a8577d4908ca4c2478e8db46ce6ef3f306eaa4497d607e0db853d5b?w=360&h=472&fit=min&auto=format
+"The Wild Gang",the-wild-gang.jpg,360,472,https://mediumrare.imgix.net/8f04ca13ae6c3cfb6e9cbcb2272982686c1dd0b26a897b0ad7339e590a8fae89?w=360&h=472&fit=min&auto=format
+"Tiny Toads",tiny-toads.jpg,360,472,https://mediumrare.imgix.net/799cfcee92e88672a30cb0c75f8a73431977e6f262009650145da6bca077d6af?w=360&h=472&fit=min&auto=format
+"Power of Merlin Megaways",power-of-merlin-megaways.jpg,360,472,https://mediumrare.imgix.net/513989e83e5078b3a03a8d1d3c71b5ac8dfdc8a064430adc3e34eca732733b8e?w=360&h=472&fit=min&auto=format
+"Big Bass Return to the Races",big-bass-return-to-the-races.jpg,360,472,https://mediumrare.imgix.net/2a34f19ea9f4f8e0b159225f79d0d4119b3d499d04295bc02f0fe78b117ddbd1?w=360&h=472&fit=min&auto=format
+"Extra Juicy",extra-juicy.jpg,360,472,https://mediumrare.imgix.net/87051c8141d370eab2315615ce95f635fc3131721e510d43488017f2563953e4?w=360&h=472&fit=min&auto=format
+"Master Joker",master-joker.jpg,360,472,https://mediumrare.imgix.net/eb2f0679df27b289fbc2cfaa214a1cfc14df34217929b00d217581ce24fef5e8?w=360&h=472&fit=min&auto=format
+"The Dog House - Muttley Crew",the-dog-house-muttley-crew.jpg,360,472,https://mediumrare.imgix.net/01eb804c6f183be20037c9c767a8552f5c01a31351017717d7a49de4b4d43844?w=360&h=472&fit=min&auto=format
+"Wisdom of Athena 1000 Xmas",wisdom-of-athena-1000-xmas.jpg,204,267,https://mediumrare.imgix.net/8db52b5d607989a10d73eff0c7d487e1a0e783b7dfe63c67162177c581ffb023?w=360&h=472&fit=min&auto=format
+"Mining Rush",mining-rush.jpg,360,472,https://mediumrare.imgix.net/fcf877eff4dde181f8c38fd6966613345107eea97b00abc37cb31dc1d336e325?w=360&h=472&fit=min&auto=format
+"Sleeping Dragon Ultra Dark",sleeping-dragon-ultra-dark.jpg,360,472,https://mediumrare.imgix.net/213b61d85d98cafc9941e8a4cc75065ad4c423d7b48d9377f44c0664a531ffe1?w=360&h=472&fit=min&auto=format
+"The Dog House - Royal Hunt",the-dog-house-royal-hunt.jpg,360,472,https://mediumrare.imgix.net/e187c138d6cf838bfd7aac66124398b9d967f17c6c000244d3ed81e434d4ea0f?w=360&h=472&fit=min&auto=format
+"Extra Juicy Megaways",extra-juicy-megaways.jpg,360,472,https://mediumrare.imgix.net/a20f716cfb01146e1877ba8bce8b831b4aac00d5d16f64b5fa2aedc981c4ec0a?w=360&h=472&fit=min&auto=format
+"Mustang Gold",mustang-gold.jpg,360,472,https://mediumrare.imgix.net/9c0e05075d90b8df3ce3c6b0f4d51d40c4949f26d460add263a161a609f6c2e2?w=360&h=472&fit=min&auto=format
+"Power of Thor Megaways",power-of-thor-megaways.jpg,360,472,https://mediumrare.imgix.net/7beb8d9a3555d964d702dc7c466dbb8970db965854a7ef1863591a5fa030e91c?w=360&h=472&fit=min&auto=format
+"Wolf Gold",wolf-gold.jpg,360,472,https://mediumrare.imgix.net/ea192bb48e65e705718ae5d1bf70e0df9a550625728e57a36e0c26f451198525?w=360&h=472&fit=min&auto=format
+"Hand of Midas 2",hand-of-midas-2.jpg,360,472,https://mediumrare.imgix.net/3ae0cb707dd63ad5ff0618d8a38ddf31cc74c371fc35a3644d0122b116252504?w=360&h=472&fit=min&auto=format
+"Starlight Christmas",starlight-christmas.jpg,360,472,https://mediumrare.imgix.net/95ae43b4eac22162e71ece7b111c5a45ae1c93bdfdeb141d3ccea0bc6652c0ef?w=360&h=472&fit=min&auto=format
+"Wild Wild Riches Megaways",wild-wild-riches-megaways.jpg,360,472,https://mediumrare.imgix.net/c625d63c463c9a7f4e2913a31e2ee959867986fbac0808968ccb4d930025d9ad?w=360&h=472&fit=min&auto=format
+"Big Bass Bonanza 3 Reeler",big-bass-bonanza-3-reeler.jpg,360,472,https://mediumrare.imgix.net/5f908029d31d48432f5710ee780546d3e8058120ab7ab6a03773e8e48416b465?w=360&h=472&fit=min&auto=format
+"Wild Wild Riches",wild-wild-riches.jpg,360,472,https://mediumrare.imgix.net/78460943fb9a9ceb88066262c9d5a208212383b6a8b530ea7a2a302257e8bfa2?w=360&h=472&fit=min&auto=format
+"Santa's Wonderland",santa-s-wonderland.jpg,360,472,https://mediumrare.imgix.net/9f7f589856fb5b1422263d9f46963d74c379e63c0d0ca01e3cc2a9466f148f70?w=360&h=472&fit=min&auto=format
+"John Hunter and the Tomb of the Scarab Queen",john-hunter-and-the-tomb-of-the-scarab-queen.jpg,360,472,https://mediumrare.imgix.net/18478b4834c3d175288d102ef916de2603228cade8ab2422525b42277722d655?w=360&h=472&fit=min&auto=format
+"Big Bass Day at the Races",big-bass-day-at-the-races.jpg,360,472,https://mediumrare.imgix.net/a836b8ad79c35404df44ee054a1762dfa4b4de0006ca93c114951c9f12e125ad?w=360&h=472&fit=min&auto=format
+"Big Juan",big-juan.jpg,360,472,https://mediumrare.imgix.net/e40a187d3ba02e4df80551c043f51e3d58954d967ffd54352176f3ab9b162b70?w=360&h=472&fit=min&auto=format
+"Death Dominion",death-dominion.jpg,360,472,https://mediumrare.imgix.net/fcf21b430c168c985b41f217d5db3476ce728fabdc643f3fd12420486b6bf2ab?w=360&h=472&fit=min&auto=format
+"Floating Dragon Wild Horses",floating-dragon-wild-horses.jpg,360,472,https://mediumrare.imgix.net/cf432fd2e3623f0e490a06e4d1095e54ba629e3956227e516edae25ad01244f1?w=360&h=472&fit=min&auto=format
+"Bandit Megaways",bandit-megaways.jpg,360,472,https://mediumrare.imgix.net/a7be649b28536568effa8596f9e9269e776b10b580ea50d846967fad1254bbc7?w=360&h=472&fit=min&auto=format
+"Dragon Hero",dragon-hero.jpg,360,472,https://mediumrare.imgix.net/26802168dc5361febe0325f36cfc6af8a4b8535c8d6181961d4d6d948d4f5ee0?w=360&h=472&fit=min&auto=format
+"Sweet Bonanza Dice",sweet-bonanza-dice.jpg,360,472,https://mediumrare.imgix.net/ba16b2ed6dbdd81eb106fc0962ac9cccf34f7bcc225ba60fd85a2b0e15e64008?w=360&h=472&fit=min&auto=format
+"Fruit Party 2",fruit-party-2.jpg,360,472,https://mediumrare.imgix.net/c7c8b9f3bf8845383901014c4472e787e6f11378cf69534bc5b59aaa8f7705ab?w=360&h=472&fit=min&auto=format
+"The Hand of Midas",the-hand-of-midas.jpg,360,472,https://mediumrare.imgix.net/2bc8146d5627e3b0e02bb80d7ab0d753941ad997e30412a7e5807a567a1c821a?w=360&h=472&fit=min&auto=format
+"Triple Pot Diamond",triple-pot-diamond.jpg,360,472,https://mediumrare.imgix.net/c826b0b3e8c5d74de1a4bded38d0ac6b793e02869aa8eeabf7980b374b868d38?w=360&h=472&fit=min&auto=format
+"Spirit of Adventure",spirit-of-adventure.jpg,360,472,https://mediumrare.imgix.net/371f554a3baed1059d5b40c39e1c7c69ff49baa71242d9e0cfa82969cb734c38?w=360&h=472&fit=min&auto=format
+"Hell Butcher",hell-butcher.jpg,360,472,https://mediumrare.imgix.net/efb193ae6852298ca74a462fb636304ad39eee44bce6c243a86f8ea68bcb156a?w=360&h=472&fit=min&auto=format
+"Moon Rush",moon-rush.jpg,360,472,https://mediumrare.imgix.net/9584ceca29ce13e1685ee2406f0ddfa6830d25bcc1c1b7a597c3dda8efb1b34f?w=360&h=472&fit=min&auto=format
+"Fire Stampede",fire-stampede.jpg,360,472,https://mediumrare.imgix.net/cd5b40f2c847a8c7622e9b2db5ac9b0565e991236c6e3a14d08482d5bf431f8b?w=360&h=472&fit=min&auto=format
+"Forever Split Megaways",forever-split-megaways.jpg,360,472,https://mediumrare.imgix.net/9af4b6e43b3baa6c3b872d1b20090e9384ab7f3b3a28d4dfcbe7f9ed5563bbd3?w=360&h=472&fit=min&auto=format
+"Juicy Fruits Multihold",juicy-fruits-multihold.jpg,360,472,https://mediumrare.imgix.net/31704ea553666f0d08ef9edffe97996f367f38aa5bc32b280f305c2e25f96d57?w=360&h=472&fit=min&auto=format
+"Cheetah Wild",cheetah-wild.jpg,360,472,https://mediumrare.imgix.net/01db2bc65dfac2f8c3d8123d9a16bd51b3d2287b7e0c21f2ce552c5ae6ba63a9?w=360&h=472&fit=min&auto=format
+"Lobster House",lobster-house.jpg,360,472,https://mediumrare.imgix.net/a76e0180872d7b00118f59fc44169fd24ce76f371efc6b71a03c406b65256063?w=360&h=472&fit=min&auto=format
+"Mummy's Jewels",mummy-s-jewels.jpg,360,472,https://mediumrare.imgix.net/308ef68e4faa11eeea79ebe1a428a6b8e51681e4a5393a1ecfe3ba5db5adf196?w=360&h=472&fit=min&auto=format
+"Money Stacks",money-stacks.jpg,360,472,https://mediumrare.imgix.net/42942c7ab5cce071cab885bab42229dcca2bc50f516277c04c002beca8a44c08?w=360&h=472&fit=min&auto=format
+"Twilight Princess",twilight-princess.jpg,360,472,https://mediumrare.imgix.net/64436402c8e5d5331d04d615796f0f74da0260f52cef74e61acfac0378466309?w=360&h=472&fit=min&auto=format
+"Samurai Code",samurai-code.jpg,360,472,https://mediumrare.imgix.net/1e088e0657cdc6cbf11cb32aa404acbb94c7fba35fe40ef1de41b5008591a708?w=360&h=472&fit=min&auto=format
+"Wild West Gold Blazing Bounty",wild-west-gold-blazing-bounty.jpg,360,472,https://mediumrare.imgix.net/cdaad008019e4fafa1ce7bc82181c2d07c4d22a67f892e9d493ce3acb55179d2?w=360&h=472&fit=min&auto=format
+"Release the Kraken",release-the-kraken.jpg,360,472,https://mediumrare.imgix.net/ac412a2a2093de58fec151a343e349a95d9218569e1940ed7a66c467fe78f81a?w=360&h=472&fit=min&auto=format
+"Sugar Rush Dice",sugar-rush-dice.jpg,360,472,https://mediumrare.imgix.net/1dfa0e762f74219c3cdfe56428fed3130191f4ef289d1e7f5b116023a6d1e450?w=360&h=472&fit=min&auto=format
+"Witch Heart Megaways",witch-heart-megaways.jpg,360,472,https://mediumrare.imgix.net/84b9e198ab9afe0b9624816c00d6ebebb7df1cf348bc26ed055235bd9ee1ab07?w=360&h=472&fit=min&auto=format
+"Big Bass Bonanza - Keeping it Reel",big-bass-bonanza-keeping-it-reel.jpg,360,472,https://mediumrare.imgix.net/b0d2fd3a9c0ae0f2efcf134460730c59612d63e41f8c098e6d0d549a8a54fddd?w=360&h=472&fit=min&auto=format
+"Ra vs Osiris",ra-vs-osiris.jpg,360,472,https://mediumrare.imgix.net/14d2a12e08822f926e6d0640f6c754b52ffc3051fa46178eadf78f3dba26d8e8?w=360&h=472&fit=min&auto=format
+"Snow Party",snow-party.jpg,360,472,https://mediumrare.imgix.net/172e42fc4b5185ed6e360696f1aaae793cc01a7cf2a9f6591418824664843fe8?w=360&h=472&fit=min&auto=format
+"Excalibur Unleashed",excalibur-unleashed.jpg,360,472,https://mediumrare.imgix.net/d7d788896b6ca39b0814045c7a12f53be4aaffa9e64ba777e990ecbecc30832a?w=360&h=472&fit=min&auto=format
+"Joker's Jewels Hold & Spin",joker-s-jewels-hold-spin.jpg,204,267,https://mediumrare.imgix.net/387a49a751461164c24a6df7f4251778f913a0e38be2bda5d2b1d4778c903da4?w=360&h=472&fit=min&auto=format
+"Infective Wild",infective-wild.jpg,360,472,https://mediumrare.imgix.net/36c6348a66180f5543780e16cd9a5561da0bd0c9f85160bb8c8c69afed0cbd9a?w=360&h=472&fit=min&auto=format
+"Congo Cash XL",congo-cash-xl.jpg,360,472,https://mediumrare.imgix.net/0113b341ada97e0600726cc549cf2add81c7ac97fbd6cf0bbccf8c3553447143?w=360&h=472&fit=min&auto=format
+"Wisdom of Athena",wisdom-of-athena.jpg,360,472,https://mediumrare.imgix.net/2e82458f31fbf81b90f62da7eb27bf63fd50701aeff11aae0e959b9d2a59a135?w=360&h=472&fit=min&auto=format
+"3 Magic Eggs",3-magic-eggs.jpg,204,267,https://mediumrare.imgix.net/0fff27ef2de714838b3444c63c0927be1a5be65e1256bb6344f3b010d036a772?w=360&h=472&fit=min&auto=format
+"5 Frozen Charms Megaways",5-frozen-charms-megaways.jpg,360,472,https://mediumrare.imgix.net/429f27deb66484417b780a2b5f10176267e586c1cf0de7f87e9db915a15a1dbd?w=360&h=472&fit=min&auto=format
+"Aztec Gems",aztec-gems.jpg,360,472,https://mediumrare.imgix.net/50823c8863f61bdc3465d578bb4b6bf50deb0fe240c645955b95aa87823b1d4c?w=360&h=472&fit=min&auto=format
+"Queenie",queenie.jpg,360,472,https://mediumrare.imgix.net/887abb700bb3e9377837fa8eb89a9e6dcc6d7bb95429d7f63757f0aa57fbf8d1?w=360&h=472&fit=min&auto=format
+"Rabbit Garden",rabbit-garden.jpg,360,472,https://mediumrare.imgix.net/dea4384049122a56cc24b7565dc9c8853807f5bb5f08f85110d8f12a8f21af50?w=360&h=472&fit=min&auto=format
+"Candy Blitz",candy-blitz.jpg,360,472,https://mediumrare.imgix.net/f789cb7715a0b446b57d5722010c98e15d3f0f4cdefcdb1a0a20c68ecd7fb487?w=360&h=472&fit=min&auto=format
+"Black Bull",black-bull.jpg,360,472,https://mediumrare.imgix.net/08785ae94c55d79be238db5808104afadadbc0767e1418ca0c0e6cd1fed4292b?w=360&h=472&fit=min&auto=format
+"Bow of Artemis",bow-of-artemis.jpg,360,472,https://mediumrare.imgix.net/facbe9d341f6c13c6d9ec40210ed5ac17e0afe1b87942561e2fb099c720970c9?w=360&h=472&fit=min&auto=format
+"Christmas Carol Megaways",christmas-carol-megaways.jpg,360,472,https://mediumrare.imgix.net/b0fea5f5e52bf3941046713022f7047a6d9898d07c4162cbf066c52ce16bf48e?w=360&h=472&fit=min&auto=format
+"Freya 1000",freya-1000.jpg,360,472,https://mediumrare.imgix.net/e9d2115d01c545afa8c4a014bad5fa645e3a616d3f760c2aae37176057446f8c?w=360&h=472&fit=min&auto=format
+"Heart of Rio",heart-of-rio.jpg,360,472,https://mediumrare.imgix.net/b6f26d56cfda709472a4acc5b17d549305c5fc205fa940839fa3f3c2cb6ce724?w=360&h=472&fit=min&auto=format
+"5 Lions Gold",5-lions-gold.jpg,360,472,https://mediumrare.imgix.net/a0f2b44f599c244387923b415f1d73cdb8f20c44b69d3c6c4340fe432e953883?w=360&h=472&fit=min&auto=format
+"Jade Legends",jade-legends.jpg,360,472,https://mediumrare.imgix.net/7a22d70296fc71daef1a5f198cf09bbd56779801fc8d961c9bc9a18a67e8f25e?w=360&h=472&fit=min&auto=format
+"Jewel Rush",jewel-rush.jpg,360,472,https://mediumrare.imgix.net/7fb4fbfab2d369897dce91e13c3c3b1a493f9d7037b8a13a11cac9138d68c339?w=360&h=472&fit=min&auto=format
+"Deep Sea Frenzy",deep-sea-frenzy.jpg,360,472,https://mediumrare.imgix.net/be379fe5d9c5d1df0692a27825e077011cacb222122c2ea13db9df8a81bdf8f6?w=360&h=472&fit=min&auto=format
+"Sticky Bees",sticky-bees.jpg,360,472,https://mediumrare.imgix.net/bb4c69864aabda18ae6016f781ff86e2bd6f4a7a20455c70e459bd89d258f15b?w=360&h=472&fit=min&auto=format
+"Zeus vs Typhon",zeus-vs-typhon.jpg,360,472,https://mediumrare.imgix.net/3086bb09599b80c8b3a002e633a9071191d128627b2bec822fe3f56da0ca402d?w=360&h=472&fit=min&auto=format
+"6 Jokers",6-jokers.jpg,360,472,https://mediumrare.imgix.net/55bf00d30d120bdd58fb9a195327b19323b193a350f395dc928d56fe5b7ba557?w=360&h=472&fit=min&auto=format
+"Mammoth Gold Megaways",mammoth-gold-megaways.jpg,360,472,https://mediumrare.imgix.net/aaacc8699dca7545dad680689a41b90b814936c9adfbf32421d1b3962b1058bf?w=360&h=472&fit=min&auto=format
+"5 Lions Reborn",5-lions-reborn.jpg,360,472,https://mediumrare.imgix.net/70e9c782f44a014bae83c385d036a525760f94ac0b497634ae75e43b77655ef3?w=360&h=472&fit=min&auto=format
+"Big Bass Bonanza Megaways",big-bass-bonanza-megaways.jpg,360,472,https://mediumrare.imgix.net/40ba877edcd774d87a03c149ad56b6e29139fc083c41c2da0b2a33af7dec9e6e?w=360&h=472&fit=min&auto=format
+"Madame Destiny",madame-destiny.jpg,360,472,https://mediumrare.imgix.net/145b63acc54a8f524de835a09ba9b973dca7c9a84734df1147dce9d4badbdd75?w=360&h=472&fit=min&auto=format
+"Floating Dragon - Dragon Boat Festival",floating-dragon-dragon-boat-festival.jpg,360,472,https://mediumrare.imgix.net/3694ffa3ba9504ce65915980ea5eff166fd42234b4b46691a33c78ea6e444a4b?w=360&h=472&fit=min&auto=format
+"Heart of Cleopatra",heart-of-cleopatra.jpg,360,472,https://mediumrare.imgix.net/9809d4a282365bb9c5c5e539329a284277320d149f83bec9e1885e93f71efd86?w=360&h=472&fit=min&auto=format
+"Bloody Dawn",bloody-dawn.jpg,204,267,https://mediumrare.imgix.net/4c44a015bf9a0aa882a75632ee36852733d67cb56eb49d41f5ccf6d03a16d923?w=360&h=472&fit=min&auto=format
+"Phoenix Forge",phoenix-forge.jpg,360,472,https://mediumrare.imgix.net/6d99f893ceddccf1bcadb6e6fd15251ddc6fc2179783b3c26490b5f34223be47?w=360&h=472&fit=min&auto=format
+"Sweet Craze",sweet-craze.jpg,204,267,https://mediumrare.imgix.net/b8508d8fa3a61a3efe85396c05a7521a3c6de0067a571d31b548f0cc6873ac9e?w=360&h=472&fit=min&auto=format
+"Gates of Olympus Dice",gates-of-olympus-dice.jpg,360,472,https://mediumrare.imgix.net/a3ca73b40fcbd0352a673b89770b5b8fb4d16c32dae783a32fcfb3f5128ab533?w=360&h=472&fit=min&auto=format
+"Viking Forge",viking-forge.jpg,360,472,https://mediumrare.imgix.net/597abac913168806b86e54b83a99bdeb12d74fbb4cd787575803dbd46ded8b96?w=360&h=472&fit=min&auto=format
+"Wild Hop & Drop",wild-hop-drop.jpg,360,472,https://mediumrare.imgix.net/641d4956cbf3e743a5698b0d9938e85c91c849b5a3161bc93b7806f33619b455?w=360&h=472&fit=min&auto=format
+"Big Bass Bonanza - Reel Action",big-bass-bonanza-reel-action.jpg,360,472,https://mediumrare.imgix.net/4a7710690658365b0f2db80ce7423bd5969eed90ea15fd1ce9222891ec4e67d7?w=360&h=472&fit=min&auto=format
+"Golden Retriever",golden-retriever.jpg,360,472,https://mediumrare.imgix.net/88cfc056b6bed1b22b232077d78b17e9237b3442af16a5fbf2d49b58559c65fb?w=360&h=472&fit=min&auto=format
+"Might of Ra",might-of-ra.jpg,360,472,https://mediumrare.imgix.net/f456d6e5f32f49991c6d4a55a35511466be80fd9277e43c19d495b62049eac5d?w=360&h=472&fit=min&auto=format
+"Fiesta Fortune",fiesta-fortune.jpg,360,472,https://mediumrare.imgix.net/2b95ddcc4f3b4b70dabf6dc4adb453b7057a9ad4710af57a4b2fbdc621264a88?w=360&h=472&fit=min&auto=format
+"Fortunes of Aztec",fortunes-of-aztec.jpg,360,472,https://mediumrare.imgix.net/655c73842f2998473f10b77241222353fe223593b809fef2e5b32d3e75d91d30?w=360&h=472&fit=min&auto=format
+"Helios: Triple Sun",helios-triple-sun.jpg,360,472,https://mediumrare.imgix.net/0cdd01815b61b400da1344d7897a3fb55794e25338331788ade5888c77a6fc8f?w=360&h=472&fit=min&auto=format
+"Magician's Secrets",magician-s-secrets.jpg,360,472,https://mediumrare.imgix.net/b9248b8af7262a55b7829dfe19d2e00a5a53cc40f67670366c50ec474287821b?w=360&h=472&fit=min&auto=format
+"Wild Wild Riches Returns",wild-wild-riches-returns.jpg,360,472,https://mediumrare.imgix.net/362ca07dd92ed83dba59755f47218e1ecc0455b128f5ba324f179dd199814d76?w=360&h=472&fit=min&auto=format
+"Candy Blitz Bombs",candy-blitz-bombs.jpg,360,472,https://mediumrare.imgix.net/cfebef2374ce1a2ba5d359fbe4a1c9b960a76e5c4d428b5d8f061b6bda7cca0e?w=360&h=472&fit=min&auto=format
+"Floating Dragon - Year of the Snake",floating-dragon-year-of-the-snake.jpg,360,472,https://mediumrare.imgix.net/c5ca010a7f88ff1fe307956e02f7dc373510dcc885c42d10f31fc86c63eb55ea?w=360&h=472&fit=min&auto=format
+"Candy Rush",candy-rush.jpg,360,472,https://mediumrare.imgix.net/22ab5fe2ed0a67f680de9bb58054389bf4203534e5706e6847c099aaa8d2dda3?w=360&h=472&fit=min&auto=format
+"Cash Patrol",cash-patrol.jpg,360,472,https://mediumrare.imgix.net/1f1323f48182eec5a06c47f020fcecb651f6e628bd6e291a86258590694b0c94?w=360&h=472&fit=min&auto=format
+"Release the Kraken Megaways",release-the-kraken-megaways.jpg,360,472,https://mediumrare.imgix.net/22c7089ede1396ccc0b6f27278305abfa9ece7de30819593637bc095a3956a2b?w=360&h=472&fit=min&auto=format
+"Hot Tuna",hot-tuna.jpg,204,267,https://mediumrare.imgix.net/39fc1060925d2b4d60c1ff76a28d726ffd0a1ded4bd46dd5a033ea2a4d1da598?w=360&h=472&fit=min&auto=format
+"Starz Megaways",starz-megaways.jpg,360,472,https://mediumrare.imgix.net/e8388b8a5168544b87ed99fb18210d653c3c0d789fb6c38fe14b4c674823c379?w=360&h=472&fit=min&auto=format
+"Barn Festival",barn-festival.jpg,360,472,https://mediumrare.imgix.net/106cc105dd714484de30a9795e23324d417fc1aa9b60648903549be1a5bb1a9e?w=360&h=472&fit=min&auto=format
+"Book of Golden Sands",book-of-golden-sands.jpg,360,472,https://mediumrare.imgix.net/0949eec37345c99b888a03b5afed2ae9d732b62a2b57762a16ec04dcfda3666b?w=360&h=472&fit=min&auto=format
+"Wild Wild Joker",wild-wild-joker.jpg,360,472,https://mediumrare.imgix.net/ea96f6e678bfadaa7b91b5f424037d358c467385240bd6b9ed5a208202c9c1eb?w=360&h=472&fit=min&auto=format
+"Joker's Revenge",joker-s-revenge.jpg,360,472,https://mediumrare.imgix.net/853781754826807ac973664b2dc93585080850bab5ea2e61b82008016239bee2?w=360&h=472&fit=min&auto=format
+"Mochimon",mochimon.jpg,360,472,https://mediumrare.imgix.net/efc86fd7d03d7786eb56ab5703a48d2e5b84dbf2f18bc981dae5b93e84e4e588?w=360&h=472&fit=min&auto=format
+"Release the Kraken 2",release-the-kraken-2.jpg,360,472,https://mediumrare.imgix.net/7731cb1b65fc95d9eee953b8b40d0a99b49a0ccf395b026a58846cced83028d7?w=360&h=472&fit=min&auto=format
+"Eternal Diamonds",eternal-diamonds.jpg,360,472,https://mediumrare.imgix.net/d20bb636a423b252d9a037ace3c837541d97f082f950d06cda6cd1c5b193cc85?w=360&h=472&fit=min&auto=format
+"Greedy Wolf",greedy-wolf.jpg,360,472,https://mediumrare.imgix.net/0104004e1f769a1974feaeec500f12c99d1ab056f94b437e4d360eb6a87bfda0?w=360&h=472&fit=min&auto=format
+"Fury of Odin Megaways",fury-of-odin-megaways.jpg,360,472,https://mediumrare.imgix.net/e27b747aa5a64ab5824d90aaf639d5e281a67c1cb8d7aa8bdcf8a05033659625?w=360&h=472&fit=min&auto=format
+"Rolling in Treasures",rolling-in-treasures.jpg,204,267,https://mediumrare.imgix.net/cc7c1b203a7db96c5b3febcbef405c2357b894d79c351b47ff7936c5d5c6d5fc?w=360&h=472&fit=min&auto=format
+"Down the Rails",down-the-rails.jpg,360,472,https://mediumrare.imgix.net/88d127f9829aa7336afc1d00ef0513e7c48d412ef33138b73f7a7746314375bd?w=360&h=472&fit=min&auto=format
+"Chicken Drop",chicken-drop.jpg,360,472,https://mediumrare.imgix.net/c7ee6ffaa8a2a4a85b0eed3e9cecdb68eec7a339fd87ea9fc8cf35c74855da56?w=360&h=472&fit=min&auto=format
+"Curse of the Werewolf Megaways",curse-of-the-werewolf-megaways.jpg,360,472,https://mediumrare.imgix.net/ecee42a17c415c2d7059e8b7d97e9569ac0b57aeda39fa9657be7f01644ca6aa?w=360&h=472&fit=min&auto=format
+"Santa's Great Gifts",santa-s-great-gifts.jpg,360,472,https://mediumrare.imgix.net/059801928fb15208481e42ce20552a5af910199d2a25021ab586af47dc06eed9?w=360&h=472&fit=min&auto=format
+"Steamin' Reels",steamin-reels.jpg,360,472,https://mediumrare.imgix.net/8850e735ecf991dd44ed1ec464c29cd538093f4095606d549af946d6da46906b?w=360&h=472&fit=min&auto=format
+"Wild Wildebeest Wins",wild-wildebeest-wins.jpg,360,472,https://mediumrare.imgix.net/c01eab4e7d5184de39f6321660cb1e31a8cb6584feec99b84c195568003ce056?w=360&h=472&fit=min&auto=format
+"5 Lions",5-lions.jpg,360,472,https://mediumrare.imgix.net/fac036759cf8bbcf867ae12d1447c7bc90fed881b1f4a2f4dc23be6ca787b526?w=360&h=472&fit=min&auto=format
+"Big Bass Hold & Spinner Megaways",big-bass-hold-spinner-megaways.jpg,360,472,https://mediumrare.imgix.net/848f90bf0cf739ffc7dda5156b235d4a84947a408961eccc6be8b925dc3679ad?w=360&h=472&fit=min&auto=format
+"Dragon Pots Megaways",dragon-pots-megaways.jpg,360,472,https://mediumrare.imgix.net/8760217114bcba65dda2d6619f3b27397778c3b7820bc19c5309c7714f42badd?w=360&h=472&fit=min&auto=format
+"Buffalo King Untamed Megaways",buffalo-king-untamed-megaways.jpg,360,472,https://mediumrare.imgix.net/a3fbf53198d854ea51869025389bf921401c6d9a8478c41bc8218898bf94705c?w=360&h=472&fit=min&auto=format
+"Forge of Olympus",forge-of-olympus.jpg,360,472,https://mediumrare.imgix.net/8352796c5bb70badb36417b6a8e24bb00f661be5432e820673fcc0b5ddfaacde?w=360&h=472&fit=min&auto=format
+"The Wild Machine",the-wild-machine.jpg,360,472,https://mediumrare.imgix.net/31e05b004125015ecc24b3073daf670d995302c316c0f3a55ff77fc1b1faa15a?w=360&h=472&fit=min&auto=format
+"Book Of Tut Respin",book-of-tut-respin.jpg,360,472,https://mediumrare.imgix.net/959e2cba3a5a677dd76b010b2ca64ee492003749923b99f01cef334b7f99ba7b?w=360&h=472&fit=min&auto=format
+"Release the Bison",release-the-bison.jpg,360,472,https://mediumrare.imgix.net/c6a0af4b584614fbf3b744075616474fcec6cbf971a5a9b2844647638ecf1d1b?w=360&h=472&fit=min&auto=format
+"Yeti Quest",yeti-quest.jpg,360,472,https://mediumrare.imgix.net/902e803087ddd5eb671b7004972a971d7feae60c2f20c0db6e1f279c2504674f?w=360&h=472&fit=min&auto=format
+"Pirate Golden Age",pirate-golden-age.jpg,360,472,https://mediumrare.imgix.net/d8a34c826dcc018d04279b50a2e7f3c83f28697859500a50cd2e8d325ab84289?w=360&h=472&fit=min&auto=format
+"Cowboys Gold",cowboys-gold.jpg,360,472,https://mediumrare.imgix.net/59a14ae1e49118853b85622d773a606318e4b416e248487c3f86b731bc2ec302?w=360&h=472&fit=min&auto=format
+"Hot Pepper",hot-pepper.jpg,360,472,https://mediumrare.imgix.net/6efbdcae95519089558585588992980097b3852c8fba87d762d840a643783680?w=360&h=472&fit=min&auto=format
+"The Big Dawgs",the-big-dawgs.jpg,360,472,https://mediumrare.imgix.net/5bc3441da782cdbe75fcc06616f1191b987aad76af71ab1d3ef095869e3dc413?w=360&h=472&fit=min&auto=format
+"Eastern Fury",eastern-fury.jpg,360,472,https://mediumrare.imgix.net/f2871790b00a2e4723e3d5f58653f09754ab4a4d3c4a5b9ea82c31e9802e240f?w=360&h=472&fit=min&auto=format
+"Dragon Gold 88",dragon-gold-88.jpg,360,472,https://mediumrare.imgix.net/1d45936fdb454c8e8a0517e08258bbc0f61a7285766e9f28d1a3a8597b2c93da?w=360&h=472&fit=min&auto=format
+"Shield Of Sparta",shield-of-sparta.jpg,360,472,https://mediumrare.imgix.net/e2c2a9b2395778c3ac7b1c3a61cabfd7f8e515ce00dbd6e28187591626328d39?w=360&h=472&fit=min&auto=format
+"Sunnydaze Asylum",sunnydaze-asylum.jpg,360,472,https://mediumrare.imgix.net/4b114842ddc5f5074b06f29a33903fe8da4aea4ebe3f49fbffac1a5e65434caf?w=360&h=472&fit=min&auto=format
+"Fangtastic Freespins",fangtastic-freespins.jpg,360,472,https://mediumrare.imgix.net/76e95b4bf0b30fe7e498509e07ab8bba9f0c775d20cc7ee48be5609c0461927e?w=360&h=472&fit=min&auto=format
+"The Money Men Megaways",the-money-men-megaways.jpg,360,472,https://mediumrare.imgix.net/a1a8f6e7c726f72a79103db9d0f36c6b4e89e10b92e5ffe3fabcde3381321648?w=360&h=472&fit=min&auto=format
+"Book of Monsters",book-of-monsters.jpg,360,472,https://mediumrare.imgix.net/63707fbb0327994708728902b8fef1b82a1be2b5f21987cd54247cd4be6b44a6?w=360&h=472&fit=min&auto=format
+"Harvest Moon: Grave Profits",harvest-moon-grave-profits.jpg,360,472,https://mediumrare.imgix.net/73b02dec909e9b3eb3c08b8cbbf7171487742a017c923ff724c942197b6a6dc0?w=360&h=472&fit=min&auto=format
+"Queen of Gods",queen-of-gods.jpg,360,472,https://mediumrare.imgix.net/6973fd54c981dc546e4563018d714dc9bd486a6a0e2b8eefed89b1c521dca6b2?w=360&h=472&fit=min&auto=format
+"Book of Tut Megaways",book-of-tut-megaways.jpg,360,472,https://mediumrare.imgix.net/5a7fcd6bfb130a70dae117f58a8f8d30447c3cb2911c3fec084beeebc309e432?w=360&h=472&fit=min&auto=format
+"Wild Skullz",wild-skullz.jpg,360,472,https://mediumrare.imgix.net/fe6c0e25e8c759643f1afc213beda089297cb7bca0bc0b686fdf2fbde83f461d?w=360&h=472&fit=min&auto=format
+"Frightening Frankie",frightening-frankie.jpg,204,267,https://mediumrare.imgix.net/e7badcfd68326eb920e7cf88a53ed4ed0994971175257b4e54a45deca932838e?w=360&h=472&fit=min&auto=format
+"Super X",super-x.jpg,360,472,https://mediumrare.imgix.net/ca2e2f819c83e5dc8a8f0cda26f6c56031b61145b1d2019401a67af1b263dea4?w=360&h=472&fit=min&auto=format
+"Bingo Mania",bingo-mania.jpg,204,267,https://mediumrare.imgix.net/85336671ffd75fac1b6bca98d72723f81be17c2d30a176f984c14eb03746da2d?w=360&h=472&fit=min&auto=format
+"Hot to Burn",hot-to-burn.jpg,360,472,https://mediumrare.imgix.net/a4324f8d2fc22f59283e08cd07a9d92d62a664b57ac9e40eebdbf90e0000bf91?w=360&h=472&fit=min&auto=format
+"Lucky Drums 88",lucky-drums-88.jpg,360,472,https://mediumrare.imgix.net/d2e08be04694e3703faacc07718b5f3082c7a169c51129234e14126de99e3d06?w=360&h=472&fit=min&auto=format
+"Mustang Gold Megaways",mustang-gold-megaways.jpg,360,472,https://mediumrare.imgix.net/72bf01869fd566facf23814d2180711c23a5393345ccb13d21bae5a8f1cdf799?w=360&h=472&fit=min&auto=format
+"888 Dragons",888-dragons.jpg,360,472,https://mediumrare.imgix.net/3523d7409d88fe3e78526e4113e9e7251a58afecc5bed04eac4d47ef3f844575?w=360&h=472&fit=min&auto=format
+"777 Wheel Blitz",777-wheel-blitz.jpg,360,472,https://mediumrare.imgix.net/1ac1c37bd005ff133bfe94e301e4cb1fb49f597b255a41cb2ac6f55f9ba00d90?w=360&h=472&fit=min&auto=format
+"Fire Archer",fire-archer.jpg,360,472,https://mediumrare.imgix.net/17f93fbc4060fb35244e0990317b329b3118992334c9f5425329ecf0b1daba5f?w=360&h=472&fit=min&auto=format
+"Peak Power",peak-power.jpg,360,472,https://mediumrare.imgix.net/7ef3360851e58a83c3a8d2c1e0c90571848ec2a8667944ffe8b8fa1a842d0311?w=360&h=472&fit=min&auto=format
+"Rocket Blast Megaways",rocket-blast-megaways.jpg,360,472,https://mediumrare.imgix.net/647adfdc81071cb7f9e205fb886b437ac005e7983a5d89b29a3849ab649a9044?w=360&h=472&fit=min&auto=format
+"Crypto Genesys",crypto-genesys.jpg,360,472,https://mediumrare.imgix.net/fd087c01a46f38cccf819e54981be17e249b2ef6b972a7239974be9a95940a65?w=360&h=472&fit=min&auto=format
+"Empty the Bank",empty-the-bank.jpg,360,472,https://mediumrare.imgix.net/1a13a0411c00c2f5a9e7941748300593beed5a62bf4e513967002ae1ce997915?w=360&h=472&fit=min&auto=format
+"Octobeer Fortunes",octobeer-fortunes.jpg,360,472,https://mediumrare.imgix.net/5dc642a3420db42bfa6cbc2fb98b1bac30d0f842b920e587027efd183ae3d434?w=360&h=472&fit=min&auto=format
+"Coven Rising",coven-rising.jpg,360,472,https://mediumrare.imgix.net/0bdf89b753f673c233bc9d93d2627ddd0bf270ee7b3efbefd4b2f5b5244e98dc?w=360&h=472&fit=min&auto=format
+"Diamond Strike",diamond-strike.jpg,360,472,https://mediumrare.imgix.net/bc7e8e6030ce264762f520b096da402d2c6f745bfc93d7778836845a739fda33?w=360&h=472&fit=min&auto=format
+"3 Dancing Monkeys",3-dancing-monkeys.jpg,360,472,https://mediumrare.imgix.net/84c22781ec478669c064abf8824387cd3c3f49687e66403b5ea14c3fcbdef042?w=360&h=472&fit=min&auto=format
+"Floating Dragon New Year Festival Ultra Megaways Hold & Spin",floating-dragon-new-year-festival-ultra-megaways-hold-spin.jpg,360,472,https://mediumrare.imgix.net/52f853ba371c92b9404a765e33acd398cc13d3b174aa6ebfbb84bc8092ebcc42?w=360&h=472&fit=min&auto=format
+"Sanatorium Secrets",sanatorium-secrets.jpg,360,472,https://mediumrare.imgix.net/aef5a6162a071c4df4f4b81ab8a3865c684ea83938abe623f80f3c0bf2658670?w=360&h=472&fit=min&auto=format
+"Caishen's Cash Pots",caishen-s-cash-pots.jpg,360,472,https://mediumrare.imgix.net/07993d1ebc9b5180297c6524149d93fe8f35a1b6e2db343845918ea4114cbf7b?w=360&h=472&fit=min&auto=format
+"Gorilla Mayhem",gorilla-mayhem.jpg,360,472,https://mediumrare.imgix.net/d2b4284a1e1451cfe447bbfd571a3d43a077fa9ee4d0a752fec0ddda63c8f5df?w=360&h=472&fit=min&auto=format
+"Panda Fortune 2",panda-fortune-2.jpg,360,472,https://mediumrare.imgix.net/f70977c5cfc807c12e34dbeb4e0188f28662b077ad5b4d807738a14a96072699?w=360&h=472&fit=min&auto=format
+"Chilli Heat Megaways",chilli-heat-megaways.jpg,360,472,https://mediumrare.imgix.net/6c0d23b5b7b1fb21f27bb3bba8221cf87abbb22eb53792b20e132eaa821e7893?w=360&h=472&fit=min&auto=format
+"Aztec Bonanza",aztec-bonanza.jpg,360,472,https://mediumrare.imgix.net/600a9dadee3222852452840a7cde441ad06589f71ef3a1b31bc0a31bc48f4a60?w=360&h=472&fit=min&auto=format
+"Wheel O'Gold",wheel-o-gold.jpg,360,472,https://mediumrare.imgix.net/98e841ce9678ed0ba2959c37392f8d5019d7b5e96be63f5ee8cc037c89620c2b?w=360&h=472&fit=min&auto=format
+"Castle of Fire",castle-of-fire.jpg,360,472,https://mediumrare.imgix.net/db32ca107b46bbb9a14fb87c659946f35ed0b7323b59ffe6cdbdd2ed4bc8589a?w=360&h=472&fit=min&auto=format
+"Dragon's Gate - Bonus Choice",dragon-s-gate-bonus-choice.jpg,360,472,https://mediumrare.imgix.net/f45ddd6257aaa7da5d74c941c2d91b565a2bde673dcc7f6ce19925e01434b801?w=360&h=472&fit=min&auto=format
+"Snakes & Ladders - Snake Eyes",snakes-ladders-snake-eyes.jpg,360,472,https://mediumrare.imgix.net/c7dfeccb5537f18495e227989344b7fffac1fb89ef53575a5b60f5ad74737679?w=360&h=472&fit=min&auto=format
+"Cosmic Clusters!",cosmic-clusters.jpg,360,472,https://mediumrare.imgix.net/1dd2b0d77d097e5b8fd92395e5ac461c2a6bb89398cf75a161256f0d3357377c?w=360&h=472&fit=min&auto=format
+"Crank it Up",crank-it-up.jpg,360,472,https://mediumrare.imgix.net/78513c35f29a700089c9d913d30a7961d31bbe4e4df9c69aee2bbf1c02812830?w=360&h=472&fit=min&auto=format
+"Da Vinci's Treasure",da-vinci-s-treasure.jpg,360,472,https://mediumrare.imgix.net/98ba1ae44197158d8374fc9fd277f35f66b6e5634430b0a7a613b57dd79ede0b?w=360&h=472&fit=min&auto=format
+"Sumo Supreme Megaways",sumo-supreme-megaways.jpg,360,472,https://mediumrare.imgix.net/0dc300a891eb9deaef323039bab9cccfc22484bdb6930b42ace73b194105c1e3?w=360&h=472&fit=min&auto=format
+"Wildies",wildies.jpg,360,472,https://mediumrare.imgix.net/3b64c5fa393b69424ac869cb7443ca31fc58a31e0820a29ac5cdb17b53288009?w=360&h=472&fit=min&auto=format
+"Candy Jar Clusters",candy-jar-clusters.jpg,360,472,https://mediumrare.imgix.net/6b4cc5f321f24cd0bd68c19213804dbea18996f564b5bfcc37bc0e9b186674f2?w=360&h=472&fit=min&auto=format
+"Eye of Spartacus",eye-of-spartacus.jpg,360,472,https://mediumrare.imgix.net/490440b6826b05ac256cddf29e2ce635fd6bfa2fae27d6376c266748257bdb6f?w=360&h=472&fit=min&auto=format
+"Nile Fortune",nile-fortune.jpg,360,472,https://mediumrare.imgix.net/37b0a1348edbf203e11eeb2f658465df6c8c252140e9f2798cb6408e648f1d8c?w=360&h=472&fit=min&auto=format
+"Bubble Up!",bubble-up.jpg,360,472,https://mediumrare.imgix.net/5f68da9f9f9566e99c755571fba8de0ef6374b33eb0f4becc847919149daa978?w=360&h=472&fit=min&auto=format
+"Bear Crazy",bear-crazy.jpg,360,472,https://mediumrare.imgix.net/8784a14e4ef687b2372cb07fc2adaa4c99a698f840b4259937b6a94b3ffe7009?w=360&h=472&fit=min&auto=format
+"Mystic Chief",mystic-chief.jpg,360,472,https://mediumrare.imgix.net/4722e7e9a0fa431f05dddda9adc82bf022bc0b5a5a76812cff010bdc9c851cf8?w=360&h=472&fit=min&auto=format
+"Drill That Gold",drill-that-gold.jpg,360,472,https://mediumrare.imgix.net/65bcc1f0577743c7cb39d746ba1a8dc1cb80470f64a44c280f5d3da5c00c2881?w=360&h=472&fit=min&auto=format
+"Starlight Princess Pachi",starlight-princess-pachi.jpg,360,472,https://mediumrare.imgix.net/b5e8b647424bb8960eb480cd8d0015fc2a5e6af496255608a6ce6149521a1dfa?w=360&h=472&fit=min&auto=format
+"Amazing Money Machine",amazing-money-machine.jpg,360,472,https://mediumrare.imgix.net/a1992a50fa34fd3cceabe464fa4a6cde9aad73b1f5f8474c7ba19cd69f7e6f7f?w=360&h=472&fit=min&auto=format
+"3 Genie Wishes",3-genie-wishes.jpg,360,472,https://mediumrare.imgix.net/139072917adf5bbef9bbc1ba5271d8361702bd8d51a6988073bfd6969a948cef?w=360&h=472&fit=min&auto=format
+"Blade & Fangs",blade-fangs.jpg,360,472,https://mediumrare.imgix.net/96ee211b58016bae2e6b0ff2e69c770d16339543349c1f696f31803d10de8156?w=360&h=472&fit=min&auto=format
+"Fat Panda",fat-panda.jpg,360,472,https://mediumrare.imgix.net/fdb95e8d46247ac9c0e9f848e28a3e3678788b8918bb5f6324f531eb939ab658?w=360&h=472&fit=min&auto=format
+"Gold Oasis",gold-oasis.jpg,360,472,https://mediumrare.imgix.net/12813f35bd98838df356587f2b931bfc5599f80204726b32cf54b9fd5a0139c4?w=360&h=472&fit=min&auto=format
+"Blazing Wilds Megaways",blazing-wilds-megaways.jpg,360,472,https://mediumrare.imgix.net/65422a245d2d593cf22bd652bcb499b6bf87bac3f145394626221dda77b33825?w=360&h=472&fit=min&auto=format
+"Ripe Rewards",ripe-rewards.jpg,360,472,https://mediumrare.imgix.net/8841da8b92dce3ee0b7a2c9072b4a1381be37209dcf9c933b4caa3ced6a3d7e1?w=360&h=472&fit=min&auto=format
+"Book of Vikings",book-of-vikings.jpg,360,472,https://mediumrare.imgix.net/c0b5b8ea80a1a827d9fc9a94f55aacaed6bd33f728f2d6584c66ae0e7189fdc0?w=360&h=472&fit=min&auto=format
+"Treasure Wild",treasure-wild.jpg,360,472,https://mediumrare.imgix.net/d3e0b9bea7bff2aaabbec9e29de3e24bcf1bbdc8a0fd1bd982ff4599031405c0?w=360&h=472&fit=min&auto=format
+"Bounty Hunter",bounty-hunter.jpg,360,472,https://mediumrare.imgix.net/8b7b4969e2d28e603176bd8efe2e2e791efe6435ed4c1ab8456948e3f6d6cfb8?w=360&h=472&fit=min&auto=format
+"Gold Train",gold-train.jpg,360,472,https://mediumrare.imgix.net/57bf5c6911f362d7917c702c3e02ded7d5ab7627fdaeb81ab977904b97170905?w=360&h=472&fit=min&auto=format
+"Haunted Crypt",haunted-crypt.jpg,204,267,https://mediumrare.imgix.net/cfc7008a7a88a4102a17616c6dee212e6b811030b07a330be57379e8db57de82?w=360&h=472&fit=min&auto=format
+"Mustang Trail",mustang-trail.jpg,360,472,https://mediumrare.imgix.net/05024a6464fa33e41c42e3400370ace726245d17480dae5142713b4180c20c5f?w=360&h=472&fit=min&auto=format
+"Honey Honey Honey",honey-honey-honey.jpg,360,472,https://mediumrare.imgix.net/7efc48b3ac99136d673abaf312eca0f0642e92d5919ad4dc8e879dccb1ac450e?w=360&h=472&fit=min&auto=format
+"The Great Stick-up",the-great-stick-up.jpg,360,472,https://mediumrare.imgix.net/528dc7864ce5dc9caf716fb96b461aedde312443434f6aec3f82f4468858a40c?w=360&h=472&fit=min&auto=format
+"Wolf Gold Ultimate",wolf-gold-ultimate.jpg,360,472,https://mediumrare.imgix.net/27a1641736cae67bfd5e04caf382aa2ccca787e51d0598f16a8b81cf395f1745?w=360&h=472&fit=min&auto=format
+"Great Rhino",great-rhino.jpg,360,472,https://mediumrare.imgix.net/86c2e20934ba093f6381982a47655fa7bec1e154e987df3ce3db807a4a51eb13?w=360&h=472&fit=min&auto=format
+"Ice Mints",ice-mints.jpg,360,472,https://mediumrare.imgix.net/2f62c75034b67e30d769838612cc8cd0021eb2033acccf98c5e889cab847be05?w=360&h=472&fit=min&auto=format
+"Bomb Bonanza",bomb-bonanza.jpg,360,472,https://mediumrare.imgix.net/f4796e016ca946b2b2d801e22576e8c677b6004da8a0fefb8e120bc8b7285bfa?w=360&h=472&fit=min&auto=format
+"Mr. Null's Wicked Wares",mr-null-s-wicked-wares.jpg,360,472,https://mediumrare.imgix.net/5304d5b63a9d533993360bd9c013c19bea8cf6f8d169e00dc3efb4ab5f2b9891?w=360&h=472&fit=min&auto=format
+"Bounty Gold",bounty-gold.jpg,360,472,https://mediumrare.imgix.net/6aaa4a19d3b058eb7a6212f2679601e70b1f8867d898194d11e496bf324d695e?w=360&h=472&fit=min&auto=format
+"Cyberheist City",cyberheist-city.jpg,204,267,https://mediumrare.imgix.net/7fcd5a55a9fdcb360b4be5049ccbb960d0b5eed0049f7073bb7ef8da1fbde8e8?w=360&h=472&fit=min&auto=format
+"Floating Dragon Hold & Spin Megaways",floating-dragon-hold-spin-megaways.jpg,360,472,https://mediumrare.imgix.net/491864fd142dc1153d1f9003081f518c57848fadad7d0d40b9951ca8345259b8?w=360&h=472&fit=min&auto=format
+"The Magic Cauldron",the-magic-cauldron.jpg,360,472,https://mediumrare.imgix.net/ec99f36c3167badf0a7bc8d9c96223917e3dcc9a1fafdbf5bc2173ae583a6548?w=360&h=472&fit=min&auto=format
+"Wild Celebrity Bus Megaways",wild-celebrity-bus-megaways.jpg,360,472,https://mediumrare.imgix.net/5e5d725b364f846228ac9085b0f2020fd07bb3c75809870f94fa005654da03cf?w=360&h=472&fit=min&auto=format
+"Emerald King - Wheel of Wealth",emerald-king-wheel-of-wealth.jpg,204,267,https://mediumrare.imgix.net/a82eb7a9c50a05fbddbb35df392e456410833f3ec3bb6f138cc1b990e077905f?w=360&h=472&fit=min&auto=format
+"Fire Strike",fire-strike.jpg,360,472,https://mediumrare.imgix.net/f0051ca1cc4b18f3f57ac8ffe67bb4b74c0195cd6c6980a98ba7ac50e1ee98fd?w=360&h=472&fit=min&auto=format
+"Santa's Xmas Rush",santa-s-xmas-rush.jpg,360,472,https://mediumrare.imgix.net/7716479c3ed438ec6e25c2ef9f6eacb01dfc355401756937daa6b16bbff9e72a?w=360&h=472&fit=min&auto=format
+"Rise of Giza PowerNudge",rise-of-giza-powernudge.jpg,360,472,https://mediumrare.imgix.net/dc0bd861da39e36d1e941b1d890dbb861cd54d5a093b41e0a87c57d17cec887a?w=360&h=472&fit=min&auto=format
+"Out of the Woods",out-of-the-woods.jpg,360,472,https://mediumrare.imgix.net/f61645b44641c397d9f4bcf73eed077a96dd83714a53626afd5ed1afd5f0131f?w=360&h=472&fit=min&auto=format
+"Ultra Hold and Spin",ultra-hold-and-spin.jpg,360,472,https://mediumrare.imgix.net/baad7ba5a6b460384c4aa2df6f988ba67001b6a9aaf84fb7a282a3e28ea515ce?w=360&h=472&fit=min&auto=format
+"Lucky's Wild Pub",lucky-s-wild-pub.jpg,360,472,https://mediumrare.imgix.net/2288d9ddf0f4069beb19a7bf09b2c9733142dc6891c1a220ed5d730186100f0c?w=360&h=472&fit=min&auto=format
+"Might of Freya Megaways",might-of-freya-megaways.jpg,360,472,https://mediumrare.imgix.net/00f37271c434ee55b5a90500534fff9a611f30ecef14620da3a8a20da148d501?w=360&h=472&fit=min&auto=format
+"Super Serge",super-serge.jpg,360,472,https://mediumrare.imgix.net/2b0735c147256b0847a0d3432cb19645e5b4d6ba0cf2a49568ff29a656ed390b?w=360&h=472&fit=min&auto=format
+"Crystal Caverns Megaways",crystal-caverns-megaways.jpg,360,472,https://mediumrare.imgix.net/56bc6f012ef77b58447b03f9192c076accd5e20f1fefac8513deb07ae2e12926?w=360&h=472&fit=min&auto=format
+"5 Lions Dance",5-lions-dance.jpg,360,472,https://mediumrare.imgix.net/deaef4b88d5019f65ed7bf6cd966755acc447f0c9d7d47ee56d980f67164d96e?w=360&h=472&fit=min&auto=format
+"Aztec Gems Megaways",aztec-gems-megaways.jpg,360,472,https://mediumrare.imgix.net/37a24f8935f1c8cfa1301d53d98f25d4aa9838ea63bb3b2ba20149b78e2308fa?w=360&h=472&fit=min&auto=format
+"Knight Hot Spotz",knight-hot-spotz.jpg,360,472,https://mediumrare.imgix.net/20916d466211028dfbec6605efaa5f987232712fa3987c57a42e936347fbe5a6?w=360&h=472&fit=min&auto=format
+"Money Mouse",money-mouse.jpg,360,472,https://mediumrare.imgix.net/955e9e86a140e3b7291e1f8dd4b892586c0b937c374c3f93e454e8594163a9e7?w=360&h=472&fit=min&auto=format
+"Tree of Riches",tree-of-riches.jpg,360,472,https://mediumrare.imgix.net/8c8f01645af9156ec4ddd3f05f6f1ca81e07103893fde78474f3871025595b57?w=360&h=472&fit=min&auto=format
+"Wheel of Happiness",wheel-of-happiness.jpg,204,267,https://mediumrare.imgix.net/5b3c13c56fbf2c9ddfe8a527bcc199c42986db68900dc08cc310e9c8c84201a6?w=360&h=472&fit=min&auto=format
+"Barnyard Megahays Megaways",barnyard-megahays-megaways.jpg,360,472,https://mediumrare.imgix.net/2d9e361e4dbe3376252123c7f0bbdd7f68d33d4dc429a8d85469221bd0ea8477?w=360&h=472&fit=min&auto=format
+"Candy Corner",candy-corner.jpg,360,472,https://mediumrare.imgix.net/f13e51a2c31613978befe11eda333ada3575bb8adf2e0ee8bc6b9a7d0a6d0278?w=360&h=472&fit=min&auto=format
+"Spellmaster",spellmaster.jpg,360,472,https://mediumrare.imgix.net/be90c86665383180aaac813c438bb7abfd3d006e21d0c225a660b600bc72a631?w=360&h=472&fit=min&auto=format
+"Treasures of Osiris",treasures-of-osiris.jpg,204,267,https://mediumrare.imgix.net/d3209098acd6b58818549f26aef6a3bf944b23160a325c108f8354d8e18f5d8d?w=360&h=472&fit=min&auto=format
+"Asgard",asgard.jpg,360,472,https://mediumrare.imgix.net/bc2509a6ef00f16779b9826ac9145a912b07f02d3f19c696a9953b19db194435?w=360&h=472&fit=min&auto=format
+"Finger Lick'n Free Spins",finger-lick-n-free-spins.jpg,360,472,https://mediumrare.imgix.net/7c68b81d79578e9b5803cf0b56bc60f5a139b3302a504b2e81e2f71af48977bf?w=360&h=472&fit=min&auto=format
+"Piggy Bank Bills",piggy-bank-bills.jpg,360,472,https://mediumrare.imgix.net/e512b3cf8cb4daf68d0d176542c58507674714f63519c2302e54b3b311b65af5?w=360&h=472&fit=min&auto=format
+"Super 7s ",super-7s.jpg,360,472,https://mediumrare.imgix.net/6bd1f7820d4d5f6a9417faea1e15cb80ebcaf541d4c17d93d447143ffb9d0d8c?w=360&h=472&fit=min&auto=format
+"Ancient Egypt Classic",ancient-egypt-classic.jpg,360,472,https://mediumrare.imgix.net/ca8342ce92353aee32c02b9babffbfc5fd032b86bb15cbdb659e4eeea25b23e7?w=360&h=472&fit=min&auto=format
+"Resurrecting Riches",resurrecting-riches.jpg,360,472,https://mediumrare.imgix.net/810b3e7cb5e50c92a64f946b4d44a01211b82670890303d30bd3c18becc9cbae?w=360&h=472&fit=min&auto=format
+"Triple Pot Plinko - Hercules",triple-pot-plinko-hercules.jpg,360,472,https://mediumrare.imgix.net/646988fd3f24f9da61a9f4bf159fbd1ce04a3bc0ffa9cd78e1e1e889bff1e937?w=360&h=472&fit=min&auto=format
+"Voodoo Magic",voodoo-magic.jpg,360,472,https://mediumrare.imgix.net/efd564e81a302ce8c8ac9468fa5a475e18233a6866e8d39ff4af9d375e92b929?w=360&h=472&fit=min&auto=format
+"Pandemic Rising",pandemic-rising.jpg,360,472,https://mediumrare.imgix.net/854c84e7d48d6c9f2b95d8f338fa2f3e537b329a8257f0f4719f16ef9d74c131?w=360&h=472&fit=min&auto=format
+"Frozen Tropics",frozen-tropics.jpg,360,472,https://mediumrare.imgix.net/d8f96e66616dbac10daea52ab39c5548c7f10ba47fb225173f28417acc7f10b3?w=360&h=472&fit=min&auto=format
+"Luxor of Cleopatra",luxor-of-cleopatra.jpg,360,472,https://mediumrare.imgix.net/ca759fdd342997a2adba1a03ff801e0ffbe9fcc4dfbb30817ce3b636a62aae36?w=360&h=472&fit=min&auto=format
+"Sweet Powernudge",sweet-powernudge.jpg,360,472,https://mediumrare.imgix.net/ad4c0aa3fcb4c3f57ffb46ec8ee5c4dfae14e4aee5c6f5ead760bde854ed2212?w=360&h=472&fit=min&auto=format
+"John Hunter And The Mayan Gods",john-hunter-and-the-mayan-gods.jpg,360,472,https://mediumrare.imgix.net/836db4d564b63d0dd0718c662f7c07b91fcce5aba3999342632712f9ad8f4fa6?w=360&h=472&fit=min&auto=format
+"Chilli Heat Spicy Spins",chilli-heat-spicy-spins.jpg,360,472,https://mediumrare.imgix.net/47e846d6e37c62553591120085626f1b1b99f7c0ab4815c4a2f2ac960794bdce?w=360&h=472&fit=min&auto=format
+"Genie's Gem Bonanza",genie-s-gem-bonanza.jpg,360,472,https://mediumrare.imgix.net/0e544b224c23d04c0d9677a65ada5d87749027cec56af4ce419b8a4bde1e31da?w=360&h=472&fit=min&auto=format
+"Mermaid's Treasure Trove",mermaid-s-treasure-trove.jpg,360,472,https://mediumrare.imgix.net/d16d58c9e8482460016ad60835f5b622d95bcb9d1b35602b770bfc340f3be99a?w=360&h=472&fit=min&auto=format
+"Great Rhino Deluxe",great-rhino-deluxe.jpg,360,472,https://mediumrare.imgix.net/17440a8bedf530daa616574b32f0f1140bf4b761ec743ccf51b24a637d913fb3?w=360&h=472&fit=min&auto=format
+"Waves of Poseidon",waves-of-poseidon.jpg,360,472,https://mediumrare.imgix.net/3bb14e76d9a245c70bfb6639ea7468c006b60c4e1ce7950e1bcee549e1c40357?w=360&h=472&fit=min&auto=format
+"Wolf Gold 4 Pack",wolf-gold-4-pack.jpg,360,472,https://mediumrare.imgix.net/993fd6c205ba315df40df87618b691714d7a36af7ee63f706acba364bcf8a27b?w=360&h=472&fit=min&auto=format
+"Blitz Super Wheel",blitz-super-wheel.jpg,360,472,https://mediumrare.imgix.net/10af108d1c293f2051b3ba91df7b19ae035dfa126d68b1ad47abe2aa23f86016?w=360&h=472&fit=min&auto=format
+"Hammerstorm",hammerstorm.jpg,204,267,https://mediumrare.imgix.net/47e1a4003dc86e0ffe7a21fc6812bf71a7924249880cda7fbdcc92613c3ad860?w=360&h=472&fit=min&auto=format
+"Eternal Empress - Freeze Time",eternal-empress-freeze-time.jpg,360,472,https://mediumrare.imgix.net/f6826f5ceeb6c528d4368769d3477cc328ce109594ee4b5818fd7a3705406331?w=360&h=472&fit=min&auto=format
+"Panda's Fortune",panda-s-fortune.jpg,360,472,https://mediumrare.imgix.net/fc22be6a978d7c75535e44fd0140159b7c9d7272c3e5b7ad7bb94eba8d4460dc?w=360&h=472&fit=min&auto=format
+"Fruit Party Dice",fruit-party-dice.jpg,360,472,https://mediumrare.imgix.net/6910c3023b6aec82da8d691044f382487e6657d2ca5ebb4da3a0ada0c8c459c1?w=360&h=472&fit=min&auto=format
+"Fruity Treats",fruity-treats.jpg,360,472,https://mediumrare.imgix.net/4a8189d01a67420e900099fd309b101d65a9de8da57be37cf4be7bb1d91d2ca5?w=360&h=472&fit=min&auto=format
+"Heartbreakers",heartbreakers.jpg,360,472,https://mediumrare.imgix.net/a19f4054bb023d720575456d06290ebb62502ef97a8f98e890f11a605c65cd81?w=360&h=472&fit=min&auto=format
+"Mysterious Egypt",mysterious-egypt.jpg,360,472,https://mediumrare.imgix.net/c7f29e0956f0d6d0c76efb3bef44b790f4196e5805e27033054ec9559d21e0d9?w=360&h=472&fit=min&auto=format
+"Yum Yum Powerways",yum-yum-powerways.jpg,360,472,https://mediumrare.imgix.net/47d95c554b2eaf09323c2cfb1eeb363bbc71759e131d6d55d0e4fb5b6469fe64?w=360&h=472&fit=min&auto=format
+"Aztec Smash",aztec-smash.jpg,360,472,https://mediumrare.imgix.net/de79068a5d18790e5daeddfddb6f5ba77517578b5f0736a2f23f8f28364a7d8d?w=360&h=472&fit=min&auto=format
+"Running Sushi",running-sushi.jpg,360,472,https://mediumrare.imgix.net/d7465854fb679749d53ba77d3746ae21c52a85f4ca375f818d5567228b2bf647?w=360&h=472&fit=min&auto=format
+"Duel of Night & Day",duel-of-night-day.jpg,204,267,https://mediumrare.imgix.net/d2de3dfc467a649c0d1d1db04d6575d4ae5c7e9b4f7c76920260cd7b2dd4261b?w=360&h=472&fit=min&auto=format
+"Pyramid King",pyramid-king.jpg,360,472,https://mediumrare.imgix.net/d4f8573d8b004864dd765e4cb1721e1c3cf5ec77ce51ae9cc3dfcc3b45b2c60c?w=360&h=472&fit=min&auto=format
+"Eye of the Storm",eye-of-the-storm.jpg,360,472,https://mediumrare.imgix.net/3caaaaa8f1e6ec17cd6fde005f8cbb312c3a7f473b78d99786ca457fa2df020e?w=360&h=472&fit=min&auto=format
+"Peking Luck",peking-luck.jpg,360,472,https://mediumrare.imgix.net/67ca9b9de2f4e696a78980268a068237be59b5241522043f44c1db14598ea775?w=360&h=472&fit=min&auto=format
+"Spartan King",spartan-king.jpg,360,472,https://mediumrare.imgix.net/67a9c53c9a0c5d6c0d1e505011fdfbff38d17df71ca657cb7dc907459599c6c8?w=360&h=472&fit=min&auto=format
+"Emerald King Rainbow Road",emerald-king-rainbow-road.jpg,360,472,https://mediumrare.imgix.net/1a63563d33dce916deeb94fe59254c305746c7507f6a6601dad009b94613b661?w=360&h=472&fit=min&auto=format
+"Mysterious",mysterious.jpg,360,472,https://mediumrare.imgix.net/5a64809cf07b09cf483d9f3382e30a72f379bff32fe35a55df44b0fda963aec6?w=360&h=472&fit=min&auto=format
+"Volcano Goddess",volcano-goddess.jpg,360,472,https://mediumrare.imgix.net/34d8703b7e6b66b9e2685b13c0c1753b264197d54e0486835cbc98e8586d65fb?w=360&h=472&fit=min&auto=format
+"3 Kingdoms - Battle of Red Cliffs",3-kingdoms-battle-of-red-cliffs.jpg,360,472,https://mediumrare.imgix.net/ce8334d3a0922a3502fd5ce9542e5f1df16e96ae6d70f26aa527971ea7d1dd0d?w=360&h=472&fit=min&auto=format
+"Sweet Kingdom",sweet-kingdom.jpg,360,472,https://mediumrare.imgix.net/be8b9d3bb6565afd24db1b5418a3d235297dbaca52fc64c6affdbe98e5ae02e2?w=360&h=472&fit=min&auto=format
+"Oodles of Noodles",oodles-of-noodles.jpg,360,472,https://mediumrare.imgix.net/dee8a03d336b288feb14c1a35ebb04a1bcd1c938200d34611156b4030944145e?w=360&h=472&fit=min&auto=format
+"888 Gold",888-gold.jpg,360,472,https://mediumrare.imgix.net/f9dc69c9c50f9b1488e2d7b2df59937fd1af71fa1ed08c53104faa621c9ddade?w=360&h=472&fit=min&auto=format
+"Lava Balls",lava-balls.jpg,204,267,https://mediumrare.imgix.net/1ca02ecbee41fd034c591c7647a8c18a6bdc3d948b632b2bd5af36edb5e11621?w=360&h=472&fit=min&auto=format
+"Tropical Tiki",tropical-tiki.jpg,360,472,https://mediumrare.imgix.net/ac219c933a94f8b789644910e1c2b27363ade71d9de9bb2dbb0efb9440bf58ae?w=360&h=472&fit=min&auto=format
+"Pirate Gold",pirate-gold.jpg,360,472,https://mediumrare.imgix.net/23b59d82bf084bf1ac4a05c06372308f55d9492a53e6ac395a65b8a5399b018c?w=360&h=472&fit=min&auto=format
+"Wild Wild Bananas",wild-wild-bananas.jpg,360,472,https://mediumrare.imgix.net/1ca6f836033b629c45bc400a34d24d91e249507c65668961d471525d405e30d8?w=360&h=472&fit=min&auto=format
+"Cash Chips",cash-chips.jpg,360,472,https://mediumrare.imgix.net/fed49b8c00f2d4dcc085d6647c7e30887332d16117c9b2d006731393f78d2816?w=360&h=472&fit=min&auto=format
+"Aztec Gems Deluxe",aztec-gems-deluxe.jpg,360,472,https://mediumrare.imgix.net/5932844327052d55ef20680b746939c8a030411c637ba276f1041f9554a0d44f?w=360&h=472&fit=min&auto=format
+"Lucky Lightning",lucky-lightning.jpg,360,472,https://mediumrare.imgix.net/c7a62bff490807b5770e26a76269d3f7ed600d8528c4430a6e2ed28e4f435c25?w=360&h=472&fit=min&auto=format
+"Captain Kraken Megaways",captain-kraken-megaways.jpg,360,472,https://mediumrare.imgix.net/6b106c589bb9482c20e5716667face26cbd017abc13ed84e2dc2d2beb4d31ebf?w=360&h=472&fit=min&auto=format
+"Temujin Treasures",temujin-treasures.jpg,360,472,https://mediumrare.imgix.net/4712509ac6db53846e2f4d0654528b3f2314e9bb28290feb33156b911d6ce756?w=360&h=472&fit=min&auto=format
+"Hot Chilli",hot-chilli.jpg,360,472,https://mediumrare.imgix.net/34a94218e2036dac72de49e6b989d01fca9551de2366e713b74b53bd24286117?w=360&h=472&fit=min&auto=format
+"Raging Waterfall Megaways",raging-waterfall-megaways.jpg,360,472,https://mediumrare.imgix.net/7f4c6bcbbdc99512541098ae4e525023b2718f69715cedd3cbaf493d164fd6ee?w=360&h=472&fit=min&auto=format
+"Heroic Spins",heroic-spins.jpg,360,472,https://mediumrare.imgix.net/d11b9dd9874c96d37cd16f7e0cedfac07fd5985891a8973eca80715991da9dd8?w=360&h=472&fit=min&auto=format
+"Snakes and Ladders Megadice",snakes-and-ladders-megadice.jpg,360,472,https://mediumrare.imgix.net/2a24e7989e3b1bb416a47253a10e21497c7d5a80c6c54f88b7e78386d2c12dea?w=360&h=472&fit=min&auto=format
+"Anaconda Gold",anaconda-gold.jpg,360,472,https://mediumrare.imgix.net/acf0429e3da0d1560490d07ba243909c6eaa1bcf46bde397f4216ac33ec43ecb?w=360&h=472&fit=min&auto=format
+"Badge Blitz",badge-blitz.jpg,360,472,https://mediumrare.imgix.net/e1b08e3af4db40735a94a928d32fcfced2073599a41bc27220653878de13fb4c?w=360&h=472&fit=min&auto=format
+"Pub Kings",pub-kings.jpg,360,472,https://mediumrare.imgix.net/ab094b371f4eb6bb43cf00ffe540a148cac6480dc7e486c1d03285bf6a2efaa4?w=360&h=472&fit=min&auto=format
+"Irish Crown",irish-crown.jpg,360,472,https://mediumrare.imgix.net/fd21d8cae2c645ed3ac53d6da3366aadca1ceab112c7f96946c0d156f9226667?w=360&h=472&fit=min&auto=format
+"Day of Dead",day-of-dead.jpg,360,472,https://mediumrare.imgix.net/98365173b9e3ac14a27651b6b489b4d1480196c94a2522bf49ae68af065aba14?w=360&h=472&fit=min&auto=format
+"Jackpot Blaze",jackpot-blaze.jpg,360,472,https://mediumrare.imgix.net/83fbc67b1edc1081b2394e3650cb62cfd17456ebf68727ac287b4c55de00c0db?w=360&h=472&fit=min&auto=format
+"Gold Rush",gold-rush.jpg,360,472,https://mediumrare.imgix.net/94d06376351e85c14fe2de1e54f03cb6ac7233d94201540e462457c43b37aec0?w=360&h=472&fit=min&auto=format
+"Spellbinding Mystery",spellbinding-mystery.jpg,360,472,https://mediumrare.imgix.net/61589f3a3e1194f96f721491ec735522f120370523e770817c5423b084699dc0?w=360&h=472&fit=min&auto=format
+"The Alter Ego",the-alter-ego.jpg,360,472,https://mediumrare.imgix.net/c3acf1a74afd8679600afa4af5f30b2ac2184e1314117dc29ec76400464c4d68?w=360&h=472&fit=min&auto=format
+"Wild Wild Pearls",wild-wild-pearls.jpg,360,472,https://mediumrare.imgix.net/b5b1d8a40dcef1f8d95dc7848ea0984a8e3b63a65a8ee5a84a01b825b9e9efaa?w=360&h=472&fit=min&auto=format
+"Hundreds and Thousands",hundreds-and-thousands.jpg,360,472,https://mediumrare.imgix.net/0e12554e0954c76443375cdde490b4ee1ed170eaa7b157909675f8d683afee3c?w=360&h=472&fit=min&auto=format
+"Savannah Legend",savannah-legend.jpg,360,472,https://mediumrare.imgix.net/d729335bc64d03db04dfeb1d2b001e745011c006ff177f7460fff5fdbf279929?w=360&h=472&fit=min&auto=format
+"Beware The Deep Megaways",beware-the-deep-megaways.jpg,360,472,https://mediumrare.imgix.net/d038780b397d343fb0c9ea2f7161a422a3fac52415b6d234cf2ddff4dbf8280c?w=360&h=472&fit=min&auto=format
+"Reel Banks",reel-banks.jpg,360,472,https://mediumrare.imgix.net/bd6d81dd363137b9798bb059f6ec0c58a65fb8053297aa942e7df1cfabdf9575?w=360&h=472&fit=min&auto=format
+"Magic Money Maze",magic-money-maze.jpg,360,472,https://mediumrare.imgix.net/a790a261b168830ebec874eb7c2fab8b513bdeaf76b907d9807cd81b80b0d727?w=360&h=472&fit=min&auto=format
+"Money Stacks Megaways",money-stacks-megaways.jpg,360,472,https://mediumrare.imgix.net/cc95cd1018d1fb5caa0af2fdcf2272a8301f5494afbd119d43d63c60eb5dd6b5?w=360&h=472&fit=min&auto=format
+"Elemental Gems Megaways",elemental-gems-megaways.jpg,360,472,https://mediumrare.imgix.net/7c23ee167784fadedc1315f6a8d8adba6b65d4aa2e3639d239af6206b9a791cf?w=360&h=472&fit=min&auto=format
+"Firebird Spirit",firebird-spirit.jpg,360,472,https://mediumrare.imgix.net/7c4281d824330969795c94b21a02465031e9aec00f35319a6e51554d75c8a8f7?w=360&h=472&fit=min&auto=format
+"Santa",santa.jpg,360,472,https://mediumrare.imgix.net/976d2c4616db473fa9738697b44a138c2443591273deb1516cc8b5c96756ca38?w=360&h=472&fit=min&auto=format
+"8 Dragons",8-dragons.jpg,360,472,https://mediumrare.imgix.net/d7c57ec1e2b029658ec164e1ca714545a505c3fddc38530fc2c5ec8d12218a6a?w=360&h=472&fit=min&auto=format
+"Cash Box",cash-box.jpg,360,472,https://mediumrare.imgix.net/9d62c062edfab726b6bfe6eb9400327d69d95cebcd5b22bd8820bbad9b5a17e3?w=360&h=472&fit=min&auto=format
+"Dragon Tiger Fortunes",dragon-tiger-fortunes.jpg,360,472,https://mediumrare.imgix.net/6c122e97f91b64fd5070fbdc5ba4f9704924a98eda953f16d844a158e6f38bb2?w=360&h=472&fit=min&auto=format
+"The Great Chicken Escape",the-great-chicken-escape.jpg,360,472,https://mediumrare.imgix.net/a72e4db9619f61767fa1029a05a8522c034ed4858d233c1d13c08684d3b17ceb?w=360&h=472&fit=min&auto=format
+"Eye of Cleopatra",eye-of-cleopatra.jpg,360,472,https://mediumrare.imgix.net/4b4e9c514a8fc0fb68b9e74bc31857be61a0bc7888fec864f8995f695a1aa3b3?w=360&h=472&fit=min&auto=format
+"Star Bounty",star-bounty.jpg,360,472,https://mediumrare.imgix.net/796ea48927702e14ae2006f5612031152016c2f7e4f4c7d13dc644189f10825b?w=360&h=472&fit=min&auto=format
+"Wild Walker",wild-walker.jpg,360,472,https://mediumrare.imgix.net/e14e63c9e242ac47ea353455c39ddd365c4e27f145aff3d87177005eb0824d89?w=360&h=472&fit=min&auto=format
+"7 Piggies",7-piggies.jpg,360,472,https://mediumrare.imgix.net/a85c37dfeabcc6cc65f8df777bdef1a3c6285e30424348182dfa0fab55db8931?w=360&h=472&fit=min&auto=format
+"Sword of Ares",sword-of-ares.jpg,360,472,https://mediumrare.imgix.net/35ee0908faba21cd96a5c300229215bacbda3dbbe0d1d5f41064821fa520fe83?w=360&h=472&fit=min&auto=format
+"Gates of Valhalla",gates-of-valhalla.jpg,360,472,https://mediumrare.imgix.net/303c7222acd4b2d60c15748f5b2ec58ab58fccc8e097013b0f6560552dfac7bf?w=360&h=472&fit=min&auto=format
+"Ultra Burn",ultra-burn.jpg,360,472,https://mediumrare.imgix.net/8e4a52e5b3b67f8c4623e6885b799f2e60123029044f48a890a1782d88407856?w=360&h=472&fit=min&auto=format
+"Candy Stars",candy-stars.jpg,360,472,https://mediumrare.imgix.net/a0ad6072b9253db7c0dc0e260259adb8bb3ffe848cfdeef8b635a06d75c9c9be?w=360&h=472&fit=min&auto=format
+"Trees of Treasure",trees-of-treasure.jpg,360,472,https://mediumrare.imgix.net/fc9cd251306f5f30dcf6663edaac20913a8190f5d63014dcc1a98db3069cb9c2?w=360&h=472&fit=min&auto=format
+"Dance Party",dance-party.jpg,360,472,https://mediumrare.imgix.net/21967837d026f581aeba90b454b5c8b0773066f36c1f26f91c29ccfaea98de94?w=360&h=472&fit=min&auto=format
+"Odds On Winner",odds-on-winner.jpg,360,472,https://mediumrare.imgix.net/c26a3f536f682edb5a2b7c1a578fb1d864989b19408f20b7d0c59c2309cb42d4?w=360&h=472&fit=min&auto=format
+"Greedy Fortune Pig",greedy-fortune-pig.jpg,360,472,https://mediumrare.imgix.net/1b55194385efebaabdeaaccfb1d8999e50be43278db64de55fae23bca408f562?w=360&h=472&fit=min&auto=format
+"The Ultimate 5",the-ultimate-5.jpg,360,472,https://mediumrare.imgix.net/0bd66083a9fc5b1ac99d62aaddf4aed8abbf5764ffacd9c8498ceda2b28759c0?w=360&h=472&fit=min&auto=format
+"Aztec Powernudge",aztec-powernudge.jpg,360,472,https://mediumrare.imgix.net/c9792074e34471a90c344ea80328099d69efbb6c1618528bd0661d40e8a8ae97?w=360&h=472&fit=min&auto=format
+"Triple Tigers",triple-tigers.jpg,360,472,https://mediumrare.imgix.net/40a0afcc3c37334bd9472592eaca20fe132026893d6ff29ede1f0159766e55a2?w=360&h=472&fit=min&auto=format
+"You Can Piggy Bank On It",you-can-piggy-bank-on-it.jpg,360,472,https://mediumrare.imgix.net/b46bbcab63ae232d7d1b5424b9c2193a07459b6be5c96038482ca633a9edd773?w=360&h=472&fit=min&auto=format
+"7 Monkeys",7-monkeys.jpg,360,472,https://mediumrare.imgix.net/7b4dc62b3dfe17bfdc65b274cbf931258f446352517aeb2a2a68a84a0859477c?w=360&h=472&fit=min&auto=format
+"Alien Invaders",alien-invaders.jpg,360,472,https://mediumrare.imgix.net/6f31013af1e0403fe73c670c93a2844e88809c5d70fdcb4d2df3cc9598babcd9?w=360&h=472&fit=min&auto=format
+"Rainbow Reels",rainbow-reels.jpg,360,472,https://mediumrare.imgix.net/a6f527c42451d068d6828b2c668a5e2ff7714bbc917addb516b1021bf4983d8a?w=360&h=472&fit=min&auto=format
+"The Dragon Tiger",the-dragon-tiger.jpg,360,472,https://mediumrare.imgix.net/5a5d79aaaf61925aaf5b1333cbf52435dbd1348d6cb9126b32d7e4aaeda46044?w=360&h=472&fit=min&auto=format
+"Joker King",joker-king.jpg,360,472,https://mediumrare.imgix.net/ef1c5a097a360235dd0d2219af3bcc42f8ff8b32028d0d128bcd2fe7665eea87?w=360&h=472&fit=min&auto=format
+"Fire Strike 2",fire-strike-2.jpg,360,472,https://mediumrare.imgix.net/ae36f66c8019a0b75ed0ac4dd2847c1012b7bbf3e333207ea1f3f3ded332e9f3?w=360&h=472&fit=min&auto=format
+"John Hunter and the Quest for Bermuda Riches",john-hunter-and-the-quest-for-bermuda-riches.jpg,360,472,https://mediumrare.imgix.net/5fc107eab50a40a8d863032d356099e5673631bc146a8d6ecdd3e21e6723a2d8?w=360&h=472&fit=min&auto=format
+"Ice Lobster",ice-lobster.jpg,360,472,https://mediumrare.imgix.net/55de9d0aca63738df9ab3dc30214729500e7e0cc39834eaabf3194a8be82bebf?w=360&h=472&fit=min&auto=format
+"Oracle of Gold",oracle-of-gold.jpg,360,472,https://mediumrare.imgix.net/03e5e0df8f12ceddfbdf61e0f4cfb0cc2db5b37feeedf6e689aa6fa204349d81?w=360&h=472&fit=min&auto=format
+"Revenge of Loki Megaways",revenge-of-loki-megaways.jpg,360,472,https://mediumrare.imgix.net/10e1af6860b846bcb7a4130d7b47b28ec183b044ec53e858b7369c33b746df4e?w=360&h=472&fit=min&auto=format
+"Hercules and Pegasus",hercules-and-pegasus.jpg,360,472,https://mediumrare.imgix.net/be1d5c2a9e249d5a2bba59ce78e1702e7879401c633ab0ebf16c937fdc224a6a?w=360&h=472&fit=min&auto=format
+"Return of the Dead",return-of-the-dead.jpg,360,472,https://mediumrare.imgix.net/4d09ae1229bdc16eaf545c3291e73d235c27b21ce2795c0a40362d0a3d12f018?w=360&h=472&fit=min&auto=format
+"Inca Queen",inca-queen.jpg,360,472,https://mediumrare.imgix.net/5b4a3c816a9e2157ecd0af3429ccb779bd559bf997045bad519c9e51b1dc2810?w=360&h=472&fit=min&auto=format
+"8 Golden Dragon Challenge",8-golden-dragon-challenge.jpg,360,472,https://mediumrare.imgix.net/6ad5ceb1341810e8f1a1ca37dd1c1ddb940511f842b3d511f6bcaf6719f4decd?w=360&h=472&fit=min&auto=format
+"Dragon King Hot Pots",dragon-king-hot-pots.jpg,360,472,https://mediumrare.imgix.net/c526e8b275a06005e6a52d9481c932e7afe6e373f9ac64bba9d07bd99cc9a751?w=360&h=472&fit=min&auto=format
+"Jumbo Safari",jumbo-safari.jpg,360,472,https://mediumrare.imgix.net/06ddf6bf4cce8e9d7a56c4a787b816f03659e963bdb141228b4335e47866193e?w=360&h=472&fit=min&auto=format
+"Medusa's Stone",medusa-s-stone.jpg,360,472,https://mediumrare.imgix.net/853eae0984a0201935f6d41932c7ddf9e6b90bc1873e362d894443214ceb3920?w=360&h=472&fit=min&auto=format
+"Piggy Bankers",piggy-bankers.jpg,360,472,https://mediumrare.imgix.net/80cdd3f0ce098f06f2cac9942b8c608995cf5fbd75cf1802558912ce3126bcc8?w=360&h=472&fit=min&auto=format
+"Pot of Fortune",pot-of-fortune.jpg,360,472,https://mediumrare.imgix.net/d285f9a2f1b2530ee80fbaf59862daa52dccd8771158f751f4b68945d296a779?w=360&h=472&fit=min&auto=format
+"Aladdin and the Sorcerer",aladdin-and-the-sorcerer.jpg,360,472,https://mediumrare.imgix.net/b2f84a8d7c1eeb466289a3ce099afdf304cf3e882e800ad6dfba7ce4e576b625?w=360&h=472&fit=min&auto=format
+"Gravity Bonanza",gravity-bonanza.jpg,360,472,https://mediumrare.imgix.net/3042bc5b5eb463f601f9e590e9a58da7009621a0dd25541c919673bab8bf37a0?w=360&h=472&fit=min&auto=format
+"Strawberry Cocktail",strawberry-cocktail.jpg,360,472,https://mediumrare.imgix.net/64ddca8f9dcd4a2cca8b4c23c59c50efb2c7fd38b01d75ea0f49cf3058086f32?w=360&h=472&fit=min&auto=format
+"Vampires vs Wolves",vampires-vs-wolves.jpg,360,472,https://mediumrare.imgix.net/52fdeab2976759bcc3b7a54c8bca8e217f31c37de2679f2b669e01c889c081ef?w=360&h=472&fit=min&auto=format
+"Big Burger Load it up with Xtra Cheese",big-burger-load-it-up-with-xtra-cheese.jpg,360,472,https://mediumrare.imgix.net/29385cc0681ee886aa328fb8b5d7868b5a3e3ab8382aea26f573050013374f05?w=360&h=472&fit=min&auto=format
+"Mighty Munching Melons",mighty-munching-melons.jpg,360,472,https://mediumrare.imgix.net/148378d0a48bc442079c38baa4a8dbd1c44f5edbe34683321efba6d34a783d37?w=360&h=472&fit=min&auto=format
+"Wild Booster",wild-booster.jpg,360,472,https://mediumrare.imgix.net/2175858c7146961a30c703b3c134593178ebe04084d2938ae9cf7d18bc468af4?w=360&h=472&fit=min&auto=format
+"Fortune Hit'n Roll",fortune-hit-n-roll.jpg,360,472,https://mediumrare.imgix.net/15a0e6dc4f86951858b50ee7ac03885fee5cfd6f88b049ee64a0e68ab56e15da?w=360&h=472&fit=min&auto=format
+"Aztec Blaze",aztec-blaze.jpg,360,472,https://mediumrare.imgix.net/19baa9558bb8068d36ccc988ae5068c06b2f1460fc01c4d66534e43a36778473?w=360&h=472&fit=min&auto=format
+"Ancient Egypt",ancient-egypt.jpg,360,472,https://mediumrare.imgix.net/27628e98aba58b7ac7e1fbf39fd4830e9dd8e927228a5bbb22c8db3e4b8afb9a?w=360&h=472&fit=min&auto=format
+"Triple Dragons",triple-dragons.jpg,360,472,https://mediumrare.imgix.net/e2062970600321ce57db216eac41b546012ccb1ab9582b7e06b0a038f7f6f2e4?w=360&h=472&fit=min&auto=format
+"Cash Bonanza",cash-bonanza.jpg,360,472,https://mediumrare.imgix.net/8e4a5eb5529f53f6874f887d702571a81286dbb565ad9d6bcf1dfd8549611ac6?w=360&h=472&fit=min&auto=format
+"Penguins Christmas Party Time",penguins-christmas-party-time.jpg,360,472,https://mediumrare.imgix.net/3186a2f9ec0187f974a9f7f6aa939960ce63072ce0af51e651fa76fe418af0a9?w=360&h=472&fit=min&auto=format
+"Cowboy Coins",cowboy-coins.jpg,360,472,https://mediumrare.imgix.net/d815a6363998d96a6550be75e23c8c825b18d0bb8f1547ad6e40ff3511a0806c?w=360&h=472&fit=min&auto=format
+"Hellvis Wild",hellvis-wild.jpg,360,472,https://mediumrare.imgix.net/03bc370096fdc8598d0c80c48424453b6e347c25fd730e0d70c8f045842bc25a?w=360&h=472&fit=min&auto=format
+"Greek Gods",greek-gods.jpg,360,472,https://mediumrare.imgix.net/1b0834df3de0c8b96db168111599a49ee3666d1df42e60203f9d1d050e00897d?w=360&h=472&fit=min&auto=format
+"Heist for the Golden Nuggets",heist-for-the-golden-nuggets.jpg,360,472,https://mediumrare.imgix.net/fd351f3cdadeb96224f34279938d808f3cf28e214589c4b46004de34157b7ed8?w=360&h=472&fit=min&auto=format
+"Dwarf & Dragon",dwarf-dragon.jpg,360,472,https://mediumrare.imgix.net/d7aa86e5732681f588e89ef61e829345aba4600ce8854cc2268e7a5965acbdab?w=360&h=472&fit=min&auto=format
+"Gem Fire Fortune",gem-fire-fortune.jpg,360,472,https://mediumrare.imgix.net/3ab5345ca07a54b49dbaf8397278138221dadd1d11695303d214fe9fa3e468d6?w=360&h=472&fit=min&auto=format
+"Treasure Horse",treasure-horse.jpg,360,472,https://mediumrare.imgix.net/d0cba8f26decc18ae4a42394aa2a8db4aa4f5e80963b3a40640fc6386323b2ef?w=360&h=472&fit=min&auto=format
+"Drago - Jewels of Fortune",drago-jewels-of-fortune.jpg,360,472,https://mediumrare.imgix.net/07a2af675e75c21857535892346abc6c044b73fe0076ec8f820b9afa0ad75f44?w=360&h=472&fit=min&auto=format
+"Pinup Girls",pinup-girls.jpg,360,472,https://mediumrare.imgix.net/a8432edb8aeda85875fbc5fb8ea31015f3976649849ea10273968beafc8549aa?w=360&h=472&fit=min&auto=format
+"Pirate Gold Deluxe",pirate-gold-deluxe.jpg,360,472,https://mediumrare.imgix.net/f596e7b12d756be48ffb65e1db5cf26203a10a8be9750fc1d264df59e87fe181?w=360&h=472&fit=min&auto=format
+"Launch to Riches",launch-to-riches.jpg,360,472,https://mediumrare.imgix.net/038c229b45811654381bb1a74b28f711268f4766a17e80c6137d594137fd0302?w=360&h=472&fit=min&auto=format
+"Egyptian Fortunes",egyptian-fortunes.jpg,360,472,https://mediumrare.imgix.net/f1474b79eb7b49329f63d9f8a129a34e026d3cf54e653de35f87061bb39f2588?w=360&h=472&fit=min&auto=format
+"Gears of Horus",gears-of-horus.jpg,360,472,https://mediumrare.imgix.net/3a2e653477f2b071957bb3cd8a68254c2bbbb463919df60c1aaad005b5b97379?w=360&h=472&fit=min&auto=format
+"Lamp Of Infinity",lamp-of-infinity.jpg,360,472,https://mediumrare.imgix.net/7e936efc9be5b8f4053641cd5e36c145da1091b01493ec11c8f22b7849bd061a?w=360&h=472&fit=min&auto=format
+"Monkey Madness",monkey-madness.jpg,360,472,https://mediumrare.imgix.net/5ea5a9206fd7d44282fbcd23ee8b1b7a57c9962ecba9571927fadd1f84996de1?w=360&h=472&fit=min&auto=format
+"The Knight King",the-knight-king.jpg,360,472,https://mediumrare.imgix.net/3f79e2ca7c01b3c18e6c427823ff5bff700d69eaccf37af57fb2b55cb36aa9d6?w=360&h=472&fit=min&auto=format
+"Crown of Fire",crown-of-fire.jpg,360,472,https://mediumrare.imgix.net/83968d3724e06b6c328941bf88de77b52551b7b8ce6d55f3bd58bec19e8c140e?w=360&h=472&fit=min&auto=format
+"Himalayan Wild",himalayan-wild.jpg,360,472,https://mediumrare.imgix.net/3c24ffe83a3a39a37fed04a3c5a6c16336594aeb6a972d733de5f6dbfce18d86?w=360&h=472&fit=min&auto=format
+"Spin & Score Megaways",spin-score-megaways.jpg,360,472,https://mediumrare.imgix.net/7e65ae27d7b035042336e4d7e822912efa471583a0cb310ffa05a34f6e4e76da?w=360&h=472&fit=min&auto=format
+"Argonauts",argonauts.jpg,360,472,https://mediumrare.imgix.net/2336c6f0f73067111a7940d14b0f62d5b8c0bb08b21baef76c7b4d8c403de21b?w=360&h=472&fit=min&auto=format
+"Devilicious",devilicious.jpg,360,472,https://mediumrare.imgix.net/13f6a2360f77e2c50d111128b93c2d6c54c73aacd8b761b1b6bc552f0bdf16bc?w=360&h=472&fit=min&auto=format
+"Ding Dong Christmas Bells",ding-dong-christmas-bells.jpg,360,472,https://mediumrare.imgix.net/1f8ad0451ce4d641629b3919f0bdf033b786ee6af3f296063e4946070f01f8d0?w=360&h=472&fit=min&auto=format
+"Little Gem Hold and Spin",little-gem-hold-and-spin.jpg,360,472,https://mediumrare.imgix.net/a72d898cfdbc335a53109fb5b2067c3ea36a65d33acf8822ae3fc805afb43803?w=360&h=472&fit=min&auto=format
+"Rainbow Gold",rainbow-gold.jpg,360,472,https://mediumrare.imgix.net/e0c98a654d184e92a4164aa6a96dc42acbd11ffbeee3c072d495e77ce07d2567?w=360&h=472&fit=min&auto=format
+"Lucky, Grace & Charm",lucky-grace-charm.jpg,360,472,https://mediumrare.imgix.net/c464012debb0a20498a4f0294e6c2dadd8b3c32645ad678f059801c3840fcd8c?w=360&h=472&fit=min&auto=format
+"Street Racer",street-racer.jpg,360,472,https://mediumrare.imgix.net/e9c3c25edea5250482d27faf41a58db4604b87a970c33e5a9988d1b11f031482?w=360&h=472&fit=min&auto=format
+"Wild Pixies",wild-pixies.jpg,360,472,https://mediumrare.imgix.net/ae02b164d35f0bb78ef7578321c829f079ff86bb7236ce0eb361d0daa9f73650?w=360&h=472&fit=min&auto=format
+"Wild Spells",wild-spells.jpg,360,472,https://mediumrare.imgix.net/6a7ff4d85ff013107d1d2683e3cd98f50204ec489b2169c3898a9e2bf1e6d428?w=360&h=472&fit=min&auto=format
+"Fairytale Fortune",fairytale-fortune.jpg,360,472,https://mediumrare.imgix.net/37607b6077897d7100bcfcc9c4c6581bf5268025987610ec55b3dc8f60823c36?w=360&h=472&fit=min&auto=format
+"Triple Jokers",triple-jokers.jpg,360,472,https://mediumrare.imgix.net/499d6de80a6b0a8a08e6a4e56b014c577cfebd2d411f01ddf79361f195ca1b19?w=360&h=472&fit=min&auto=format
+"Mystery of the Orient",mystery-of-the-orient.jpg,360,472,https://mediumrare.imgix.net/06926cd80889954d0a96cce146c22ab0ff313e6e4978999ca946116b85a83869?w=360&h=472&fit=min&auto=format
+"Demon Pots",demon-pots.jpg,360,472,https://mediumrare.imgix.net/6188ff759f0c1000c8b67e6f774807d2d725cbcb5ba30cc3fe04b4358c3b38fb?w=360&h=472&fit=min&auto=format
+"Goblin Heist Powernudge",goblin-heist-powernudge.jpg,360,472,https://mediumrare.imgix.net/796dd00de2a7c429b0e15b249e6d0bfddd08c79e891fb95666bb5fb96ebf2005?w=360&h=472&fit=min&auto=format
+"Diamonds of Egypt",diamonds-of-egypt.jpg,360,472,https://mediumrare.imgix.net/b06d1479c888bda90f067b327d368e44181b05ad6efa6156e2fbbe02cd413ee0?w=360&h=472&fit=min&auto=format
+"Secret City Gold",secret-city-gold.jpg,360,472,https://mediumrare.imgix.net/81852b835d421c6b39515eba00c968d8d9c722742c00f46595ef26547633c1a9?w=360&h=472&fit=min&auto=format
+"Chicken Chase",chicken-chase.jpg,360,472,https://mediumrare.imgix.net/7f3b9553b68513ff72882c23757c51b285c375651f62bbfff05822efbfe1b13b?w=360&h=472&fit=min&auto=format
+"Fishin Reels",fishin-reels.jpg,360,472,https://mediumrare.imgix.net/da65da80b230fc0ec6fc9be135a8b715909b56814096466eccb50faedc2d3328?w=360&h=472&fit=min&auto=format
+"Majestic Express Gold Run",majestic-express-gold-run.jpg,360,472,https://mediumrare.imgix.net/f76fd75d2ad3833107e1edbfde465e324900fdbf3ec59f55f0c82bbe68cf4a99?w=360&h=472&fit=min&auto=format
+"John Hunter and Galileo's Secrets",john-hunter-and-galileo-s-secrets.jpg,360,472,https://mediumrare.imgix.net/b098251e621b8830f2243a5c242f19c244295ebd41694fb359eaad30bc15923e?w=360&h=472&fit=min&auto=format
+"Idol Pop Fever",idol-pop-fever.jpg,360,472,https://mediumrare.imgix.net/5831e6b1d9a66b4398264ba2988498bded7ebbb8fe2794b6e46606f331514a14?w=360&h=472&fit=min&auto=format
+"Gods of Giza",gods-of-giza.jpg,360,472,https://mediumrare.imgix.net/be7ab164483f5c218f7ae890a5dd3e38afebe1cf44cb7a53a55ff73a53e4f890?w=360&h=472&fit=min&auto=format
+"Fire Hot 5",fire-hot-5.jpg,360,472,https://mediumrare.imgix.net/88e47335944e5f53e399ebebd73e8e82dedfc69cf6f26a01d1f3c2e4ac7230fb?w=360&h=472&fit=min&auto=format
+"Cash Surge",cash-surge.jpg,360,472,https://mediumrare.imgix.net/c19e41e7182197125fb23f4a9bccbb5b4b44ade5d8d6633f750c95d5e55701c6?w=360&h=472&fit=min&auto=format
+"Chase For Glory",chase-for-glory.jpg,360,472,https://mediumrare.imgix.net/ac01ba83301a58ba964da8c1e25c150837e0d758d714f049d028f3db21e8c803?w=360&h=472&fit=min&auto=format
+"Moleionaire",moleionaire.jpg,360,472,https://mediumrare.imgix.net/2199f1390574fcce6ac4c34c6e01df017389ebaf7fac17210d98710f7c2d0d9b?w=360&h=472&fit=min&auto=format
+"Mystery Mice",mystery-mice.jpg,360,472,https://mediumrare.imgix.net/187c31c8f73e3af26c22786a84077c674ce3ef4dc2439a5ad26a1e072363b55f?w=360&h=472&fit=min&auto=format
+"Caishen's Gold",caishen-s-gold.jpg,360,472,https://mediumrare.imgix.net/f0da114778bb3f5d3642bab22703670340354b979be5667408325e740a2d1fb8?w=360&h=472&fit=min&auto=format
+"Cash Elevator",cash-elevator.jpg,360,472,https://mediumrare.imgix.net/f130ea0e9d514c813aac5f1c097d76e8f4f74063272eee81df58d1f890aaa367?w=360&h=472&fit=min&auto=format
+"Tundra's Fortune",tundra-s-fortune.jpg,360,472,https://mediumrare.imgix.net/6aad37625c60f40a14c5c3dad2b827dd1d1967e8e52ce58ed8317edc426ee025?w=360&h=472&fit=min&auto=format
+"Country Farming",country-farming.jpg,360,472,https://mediumrare.imgix.net/bae2ba4348756392e90369441807b848f41ab3a5038616e0da7e68b53ed7423c?w=360&h=472&fit=min&auto=format
+"Leprechaun Carol",leprechaun-carol.jpg,360,472,https://mediumrare.imgix.net/fd88420a4a4dda30cd509188b4f819f4cf55cd571ebd299473a44d7384585df6?w=360&h=472&fit=min&auto=format
+"Ride the Lightning",ride-the-lightning.jpg,360,472,https://mediumrare.imgix.net/fa6de27bf3df92c420ac7710072dfda5ee447c31dc05afff554d3a9c5394f591?w=360&h=472&fit=min&auto=format
+"Towering Fortunes",towering-fortunes.jpg,360,472,https://mediumrare.imgix.net/ea46569b2ce11bca1eb4d115d85139b3fcae9d5cb304d1f4bd6f86212e9025b5?w=360&h=472&fit=min&auto=format
+"Mighty Kong",mighty-kong.jpg,360,472,https://mediumrare.imgix.net/956e8c01ccabeaad831e992b309de5c328097f3dafb87b4be9afa1bfe8c371c4?w=360&h=472&fit=min&auto=format
+"Lobster Bob's Crazy Crab Shack",lobster-bob-s-crazy-crab-shack.jpg,360,472,https://mediumrare.imgix.net/f7281c40c627e3e22d58453d0f808fa472eba6d85a01f341de23da623ae2f093?w=360&h=472&fit=min&auto=format
+"Monkey Warrior",monkey-warrior.jpg,360,472,https://mediumrare.imgix.net/e36577ea537623c45fbc256a597e2f2208f9899ba8ef0d7fb8478f09efcbd78e?w=360&h=472&fit=min&auto=format
+"Leprechaun Song",leprechaun-song.jpg,360,472,https://mediumrare.imgix.net/30413f14a59edba9d050e6d9ee86294a42c39a8f1e86841119266615b342e585?w=360&h=472&fit=min&auto=format
+"Ancient Island Megaways",ancient-island-megaways.jpg,360,472,https://mediumrare.imgix.net/7c184eb2cb6fd6742b3379acbc17e16b8dffec5b28acc256932f00a7dc7ace15?w=360&h=472&fit=min&auto=format
+"Hot to Burn 7 Deadly Free Spins",hot-to-burn-7-deadly-free-spins.jpg,360,472,https://mediumrare.imgix.net/7fac3c96f1111c6bf7a5a51c03215bd65d8f6ddcbaf657cfe4a3bf61163f3add?w=360&h=472&fit=min&auto=format
+"Panther Queen",panther-queen.jpg,360,472,https://mediumrare.imgix.net/845e56a937507ef31406bb5bd2ad9a4be95271d97d660d1339fd68cfc92b1447?w=360&h=472&fit=min&auto=format
+"Knights vs Barbarians",knights-vs-barbarians.jpg,204,267,https://mediumrare.imgix.net/7fb4077df236f5d047d6384b759e109495a926e93cc5919116e6e0617daade42?w=360&h=472&fit=min&auto=format
+"Dragon Hot Hold & Spin",dragon-hot-hold-spin.jpg,360,472,https://mediumrare.imgix.net/0f530ce09efe4e158e9fd8ad765972c4a80dad151b5ff7aa1b40f5037695d488?w=360&h=472&fit=min&auto=format
+"Gem Trio",gem-trio.jpg,360,472,https://mediumrare.imgix.net/8a63e0e96621a9d7fb4d8ad9aa6d2ea0ef1f8ab5d336b04c2ade7e681358b63b?w=360&h=472&fit=min&auto=format
+"Rise of Pyramids",rise-of-pyramids.jpg,360,472,https://mediumrare.imgix.net/ee99e45d53c03bc4d87148207afa74864c2feccbd6370492e37b1481cea4bc55?w=360&h=472&fit=min&auto=format
+"Diamond Cascade",diamond-cascade.jpg,360,472,https://mediumrare.imgix.net/033952745d78b42270dc8863444b5ae2d2c356bf946adf5e22caeee1d63154dd?w=360&h=472&fit=min&auto=format
+"Escape the Pyramid - Fire & Ice",escape-the-pyramid-fire-ice.jpg,360,472,https://mediumrare.imgix.net/588829bd49ce94c06886f99526fb4195297770ec476c189574c634fbb2278fec?w=360&h=472&fit=min&auto=format
+"Jurassic Giants",jurassic-giants.jpg,360,472,https://mediumrare.imgix.net/3a7866cd1478df7772fbac60d70dbf19a6efb903b0dee7462658324e7abc7513?w=360&h=472&fit=min&auto=format
+"Lucky New Year",lucky-new-year.jpg,360,472,https://mediumrare.imgix.net/e8603c1bbcbcb1052d8f4c1ac3612053c38429e8e4617595ec90c46fb3530254?w=360&h=472&fit=min&auto=format
+"Dynamite Diggin Doug",dynamite-diggin-doug.jpg,360,472,https://mediumrare.imgix.net/1e79f6fb17f5413a677f40afa25076db60fe91e02bc0204e41292a78e2ed9ecc?w=360&h=472&fit=min&auto=format
+"Cyclops Smash",cyclops-smash.jpg,360,472,https://mediumrare.imgix.net/d9e20a926d60717b9d8e232263070db7d6bd9a3115083c6e0553bcec0c6a0c80?w=360&h=472&fit=min&auto=format
+"Santa's Slay",santa-s-slay.jpg,204,267,https://mediumrare.imgix.net/09e51c137c946b18b06581243b92af2689e50a5d4fd786356e56bc3ebc1a0949?w=360&h=472&fit=min&auto=format
+"Vegas Nights",vegas-nights.jpg,360,472,https://mediumrare.imgix.net/39b70fbc23a3f15117baf28ad25a4bc04add98958c3f911d01f57024e2869369?w=360&h=472&fit=min&auto=format
+"Wild Depths",wild-depths.jpg,360,472,https://mediumrare.imgix.net/96a73e742c8fdf0f5a9ad5be34b99c3594b4b89b6ed1c6ef2d97e73832e575de?w=360&h=472&fit=min&auto=format
+"John Hunter and the Aztec Treasure",john-hunter-and-the-aztec-treasure.jpg,360,472,https://mediumrare.imgix.net/a10097a969cdb85c222de5ea1e4302a879cc2a94ade68dbf8f53389d423a7e4f?w=360&h=472&fit=min&auto=format
+"Fire 88",fire-88.jpg,360,472,https://mediumrare.imgix.net/ff457a6d3fc2e46ff6bd23e3d749165348f927ecdc3fc2e73792f2a9c51bd8e5?w=360&h=472&fit=min&auto=format
+"Wolf Gold Dice",wolf-gold-dice.jpg,360,472,https://mediumrare.imgix.net/9c338d98d965b1fb86d7ac9a5d67df36727067666ac749cbb7b9a2caa1900273?w=360&h=472&fit=min&auto=format
+"Smugglers Cove",smugglers-cove.jpg,360,472,https://mediumrare.imgix.net/e24a6dfe1f362adcbacde1034e502a4fa7e9a534195c296a5b81446f1b3f2a27?w=360&h=472&fit=min&auto=format
+"Temple Guardians",temple-guardians.jpg,360,472,https://mediumrare.imgix.net/e8afd73a69e7491cb6087a16679cb16fd71165229cea2222ccb06c9fda7f7783?w=360&h=472&fit=min&auto=format
+"Jackpot Hunter",jackpot-hunter.jpg,360,472,https://mediumrare.imgix.net/28758241dc37505c094f446af08c7985c907eedbfb6ad466607dfc03e3223981?w=360&h=472&fit=min&auto=format
+"North Guardians",north-guardians.jpg,360,472,https://mediumrare.imgix.net/4d773aa4ff4a9450bc6daae8c7414405294a7810b7def02e568c1951eba70a3d?w=360&h=472&fit=min&auto=format
+"Fonzo's Feline Fortunes",fonzo-s-feline-fortunes.jpg,360,472,https://mediumrare.imgix.net/49c50527188012674949d432c28723f3dc0b0b39beb3649e6a3e4c9e3c565006?w=360&h=472&fit=min&auto=format
+"Star Pirates Code",star-pirates-code.jpg,360,472,https://mediumrare.imgix.net/479bd75919ad1385879e823fd5d3c27d30947a7ec86fe87f5c41cb4e361a31a4?w=360&h=472&fit=min&auto=format
+"Gems of Serengeti",gems-of-serengeti.jpg,360,472,https://mediumrare.imgix.net/4b2e1565b42cbdc08ed7aa08692cd3d7035ccffc16e730c36461244d3aacfad0?w=360&h=472&fit=min&auto=format
+"Emerald King",emerald-king.jpg,360,472,https://mediumrare.imgix.net/e65407007ee66d195433b255c4e2be4bfe4076e921afc6f7b33ac4df01ba2147?w=360&h=472&fit=min&auto=format
+"Kingdom of the Dead",kingdom-of-the-dead.jpg,360,472,https://mediumrare.imgix.net/072696aa9795b28990c637384acbd1d9b1dc42bbbe3859c24e1254cc2290e625?w=360&h=472&fit=min&auto=format
+"Fruit Rainbow",fruit-rainbow.jpg,360,472,https://mediumrare.imgix.net/ab1b035366ffa36a1abda9ede2701dd527a98510051d331fa5d71edb46dfecd5?w=360&h=472&fit=min&auto=format
+"The Catfather",the-catfather.jpg,360,472,https://mediumrare.imgix.net/a8a05478806128c8d6cb9f984dfd7c10058eed2899c05352a72fba0448a96feb?w=360&h=472&fit=min&auto=format
+"Aztec Treasure Hunt",aztec-treasure-hunt.jpg,360,472,https://mediumrare.imgix.net/236ddc22e3873187d82afdd3ecd8f0b05cb7ec5753cdc8df2520fdc8154af2b8?w=360&h=472&fit=min&auto=format
+"Forging Wilds",forging-wilds.jpg,360,472,https://mediumrare.imgix.net/57e23ac2f7397fc67aee8ff792db5b60991a308c7cc8fcdf4f5edfec48e3696e?w=360&h=472&fit=min&auto=format
+"Gem Elevator",gem-elevator.jpg,360,472,https://mediumrare.imgix.net/7fb12f45dd2f47c29b4ee2e59a3b1f9cec88a4f4193cb2ef5ab80494bb8dc248?w=360&h=472&fit=min&auto=format
+"Hot Safari",hot-safari.jpg,360,472,https://mediumrare.imgix.net/77bb9ee3868953ad30b8dc43a606ab2f3ab551e764fa4c3f68241eb5bdb81c12?w=360&h=472&fit=min&auto=format
+"Jane Hunter and the Mask of Montezuma",jane-hunter-and-the-mask-of-montezuma.jpg,360,472,https://mediumrare.imgix.net/b29a9c6f87bf41dd881c0076cebc791571a4228f7593ebb2d4c03aec6a901217?w=360&h=472&fit=min&auto=format
+"Master Chen's Fortune",master-chen-s-fortune.jpg,360,472,https://mediumrare.imgix.net/4a7530888adf9d318e2d66c338291aa4884c79dd115537f6ce564d76cb9272a5?w=360&h=472&fit=min&auto=format
+"Hot To Burn Multiplier",hot-to-burn-multiplier.jpg,360,472,https://mediumrare.imgix.net/28f5d3243b3ae1e65651fb2d0018d3a3a8af8920b172e5bcfefcab1ed991f678?w=360&h=472&fit=min&auto=format
+"Lobster Bob's Sea Food and Win It",lobster-bob-s-sea-food-and-win-it.jpg,360,472,https://mediumrare.imgix.net/11aacbf3c19f2b16357e5c64ba5c020d3dcf99ffb5eb14698ad3153b5e8c743f?w=360&h=472&fit=min&auto=format
+"Red Hot Luck",red-hot-luck.jpg,360,472,https://mediumrare.imgix.net/88f2b268a72c680bdc353cc8d5c0e045f63a34a871870856118b2b3cd28457c2?w=360&h=472&fit=min&auto=format
+"Hercules Son of Zeus",hercules-son-of-zeus.jpg,360,472,https://mediumrare.imgix.net/521457b9e15e923281a482c17abfb51fa60910d7f2bf4d40b324c47506158e5f?w=360&h=472&fit=min&auto=format
+"Jasmine Dreams",jasmine-dreams.jpg,360,472,https://mediumrare.imgix.net/71c01fbb4091e7d7fa7f34e5e4d6d9d244e809e9d9775bc0c30aae7a07296332?w=360&h=472&fit=min&auto=format
+"African Elephant",african-elephant.jpg,360,472,https://mediumrare.imgix.net/69ee90c74482668dce88f06f91d216f4db0c703bbbc05c9837191a04320f9a48?w=360&h=472&fit=min&auto=format
+"Caishen's Cash",caishen-s-cash.jpg,360,472,https://mediumrare.imgix.net/759b26c614114d3fa6662c3468509483d5eb4b04f772f5ac74eafcad79aef2f2?w=360&h=472&fit=min&auto=format
+"Loki's Riches",loki-s-riches.jpg,360,472,https://mediumrare.imgix.net/63654fbe0ccf32675e3c528dbab192a4e2e9c184286938f0bf451d7d8739b51a?w=360&h=472&fit=min&auto=format
+"Three Star Fortune",three-star-fortune.jpg,360,472,https://mediumrare.imgix.net/04db962816887cf9603d54c0495204c3e188068ef7a193d5aa6b777721c13511?w=360&h=472&fit=min&auto=format
+"Happy Hooves",happy-hooves.jpg,360,472,https://mediumrare.imgix.net/27a8ab2531a98d6d7e1f5678e2f40cd1823f6f623cd52f78ff82da267877840e?w=360&h=472&fit=min&auto=format
+"Hot to Burn Hold and Spin",hot-to-burn-hold-and-spin.jpg,360,472,https://mediumrare.imgix.net/e2246274c0962533fd4a16fa42dc8c078b2f4d1def338c0963d1662328b601e7?w=360&h=472&fit=min&auto=format
+"Tic Tac Take",tic-tac-take.jpg,360,472,https://mediumrare.imgix.net/0bc5d751b427937e1bc91f0b5e75bb4096325d7e687a1dd7b9f69cf32cb56c72?w=360&h=472&fit=min&auto=format
+"Dragon Kingdom",dragon-kingdom.jpg,360,472,https://mediumrare.imgix.net/34554a569dedfd2a8584628788a4086a2d05b1515c126fb28e64990d949c8d90?w=360&h=472&fit=min&auto=format
+"Year Of The Dragon King",year-of-the-dragon-king.jpg,360,472,https://mediumrare.imgix.net/e138fdd82fb0dc10376640fbddf7917679cc4f84df70f6823a1018da3a681e50?w=360&h=472&fit=min&auto=format
+"Jade Butterfly",jade-butterfly.jpg,360,472,https://mediumrare.imgix.net/4f225d0a8ecdc86c5cfa6cafd2c641b6326ae89d713552a0b2579478a4f7c0da?w=360&h=472&fit=min&auto=format
+"Lucky Dragons",lucky-dragons.jpg,360,472,https://mediumrare.imgix.net/7745309264951ffc08514f8a55f7af25adcf6380370302fa5d07fdf5475ac368?w=360&h=472&fit=min&auto=format
+"Book Of Kingdoms",book-of-kingdoms.jpg,360,472,https://mediumrare.imgix.net/a287a5b3d73938d908d9e951a587069db84a6be648fc4e9348077e2c6d0da778?w=360&h=472&fit=min&auto=format
+"Hockey League",hockey-league.jpg,360,472,https://mediumrare.imgix.net/e24f994f628f3e4968b1593daafc98ea04d15126765b69bc95ea5766a496558b?w=360&h=472&fit=min&auto=format
+"Good Luck & Good Fortune",good-luck-good-fortune.jpg,360,472,https://mediumrare.imgix.net/fc450c46e4214b1228f792401639616234c371c1f83d0952533b8fd93904d032?w=360&h=472&fit=min&auto=format
+"Jungle Gorilla",jungle-gorilla.jpg,360,472,https://mediumrare.imgix.net/1e3dbc88e6bc19c18129eeeff1ed78e51a25dfd7d76bff1cf0a317bfb7552e3e?w=360&h=472&fit=min&auto=format
+"Dwarven Gold Deluxe",dwarven-gold-deluxe.jpg,360,472,https://mediumrare.imgix.net/ff4cf362c1618f45a3015b1d2d459cf43145d74f114676b02683c53a8def11fa?w=360&h=472&fit=min&auto=format
+"Hot To Burn Extreme",hot-to-burn-extreme.jpg,360,472,https://mediumrare.imgix.net/6373e6eae32a9655147a77919541097934f06db0f463008afec7aefe5bf23bbf?w=360&h=472&fit=min&auto=format
+"Irish Charms",irish-charms.jpg,360,472,https://mediumrare.imgix.net/ceec14b0ce4d675053ad5e9c27b9e5ed0d4759da08a170f3cd3f27710c0a94a0?w=360&h=472&fit=min&auto=format
+"Safari King",safari-king.jpg,360,472,https://mediumrare.imgix.net/cde504445c3897f35411f30b7c14f2988a6e8cd591a82fcb49589823327b03c9?w=360&h=472&fit=min&auto=format
+"Timber Stacks",timber-stacks.jpg,360,472,https://mediumrare.imgix.net/9e909258bad0025c9b9bcab18f5ba653ea4351c35e22b1724ad960f8f4a489e1?w=360&h=472&fit=min&auto=format
+"The Red Queen",the-red-queen.jpg,360,472,https://mediumrare.imgix.net/241b6bc8aa81083c8dbaaeec0e05e7b3ed7d54f10292ec1f3a951e3545d5159c?w=360&h=472&fit=min&auto=format
+"Vegas Magic",vegas-magic.jpg,360,472,https://mediumrare.imgix.net/6180056b3f91b749781727bd62abfb4a5445d26874b4bd301c4c85ada13d5f24?w=360&h=472&fit=min&auto=format
+"Queen of Atlantis",queen-of-atlantis.jpg,360,472,https://mediumrare.imgix.net/f652e9dc841a9b488b82e3329e193f2fae426150e6e835d2de36614c1a082bc9?w=360&h=472&fit=min&auto=format
+"Pixie Wings",pixie-wings.jpg,360,472,https://mediumrare.imgix.net/e62f70beb0c76d6941333783d9d26acfa8a826f78fa735ae9f7eb17d3cdf6633?w=360&h=472&fit=min&auto=format
+"The Catfather Part II",the-catfather-part-ii.jpg,360,472,https://mediumrare.imgix.net/ee7caeaf6c031de9e0ca0f2238e08cae7ce175f4a3e7082ea7e359e03a1f77a1?w=360&h=472&fit=min&auto=format
+"Money Stacks Dice",money-stacks-dice.jpg,360,472,https://mediumrare.imgix.net/b567aab6f07d08290e61d909f301a86f1be07f5cb778568061764a11eed8c14b?w=360&h=472&fit=min&auto=format
+"Fire Hot 40",fire-hot-40.jpg,360,472,https://mediumrare.imgix.net/a1b29beba1f8c8c3c18522cb886a5489063b332c58439a97e5c65342145e88cb?w=360&h=472&fit=min&auto=format
+"Journey to the West",journey-to-the-west.jpg,360,472,https://mediumrare.imgix.net/96e7d014e4a7715533660d4a72d40c89d5570fb238eb9778d3bb5c49a5c2c60f?w=360&h=472&fit=min&auto=format
+"Lady Godiva",lady-godiva.jpg,360,472,https://mediumrare.imgix.net/f32964cd77bc932d626cb1a3f7a48b2187fc8f124df345f12c926a3ef49a4f57?w=360&h=472&fit=min&auto=format
+"Fire Hot 20",fire-hot-20.jpg,360,472,https://mediumrare.imgix.net/1e1fc23c4fdd04f6fae24fedda17014d1eebaedbc0dbb812ee8a377dc9f168d5?w=360&h=472&fit=min&auto=format
+"Glorious Rome",glorious-rome.jpg,360,472,https://mediumrare.imgix.net/f44485cb8bd14b1cd58114a739e37bb2942d794bbc615c9b3f1dce5b629ac9e9?w=360&h=472&fit=min&auto=format
+"Aladdin's Treasure",aladdin-s-treasure.jpg,360,472,https://mediumrare.imgix.net/07164b79326b01638d4b98f9fcfb2759c362f8f2e903a7820837976e596e6aff?w=360&h=472&fit=min&auto=format
+"Tales of Egypt",tales-of-egypt.jpg,360,472,https://mediumrare.imgix.net/45f7bc1eeca839421fe70e556a1bd8d51e136b7d6698943f6e56824e951e087c?w=360&h=472&fit=min&auto=format
+"Fire Hot 100",fire-hot-100.jpg,360,472,https://mediumrare.imgix.net/e78153939e970cd22b38167da4324e021669cc406782e9beb368d2dc749b2bc0?w=360&h=472&fit=min&auto=format
+"Dwarven Gold",dwarven-gold.jpg,360,472,https://mediumrare.imgix.net/a2ba1e2213c33e2e4af912600d995fb2f5b639a136452a87dec296684d17c401?w=360&h=472&fit=min&auto=format
+"Hockey League Wild Match",hockey-league-wild-match.jpg,360,472,https://mediumrare.imgix.net/9f91c327e71713a2b9b949e4548a8375085f787444579467d5872a7d647d7093?w=360&h=472&fit=min&auto=format
+"Great Reef",great-reef.jpg,360,472,https://mediumrare.imgix.net/64408938c9a44a81877c0e0412bb35e9e7c969f83c2c08cc3dd8cb953ee3a451?w=360&h=472&fit=min&auto=format
+"Magic Crystals",magic-crystals.jpg,360,472,https://mediumrare.imgix.net/e77d080cdce23f960132342ba1622164ff03022c208b8acbac092911f26fb6fe?w=360&h=472&fit=min&auto=format
+"Shining Hot 40",shining-hot-40.jpg,360,472,https://mediumrare.imgix.net/bc621abe545ec0520c8ca19f4ee7382c492990cc8ae56b84ee25f0049f0a2c16?w=360&h=472&fit=min&auto=format
+"Wild Gladiators",wild-gladiators.jpg,360,472,https://mediumrare.imgix.net/e1a83b011cbe5f16825e4b09424340a9b3b00976a48b9346b314f0d4f76402de?w=360&h=472&fit=min&auto=format
+"The Champions",the-champions.jpg,360,472,https://mediumrare.imgix.net/2c49839d2b1306a27cf836dadce268a0f7a3e19815f428660f701ccbe6823e3a?w=360&h=472&fit=min&auto=format
+"Magic Journey",magic-journey.jpg,360,472,https://mediumrare.imgix.net/f2df61e5b53e868688811661a30ca4d92b57004ebedaa0f86f09527bfe879512?w=360&h=472&fit=min&auto=format
+"Striking Hot 5",striking-hot-5.jpg,360,472,https://mediumrare.imgix.net/cf307fbb858e3de97c1d7695cc96912545f882dd927c2245c39db18c2ce24bc0?w=360&h=472&fit=min&auto=format
+"Colossal Cash Zone",colossal-cash-zone.jpg,360,472,https://mediumrare.imgix.net/6a148dd666008ac7c463a45c168244243bf231c073dd5673a39ce0dade0a5c58?w=360&h=472&fit=min&auto=format
+"Shining Hot 100",shining-hot-100.jpg,360,472,https://mediumrare.imgix.net/2ce19272d961e9362ddb19028dd72f5477f76a24c4e4c500d63950b4f3ee3798?w=360&h=472&fit=min&auto=format
+"Shining Hot 5",shining-hot-5.jpg,360,472,https://mediumrare.imgix.net/58ebe6614137182fdd3237ea854863bb74bde7d22f8016c9ff4d330eacbadef1?w=360&h=472&fit=min&auto=format
+"Lady of the Moon",lady-of-the-moon.jpg,360,472,https://mediumrare.imgix.net/a7c1b096bd420e037b6146aad5566f5fe363a72989695bc81ced2a86ee1529ad?w=360&h=472&fit=min&auto=format
+"Shining Hot 20",shining-hot-20.jpg,360,472,https://mediumrare.imgix.net/af8c66f66aebd6ed2d7e1f0451299fcae7f38acf72b63d5ab98d7216e3b32ee7?w=360&h=472&fit=min&auto=format
+"Romeo and Juliet",romeo-and-juliet.jpg,360,472,https://mediumrare.imgix.net/52bae200103e0999ecb96cfce1cf049ddd77795fb69c300cae6f6c4c32ce1333?w=360&h=472&fit=min&auto=format
+"Rujak Bonanza 1000",rujak-bonanza-1000.jpg,360,472,https://mediumrare.imgix.net/00ddcd813783cfade2bd03202e14412e037a1d81f3a3d33179e7635cf96f8f1e?w=360&h=472&fit=min&auto=format
+"Saray Ruyasi",saray-ruyasi.jpg,360,472,https://mediumrare.imgix.net/6b3186f118e9fc4793c57612579166c583065ab20e1aee0b1955b0bc19185b0e?w=360&h=472&fit=min&auto=format
+"Mahjong Wins 2",mahjong-wins-2.jpg,360,472,https://mediumrare.imgix.net/7bf348d828f0e5e0815015bfe0a68e5aa5b75b76b20b6c5ee33cd8bd0d9a2d42?w=360&h=472&fit=min&auto=format
+"Gates of Gatot Kaca 1000",gates-of-gatot-kaca-1000.jpg,360,472,https://mediumrare.imgix.net/1f8f74ee5cdbcd77a1bdb882e6218ada8f29a21de3c77f7c028fe021e13ab4c5?w=360&h=472&fit=min&auto=format
+"El Huaso Suertudo",el-huaso-suertudo.jpg,360,472,https://mediumrare.imgix.net/515b7aad8b76748956fe3c8fc75a80604ff1b3aa6507e90cdf67663d7a47c3b2?w=360&h=472&fit=min&auto=format
+"Sweet Baklava",sweet-baklava.jpg,360,472,https://mediumrare.imgix.net/d1eb684876ad27e7115d5d78a894bc742b837fb3dad4c737bbca94712c3fe9e5?w=360&h=472&fit=min&auto=format
+"Wild West Standoff",wild-west-standoff.jpg,360,472,https://mediumrare.imgix.net/bc3214af3dfb7edf31f3914f6351893301b3511270290343085e6f790ffcadb6?w=360&h=472&fit=min&auto=format
+"Mahjong Wins - Gong Xi Fa Cai",mahjong-wins-gong-xi-fa-cai.jpg,360,472,https://mediumrare.imgix.net/8ba1388ccaf22ed86452aaa392174abaa6216c77969278333b7007232a11c13f?w=360&h=472&fit=min&auto=format
+"Mahjong Wins",mahjong-wins.jpg,360,472,https://mediumrare.imgix.net/6d30ec0db6bb0465325f4b6c5cf37a110eec786dfa41266eb5070c91fbffd3b4?w=360&h=472&fit=min&auto=format
+"The Tweety House",the-tweety-house.jpg,360,472,https://mediumrare.imgix.net/b5e89d92223f5bd7eba578016adb1f7d16a3423e0062ac6368a63d4b237fc85d?w=360&h=472&fit=min&auto=format
+"Pyramid Bonanza",pyramid-bonanza.jpg,360,472,https://mediumrare.imgix.net/144c471394fc6a78d9eb20e23dc42527ade698b1723f6a1c501efa6e67f1c9c8?w=360&h=472&fit=min&auto=format
+"5 Rabbits Megaways",5-rabbits-megaways.jpg,360,472,https://mediumrare.imgix.net/b8fb893a0d64717477418032d9a18f87deb1067e09be54835ab670c452aac7fa?w=360&h=472&fit=min&auto=format
+"Saiyan Mania",saiyan-mania.jpg,360,472,https://mediumrare.imgix.net/8777ab38250f62af7f6f7f0d4665cb12354a2774ca5e2be7e78958c8a118fa64?w=360&h=472&fit=min&auto=format
+"Gates of Gatot Kaca",gates-of-gatot-kaca.jpg,360,472,https://mediumrare.imgix.net/0af25fe25fdd694509af52a1fb2bb725786d01bceda536f99ef549f0f1ea5967?w=360&h=472&fit=min&auto=format
+"Zombie Train",zombie-train.jpg,360,472,https://mediumrare.imgix.net/3cf41ae5d8d938829399b44499975cd3db765d96cb562cc582d0aaad463d54e7?w=360&h=472&fit=min&auto=format
+"Gates of Aztec",gates-of-aztec.jpg,360,472,https://mediumrare.imgix.net/0cbe57e4da0fb8361c4b1d40efe87044b47ddd24a577612a488eb3c79e0be455?w=360&h=472&fit=min&auto=format
+"Candy Village",candy-village.jpg,360,472,https://mediumrare.imgix.net/f3f2a5e4819a5eb5943d02df220869aeb7551a2043c4f811374584203de707a3?w=360&h=472&fit=min&auto=format
+"Bonanza Gold",bonanza-gold.jpg,360,472,https://mediumrare.imgix.net/677c2e5ef261e39fcb865829b2b2dea0d4a1a3fb7744a9396338b89cc2b076a4?w=360&h=472&fit=min&auto=format
+"Rise of Samurai 4",rise-of-samurai-4.jpg,360,472,https://mediumrare.imgix.net/4ed7bc0dbd9b47c70a0663bc1eee00cb80055ccc60b3f8a4aa9ae4c5cf24e2dd?w=360&h=472&fit=min&auto=format
+"Grace of Ebisu",grace-of-ebisu.jpg,360,472,https://mediumrare.imgix.net/c45266cd0b128f369822c5a657622f2a148e2c5b7c16f8608d41e08fbae839a2?w=360&h=472&fit=min&auto=format
+"Cyber Heist",cyber-heist.jpg,360,472,https://mediumrare.imgix.net/e0d6e7e04d0b071c245a864ae8c735a2049b9e04dd55b889f19a4094d4dad220?w=360&h=472&fit=min&auto=format
+"Money Roll",money-roll.jpg,360,472,https://mediumrare.imgix.net/0733f5367625d0032627c2dbf2c2854b4c845507a3a589f3a74e050420684b44?w=360&h=472&fit=min&auto=format
+"Gatot Kaca's Fury",gatot-kaca-s-fury.jpg,360,472,https://mediumrare.imgix.net/a1a59b97f3656bbec3250471f0723caa24bfea23698afb95e9f27c57d6bb6d53?w=360&h=472&fit=min&auto=format
+"Rise of Samurai 3",rise-of-samurai-3.jpg,360,472,https://mediumrare.imgix.net/6b4256de53e1410a857eedd19edf4c2bd922e772ca0bb4b3770e1b4a896f883c?w=360&h=472&fit=min&auto=format
+"Casino Heist Megaways",casino-heist-megaways.jpg,360,472,https://mediumrare.imgix.net/8f1d1fa450cb7f3ad61f1e626c6894da0f8ce997457ec7fc16f82ce360e06d88?w=360&h=472&fit=min&auto=format
+"Battle Ground Zero Megaways",battle-ground-zero-megaways.jpg,360,472,https://mediumrare.imgix.net/47638ff859b79996b7fdc10cd3b14360b708c640536acdc5ad5aa879c6fe7044?w=360&h=472&fit=min&auto=format
+"Supermania",supermania.jpg,360,472,https://mediumrare.imgix.net/871bf6259e94465bf9667b51b5567ec6a40ffcd0aa88d989c645fdb899247370?w=360&h=472&fit=min&auto=format
+"Wildman Super Bonanza",wildman-super-bonanza.jpg,360,472,https://mediumrare.imgix.net/7e09c9f32fc2e0a009f8ebcc8fed0c680251f760f9a1955ef1b11ff9d1b6ad37?w=360&h=472&fit=min&auto=format
+"Rujak Bonanza",rujak-bonanza.jpg,360,472,https://mediumrare.imgix.net/67f7ca7421da1d6977601f310c2c197222ae2ef02cc251a5db77a6606e7dd4f0?w=360&h=472&fit=min&auto=format
+"Lucky Fishing Megaways",lucky-fishing-megaways.jpg,360,472,https://mediumrare.imgix.net/afa21e5f512936ebed28a28e28973294afcd415832661783c7be11ac9826906b?w=360&h=472&fit=min&auto=format
+"Money Money Money",money-money-money.jpg,360,472,https://mediumrare.imgix.net/58bd1b5fa3de00fa8accc48843e11c090eeffff204d1dcfc45e8ad3cdefbfa0b?w=360&h=472&fit=min&auto=format
+"Rise of Samurai Megaways",rise-of-samurai-megaways.jpg,360,472,https://mediumrare.imgix.net/331082f9cf4a0feef36ca519422628e47710b234a51fb434e377218301b29696?w=360&h=472&fit=min&auto=format
+"Hokkaido Wolf",hokkaido-wolf.jpg,360,472,https://mediumrare.imgix.net/5cabef9a3299ebb36534b24caf40cfedb4047e8be554aeeba9945067c51224c3?w=360&h=472&fit=min&auto=format
+"Mahjong X",mahjong-x.jpg,360,472,https://mediumrare.imgix.net/d5b0062097067d3d492c63c70b4a4e1d5c1f57862055834058c2ad011fe9475e?w=360&h=472&fit=min&auto=format
+"Aztec King Megaways",aztec-king-megaways.jpg,360,472,https://mediumrare.imgix.net/cb0c828408434aef20aa36e9f8f95ccc1da8f3b0bfd13fd1969a4e896be91365?w=360&h=472&fit=min&auto=format
+"Raging Bull",raging-bull.jpg,360,472,https://mediumrare.imgix.net/31b40c7591bf3c1ed29de7fba07e5b28def25f85fc24d41ed835ac875e0eb2b9?w=360&h=472&fit=min&auto=format
+"Dancheong Guardians",dancheong-guardians.jpg,360,472,https://mediumrare.imgix.net/c5933829dfa51031a5fae07c213ae70704c71d9e6a2a56a03023c58a20d07215?w=360&h=472&fit=min&auto=format
+"Mahjong Panda",mahjong-panda.jpg,360,472,https://mediumrare.imgix.net/1484c37499345f71751b78b150380298423a0259139cd3d9e8aa294f196f97fc?w=360&h=472&fit=min&auto=format
+"The Conqueror",the-conqueror.jpg,360,472,https://mediumrare.imgix.net/cfe00633ef8ffa86efb3cae254e6b4a7d2af2d6cba03524d6ed222e2e1a3140c?w=360&h=472&fit=min&auto=format
+"Plants vs Aliens",plants-vs-aliens.jpg,204,267,https://mediumrare.imgix.net/44c66313644d19249143ef736bc036efb445a1806cf4c51e1055b919aeeb3d45?w=360&h=472&fit=min&auto=format
+"Holiday Ride",holiday-ride.jpg,360,472,https://mediumrare.imgix.net/91e2d6318e5b9bc7b472f72da390186afe7d1b66a71618ea34bd6cd483cdc3db?w=360&h=472&fit=min&auto=format
+"Anime Cosplay VS",anime-cosplay-vs.jpg,360,472,https://mediumrare.imgix.net/44e57a5991ca5b65e5963bff3e60c675f4ea9498393177bbb3095ef09b117818?w=360&h=472&fit=min&auto=format
+"Fruits of the Amazon",fruits-of-the-amazon.jpg,360,472,https://mediumrare.imgix.net/f09e7a7dc63cffda295bf8f6fa4cbda2d1ca6898e63ab6cb2af610f5470fd663?w=360&h=472&fit=min&auto=format
+"Kingdom of Asgard",kingdom-of-asgard.jpg,360,472,https://mediumrare.imgix.net/0af265092295545c371b037fcf951a342d8b3d772f4aaf5c95d0abec26e5bf2f?w=360&h=472&fit=min&auto=format
+"Hockey Attack",hockey-attack.jpg,360,472,https://mediumrare.imgix.net/f6570a26b993e07bf0a2df1c2636d0c1e719fbb236be14cee235a9d9ea9ba5bd?w=360&h=472&fit=min&auto=format
+"Sweet Cherry Blossom",sweet-cherry-blossom.jpg,360,472,https://mediumrare.imgix.net/7f3cb52f6b6c78b4bd58f84bea4e54a6ebadee4ac011fc9a1d8e3b1ed74ef868?w=360&h=472&fit=min&auto=format
+"Wukong Rush",wukong-rush.jpg,360,472,https://mediumrare.imgix.net/cf1098dbb6afd055a10961cf5db689af52eff962f2645bc7f76dc2f8b017fa1b?w=360&h=472&fit=min&auto=format
+"Coffee Wild",coffee-wild.jpg,360,472,https://mediumrare.imgix.net/0c0e056e7ce8f2b022f86fe97c2cd0f21c9d53fc9ef3c34917c490c182aa06c4?w=360&h=472&fit=min&auto=format
+"Old Gold Miner Megaways",old-gold-miner-megaways.jpg,360,472,https://mediumrare.imgix.net/be07f4d3ee945bb17ab2415d097be1560eeb127db7f95fcaae8d8a06dc33dcd8?w=360&h=472&fit=min&auto=format
+"Happy Fortune",happy-fortune.jpg,360,472,https://mediumrare.imgix.net/fbd10023c09eb0e4e1f94646b6c4600cfe75c55634a9d189818ffb0997a7fce5?w=360&h=472&fit=min&auto=format
+"The Tiger Warrior",the-tiger-warrior.jpg,360,472,https://mediumrare.imgix.net/944a525ab2143e16cbf8d12ea29010c1c2e1d903865563ef664180efa8f3b76d?w=360&h=472&fit=min&auto=format
+"Meow Megaways",meow-megaways.jpg,360,472,https://mediumrare.imgix.net/458170d6024fef00c4fdfbe31eec598cad899790e3337ba6522fab605e76d92b?w=360&h=472&fit=min&auto=format
+"Fighting the Landlord",fighting-the-landlord.jpg,204,267,https://mediumrare.imgix.net/39c6e16d06cfaa98553b53ec1b35a215d402eb4fabba665be9c3e4a2f50cf4f5?w=360&h=472&fit=min&auto=format
+"Slime Pop",slime-pop.jpg,360,472,https://mediumrare.imgix.net/7effdcdcb8ee3bbc55353a7770a606e70e2023cf599c29e9236971063f86f9e5?w=360&h=472&fit=min&auto=format
+"Hotpot Wins",hotpot-wins.jpg,204,267,https://mediumrare.imgix.net/2c6f098fd163fcb8a3eb4a3b1e01b0083adbffdb87015ab20b1f5a0c5f254519?w=360&h=472&fit=min&auto=format
+"Robber Strike",robber-strike.jpg,360,472,https://mediumrare.imgix.net/bae4273a566107eb5ba88fbe9cc663e008395058892c2282c5a9150b1db492d3?w=360&h=472&fit=min&auto=format
+"Emperor Caishen",emperor-caishen.jpg,360,472,https://mediumrare.imgix.net/7674a74de1ea919af5cb9dfec8738ae072d28310216d32c148e57233586a54cc?w=360&h=472&fit=min&auto=format
+"Aztec King",aztec-king.jpg,360,472,https://mediumrare.imgix.net/23462403f7e0863ca922fc179725dc618bb934a73918e437bbadae5f243c8423?w=360&h=472&fit=min&auto=format
+"Gates of Olympus Pachi",gates-of-olympus-pachi.jpg,360,472,https://mediumrare.imgix.net/35c82f17e2ff5a071f13a166f6bf9f4d8b8aef770f4f7eaaf0b1c4494232046e?w=360&h=472&fit=min&auto=format
+"Bull Fiesta",bull-fiesta.jpg,360,472,https://mediumrare.imgix.net/de1d665bfafbf1bed57d02dc3dfb3c1e6f149654c1a8dae9fe0498bb572306cf?w=360&h=472&fit=min&auto=format
+"Frogs & Bugs",frogs-bugs.jpg,360,472,https://mediumrare.imgix.net/48a609a48e32fd074bc31493e84a1f5cf79b82a9e1dc9f5c2fb44fba94c44cbb?w=360&h=472&fit=min&auto=format
+"Koi Pond",koi-pond.jpg,360,472,https://mediumrare.imgix.net/1610294476af80e777ece6aee7d8757409f55bd6468cb216a4cc73c34dc6e5e5?w=360&h=472&fit=min&auto=format
+"Rise of Samurai",rise-of-samurai.jpg,360,472,https://mediumrare.imgix.net/335952c2f92da4f94acd2cea69983b7bbcceb07d8ebc454a40aebcd429be5504?w=360&h=472&fit=min&auto=format
+"Bubble Pop",bubble-pop.jpg,360,472,https://mediumrare.imgix.net/15dfa9898ed7d2cccbfee5a982c302e900ac79e5c47db5760bc590c2fe5134c9?w=360&h=472&fit=min&auto=format
+"Lucky New Year: Tiger Treasures",lucky-new-year-tiger-treasures.jpg,360,472,https://mediumrare.imgix.net/2fa5747675bb1f0ece45423931a9f0624eff8f1419e233b75414195b5f6471eb?w=360&h=472&fit=min&auto=format
+"Joker Race",joker-race.jpg,360,472,https://mediumrare.imgix.net/b643ee4ec7bbdc05beeb7c378b9450a5ea8275366a679993dd569f7695e0583e?w=360&h=472&fit=min&auto=format
+"Bali Dragon",bali-dragon.jpg,360,472,https://mediumrare.imgix.net/d5c744da1b746c67197196025c11c2c819e61f70718790b20fd5f3235cdef2d3?w=360&h=472&fit=min&auto=format
+"Book of Aztec King",book-of-aztec-king.jpg,360,472,https://mediumrare.imgix.net/4c25a7feb8f3625f40c44e07056bd44d912c5d667153b73314063064f80031f6?w=360&h=472&fit=min&auto=format
+"Busy Bees",busy-bees.jpg,360,472,https://mediumrare.imgix.net/5e22ba3908ca228a1bf729e2e27eb77ac380eaef341baa4115704737ccf18c0c?w=360&h=472&fit=min&auto=format
+"Cheeky Emperor",cheeky-emperor.jpg,360,472,https://mediumrare.imgix.net/c5a39d0413a420d456d19903d0f288d9419d861f4ce16b377333c1c2a82f3080?w=360&h=472&fit=min&auto=format
+"Devil's 13",devil-s-13.jpg,360,472,https://mediumrare.imgix.net/e27361a4af613af8a8b5522d0ad315424988cb9510a0bd2cb510e621713167fd?w=360&h=472&fit=min&auto=format
+"Disco Lady",disco-lady.jpg,360,472,https://mediumrare.imgix.net/4621065d56b58e8fdf09d0dfed0a23afc2b156645bd7f9e871056a4d63c60ea1?w=360&h=472&fit=min&auto=format
+"Fu Fu Fu",fu-fu-fu.jpg,360,472,https://mediumrare.imgix.net/701201f9e32646817cfbf7f2498a301888003f3ea4592cf76958ec53dbdd632c?w=360&h=472&fit=min&auto=format
+"Golden Ox",golden-ox.jpg,360,472,https://mediumrare.imgix.net/a0e7da7817e9bbe086ff9f6b66196f5735ce42ddc19e8d3a5a198f5347530aa4?w=360&h=472&fit=min&auto=format
+"Golden Pig",golden-pig.jpg,360,472,https://mediumrare.imgix.net/7acf7764b6dba2b18b0680af602d15b0cad14a93d74130e3d2d40ff2f15229cd?w=360&h=472&fit=min&auto=format
+"Hope You Get Rich",hope-you-get-rich.jpg,360,472,https://mediumrare.imgix.net/734c3da3fa00f7647ef413e9c7c42a3e213497433892b46a7cb846f380e00c34?w=360&h=472&fit=min&auto=format
+"Kadita Ocean Fury",kadita-ocean-fury.jpg,204,267,https://mediumrare.imgix.net/83e85b472f2ce0183a3a912c391d2e057a23c23e34411ff46074fb37333f27a0?w=360&h=472&fit=min&auto=format
+"Lucky Dragon Ball",lucky-dragon-ball.jpg,360,472,https://mediumrare.imgix.net/721b66f2c75dde5f0bd5501dcaf6187b2aeeb6bc7b7ae5feedddd8bc44eb262f?w=360&h=472&fit=min&auto=format
+"Sea Fantasy",sea-fantasy.jpg,360,472,https://mediumrare.imgix.net/2b9ad68f4a311fd28f9ef3394df2f0f54b4b5a9d935849cda457717a8e3e6335?w=360&h=472&fit=min&auto=format
+"Tokyo Rebels 1000",tokyo-rebels-1000.jpg,360,472,https://mediumrare.imgix.net/dbefe39dea703265a81073b3075fa671fdd340885c09e50ea8ce3da3919dfbc3?w=360&h=472&fit=min&auto=format
+"Wrath of Nezha",wrath-of-nezha.jpg,360,472,https://mediumrare.imgix.net/cb62c939a802a5204f8ee1279d58ae771e22947a937624612e2578617834dd9b?w=360&h=472&fit=min&auto=format
