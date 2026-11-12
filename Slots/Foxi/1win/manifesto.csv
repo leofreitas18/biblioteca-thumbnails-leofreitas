@@ -1,0 +1,463 @@
+nome_do_jogo,arquivo,largura,altura,url_origem
+"Classic Fruit Bars",classic-fruit-bars.jpg,440,600,https://v1.bundlecdn.com/casino-images/v/acde53b1-afc2-4743-9939-0ee9220ded25_vertical.webp
+"Dynamite Sam",dynamite-sam.jpg,440,600,https://v1.bundlecdn.com/casino-images/v/502f68ca-01ae-4894-95cd-276f11a90586_vertical.png
+"Muertos Fiesta",muertos-fiesta.jpg,440,600,https://v1.bundlecdn.com/casino-images/v/f464eed8-0be4-400a-a45f-2d3e87d94faf_vertical.png
+"Fruit Multipliers",fruit-multipliers.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/047a4af5-0471-41f4-a039-4989b6036405_vertical.png
+"10 Heart Deluxe",10-heart-deluxe.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/b43cc19b-80c1-4c8c-a9f7-08c5d65f9198_vertical.png
+"27 Lucky Crown",27-lucky-crown.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/dfaaa111-70d1-4630-82c8-b5cf5c39533a_vertical.png
+"27 Lucky Fruits",27-lucky-fruits.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/d00e4fae-7ec7-497a-ab37-05b2df1a6d85_vertical.png
+"27 Wild Stacks Extreme",27-wild-stacks-extreme.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/cea9afed-226c-42c9-8e67-7f9d07a1a617_vertical.webp
+"5 Bell Fire",5-bell-fire.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/fb5528c5-0695-4667-956c-6cf3d53e734a_vertical.png
+"5 Clover Deluxe",5-clover-deluxe.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/1c352a72-0ac1-4c0e-b082-8ced9fb68983_vertical.png
+"5 Clover Fire Blast",5-clover-fire-blast.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/8d3f8d09-69f3-4f32-87d8-c4f12080c574_vertical.png
+"5 Crown Deluxe",5-crown-deluxe.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/0ad00f43-69bb-4911-9647-956a89dadc6f_vertical.png
+"5 Heart Deluxe",5-heart-deluxe.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/89a62e37-ab6b-4777-b535-40f05d5e8697_vertical.png
+"5 Wild Diamond",5-wild-diamond.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/170db4cf-d122-48f7-90d7-f44d96a9b449_vertical.png
+"Barkin' Riches",barkin-riches.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/c1fd1719-9146-48e7-8b28-41d3cc5f40a6_vertical.png
+"Barrels Of Riches",barrels-of-riches.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/ee767b07-fe45-4ab4-af5a-333464c0bf24_vertical.png
+"Bit Queen",bit-queen.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/b9a372a4-c3dd-4cf4-8179-c2b6c2f07ac3_vertical.png
+"Bonus Epic Crown Dice",bonus-epic-crown-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/a79fdeba-9e5c-4a61-ae15-ec3b7e323dc8_vertical.png
+"Buffalo Dice Jackpot",buffalo-dice-jackpot.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/43f30e21-6053-4d83-af31-2ce29f567876_vertical.jpg
+"Bye Bouse",bye-bouse.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/36b47ec4-0d32-4abe-90e7-4c54cb0d4698_vertical.png
+"Christmas Sugar Luck",christmas-sugar-luck.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/c188d959-15fd-409e-9025-028ab8a1a190_vertical.png
+"Clover Deluxe 2x",clover-deluxe-2x.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/0bbf7b84-05d8-4e5c-9ecf-88c7cd19a242_vertical.png
+"Clover Fire 1000",clover-fire-1000.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/8d76d419-515c-4cc4-a542-a7e7b4ac4836_vertical.png
+"Clover Rush 5",clover-rush-5.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/9411a56c-3d85-465b-b243-ecae6829324b_vertical.png
+"Clovers and Diamonds 10",clovers-and-diamonds-10.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/c8839a9a-c209-45f8-9f1b-3d76d6472b45_vertical.png
+"Clovers And Diamonds 20",clovers-and-diamonds-20.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/787fd1e2-241f-466b-9692-55fb633514f0_vertical.png
+"Clovers And Diamonds 40",clovers-and-diamonds-40.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/c3f72148-3433-4a08-bf87-84eff19f6c68_vertical.png
+"Clovers And Diamonds 5",clovers-and-diamonds-5.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/64c9994f-45c3-4026-8a36-a61b84725594_vertical.png
+"Clover Wealth 5",clover-wealth-5.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/7a2a68ed-8158-46d5-899e-622c08c528cd_vertical.png
+"Coin Splash Dice",coin-splash-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/b07de839-647c-470d-8552-2ff92ab56839_vertical.png
+"Cosmic Fruits",cosmic-fruits.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/6c8af1d4-6581-4285-9c9b-22b4a192d333_vertical.png
+"Crown Deluxe 2X",crown-deluxe-2x.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/eddd1a86-4239-40b4-b2b7-d7a1dcce1cc3_vertical.png
+"Crown Treasure 10",crown-treasure-10.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/ec75be94-77c0-44f0-957c-12be577a2e45_vertical.png
+"Dark Temptress 100",dark-temptress-100.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/3540654d-d218-4cd8-bd2d-25c11bfcde14_vertical.png
+"Dashing Hot 40",dashing-hot-40.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/2ebaf28f-f1ff-43da-95dd-842976a91f19_vertical.png
+"Dazzle Fireballs",dazzle-fireballs.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/b1c6748b-397d-42cc-b3a4-c1c2bbac6aab_vertical.png
+"Diamond Heart 20",diamond-heart-20.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/33536030-f99f-495e-b6f8-e7d99d55237d_vertical.png
+"Dice Drop 10",dice-drop-10.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/26b39f36-c023-4860-ab17-64f97e2429de_vertical.png
+"Double Hot Chili",double-hot-chili.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/32fe10fb-cb80-4cf5-9c80-9ec9b179d337_vertical.png
+"Dynamite Boom Dice",dynamite-boom-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/4bc0f6d1-df64-4d0f-b279-f85c8497df36_vertical.jpg
+"Empress of Flame",empress-of-flame.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/16900bca-e1b3-4176-972e-1e10831b14f4_vertical.jpg
+"Empress of Flame 20",empress-of-flame-20.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/25fc77bf-971f-4d51-a487-9b55b3980182_vertical.png
+"Epic Clover 100 Booster",epic-clover-100-booster.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/7adcbffe-dc4a-4cec-b59b-890484c50fd5_vertical.png
+"Epic Dice 100 Booster",epic-dice-100-booster.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/7b6df7d3-7bd2-455c-82c3-0dd4bf7b02f5_vertical.png
+"Extreme Heat 7s",extreme-heat-7s.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/0fe6d7d3-df05-4203-b45f-cbe127636e8e_vertical.png
+"Flamy Fireballs",flamy-fireballs.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/6629949c-c761-4cc2-ac88-3eb5b2140b71_vertical.png
+"Fortune Clover x2 Xmas",fortune-clover-x2-xmas.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/e5381f58-2f97-460e-97e6-2e96d3d4bfd6_vertical.png
+"Fortune of Wu Kong",fortune-of-wu-kong.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/d7769ce5-50ba-4a7b-8eb9-0db75fb12ac0_vertical.jpg
+"Fruit Fire",fruit-fire.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/8a0de1dc-2798-43ab-9de8-dc722abccb62_vertical.png
+"Fruit Jackpot x10000",fruit-jackpot-x10000.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/1ec886c2-fbc5-4ce2-a7ba-ce21867aa5b9_vertical.png
+"Fruit Play Dice",fruit-play-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/8e8b07d7-a093-47ef-bf25-59825a84df71_vertical.png
+"Gears of Fortune",gears-of-fortune.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/b00960ef-ce62-440b-8c43-dc1721b1918a_vertical.jpg
+"Golden Crown Extreme Dice",golden-crown-extreme-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/f0118d5d-255b-42a4-8203-7295067a0841_vertical.png
+"Golden Crown Hold and Win",golden-crown-hold-and-win.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/315b539c-84a4-4ad9-b02a-d03b83a13237_vertical.png
+"Golden Diamonds 20 Extreme",golden-diamonds-20-extreme.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/88b1f211-2858-4551-af17-3841e0686552_vertical.png
+"Golden Diamonds 5 Extreme",golden-diamonds-5-extreme.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/818f7400-7ec9-4c0e-8660-fdaffab30d94_vertical.png
+"Golden Gate Dice",golden-gate-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/bbd8131a-c672-45b6-8383-ef99db781f73_vertical.png
+"Golden Gate Fruit",golden-gate-fruit.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/8a55691d-aa50-48fe-919f-053f290e9355_vertical.png
+"Golden Sheriff Wilds",golden-sheriff-wilds.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/b1f54c1f-d7c7-4476-9692-6be0997470b5_vertical.jpg
+"Heart Deluxe 2X",heart-deluxe-2x.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/8432eaff-38e7-4a43-b107-b43becacae61_vertical.png
+"Heart Gem 100",heart-gem-100.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/d3b3557f-7fbb-42d6-8765-3a90f8f3c522_vertical.png
+"Hot Chili Fiesta",hot-chili-fiesta.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/6219d5ee-3136-4d19-9e72-6318eef66bfb_vertical.png
+"Hot Eighty One",hot-eighty-one.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/286aff80-75ce-405f-b5eb-3d471ba10d9b_vertical.png
+"Hot Fireballs",hot-fireballs.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/759d73c8-555a-41d2-bb16-e953e3d41425_vertical.png
+"Hot Firedice",hot-firedice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/965a437d-3da2-4612-8a32-e759cde8a68c_vertical.png
+"Joker's Crown x2",joker-s-crown-x2.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/01131a01-3220-47a1-9dd8-33676847b5d9_vertical.png
+"Locked Hearts 40",locked-hearts-40.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/5549bf54-a8ac-4b78-bb2c-1c13df2fb393_vertical.png
+"Locked Hearts 5",locked-hearts-5.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/6178be0f-2fe4-4fc2-94a7-621b59d8d37b_vertical.png
+"Lucky Crown 10",lucky-crown-10.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/9f0d9cd7-e549-4388-950d-2fafd7ef6267_vertical.png
+"Lucky Lucky Bells",lucky-lucky-bells.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/24966d7c-0be1-4cd5-b6a0-0481ef42c189_vertical.webp
+"Macaco Da Fortuna",macaco-da-fortuna.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/c092866d-28b0-4022-92ee-ffe298125631_vertical.jpg
+"Majestic Crown Easter",majestic-crown-easter.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/cd0dad9d-1750-46f3-9c8b-e38b70525df8_vertical.png
+"Money Standard Jackpot",money-standard-jackpot.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/aca32bc1-5e0d-423b-8617-37caec3782a6_vertical.png
+"Multi Crown 5",multi-crown-5.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/6a9e07fd-ee4b-42b7-9ccc-c66404636ff5_vertical.png
+"Multihot Pot",multihot-pot.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/f6789bd0-4b01-43ec-aba1-02fa31528659_vertical.png
+"Mystic Treasure",mystic-treasure.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/54650dd9-c1d3-4917-a326-c3be8f74ac34_vertical.jpg
+"Neptune's Jewel",neptune-s-jewel.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/482287dd-fc71-4c12-bf0e-65adb6178d64_vertical.jpg
+"October Hot 40",october-hot-40.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/473448f2-21d0-4471-be14-f92eae70b8bf_vertical.png
+"Pure Hot 5",pure-hot-5.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/7a83df43-57d5-431b-85a6-3e26d12f3c00_vertical.png
+"Reely Wild Reels",reely-wild-reels.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/43e8a1bc-5aeb-461d-91d0-760ec63a50e9_vertical.png
+"Rolling Hearts 10",rolling-hearts-10.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/7c705d0d-9782-4f40-a995-933a8a6316e6_vertical.png
+"Roxy: Undercover",roxy-undercover.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/eb0f1a25-332e-4bb9-9ea7-be5f7eb60c5b_vertical.jpg
+"Royal Crown Delight Deluxe",royal-crown-delight-deluxe.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/7932926b-69e9-4425-ac29-605d70d237ca_vertical.png
+"Royal Flame 40",royal-flame-40.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/358acfe4-4d10-4e63-95bf-afb7cc022dba_vertical.png
+"Royalgarden King",royalgarden-king.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/787514c1-d29d-42d0-ba3e-a6571d45c807_vertical.png
+"Royalgarden Queen",royalgarden-queen.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/5d3c4945-3803-4da0-8cfd-19333933e079_vertical.png
+"Royal Jewels Fortune Deluxe",royal-jewels-fortune-deluxe.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/1d853f08-049d-4549-8b48-0eeb2f91f7bf_vertical.png
+"Sevens Pay",sevens-pay.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/af3b8aac-9be6-4730-88c0-54a9b74e1715_vertical.png
+"Sevens Pay Dice",sevens-pay-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/95ff13fe-c99a-4791-b01c-ce12adcd4c67_vertical.png
+"Shadow Hunt 10",shadow-hunt-10.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/82dc218b-e0c3-455d-80ea-dcb896d8afc8_vertical.jpg
+"Shiny Fireballs",shiny-fireballs.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/535b76d2-fb28-4f3d-9eff-e5526d383580_vertical.png
+"Spin The Sevens",spin-the-sevens.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/6468ccce-0988-42a7-8b21-3c1ec0d31384_vertical.png
+"Star Heat 40",star-heat-40.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/e3418a12-5017-4436-a9d7-927e4f945a0b_vertical.png
+"Sun Of The Nile",sun-of-the-nile.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/cdc05ff8-600b-4a32-add7-a95099c9f43f_vertical.jpg
+"Super Dice Runner",super-dice-runner.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/3b010219-914c-40b3-b5da-e8b4511308c7_vertical.png
+"Super Fireballs",super-fireballs.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/752954de-6461-4eed-b440-e490fb4e33eb_vertical.png
+"Three Reel Fortune Wilds",three-reel-fortune-wilds.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/63145c49-aafd-4aa2-8157-b89b88008378_vertical.png
+"Three Reel Fruit Boost",three-reel-fruit-boost.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/2ded8023-82c1-4537-8842-af8d177771f4_vertical.png
+"Three Reel Triple Fruit",three-reel-triple-fruit.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/a0e42cc3-3181-44f6-82e4-85c58d30530b_vertical.png
+"Triple Royal Wilds",triple-royal-wilds.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/cceca7b4-7a02-4401-a55d-5849bae07a86_vertical.png
+"Triple Wild Crown",triple-wild-crown.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/d05706dc-63ee-41b5-a728-ea5681c2e1dd_vertical.png
+"Tropical Treasure",tropical-treasure.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/d895c6a1-2550-4c30-845f-f784fec395d7_vertical.png
+"Tropic Twist",tropic-twist.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/c086affa-6acf-43dc-856a-7ffa3524496b_vertical.png
+"Tropic Twist Extreme",tropic-twist-extreme.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/b8267109-b3e1-45d0-8106-0154680b58f5_vertical.png
+"Very Hot 40 Booster",very-hot-40-booster.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/34dadc7d-0068-429f-be5b-ce36fcc8dc93_vertical.png
+"Very Hot 40 Extreme Booster",very-hot-40-extreme-booster.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/b53bd2e1-2bce-43ce-add1-b49774b47e5e_vertical.png
+"Very Hot 5 Extreme Booster",very-hot-5-extreme-booster.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/3f355569-34cd-45b6-b01e-108dfa0c8cba_vertical.png
+"Wild 27 Dice",wild-27-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/b516c638-e9ba-4b9c-b5b0-4d0e2ec6e57f_vertical.png
+"Wild Chili Fiesta",wild-chili-fiesta.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/2fd6d1a5-7840-4f1e-b6ea-efb51129d33b_vertical.png
+"Wild Hot 40 Blow Booster",wild-hot-40-blow-booster.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/1b9a8ee3-1da5-420c-9e6a-755433ccece8_vertical.png
+"Wild Hot 40 Deluxe",wild-hot-40-deluxe.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/255b1afd-ef54-43ce-aed3-037604a6abbc_vertical.png
+"Wild Joker Hot Booster",wild-joker-hot-booster.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/902a0434-72b7-4376-896d-5f53ffa216ee_vertical.png
+"Wild Sheriff Fortune",wild-sheriff-fortune.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/1b210aa7-9d3a-47f6-841d-fef3f016bd05_vertical.png
+"Winning Clover 5 Extreme Booster",winning-clover-5-extreme-booster.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/c36f6608-b465-48bf-868f-cd0b76cb1733_vertical.png
+"Winning Clover 5 Hold & Win",winning-clover-5-hold-win.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/65f58d98-bb9f-47f1-8090-b111181df03b_vertical.png
+"X Chilli Hot",x-chilli-hot.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/20078ad6-00d9-47ad-bf1b-b70f0876a352_vertical.png
+"X Clover Fire",x-clover-fire.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/a32ea74c-512c-4eff-a065-a0d7a0e48ec2_vertical.png
+"X Crown Fire",x-crown-fire.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/22211b3b-5275-4ddc-a581-6d41d06b148c_vertical.png
+"X Wild Crown",x-wild-crown.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/876a9249-8f7b-4f83-9148-28685e32c01e_vertical.png
+"Double Crown Deluxe",double-crown-deluxe.jpg,440,600,https://v1.bundlecdn.com/casino-images/v/5134dc43-5ce0-4f94-9a00-26423856f1ad_vertical.png
+"Shadow Hunt 20",shadow-hunt-20.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/0a4a9fc1-596a-4b68-9e79-b6e49889658b_vertical.jpg
+"Bonus Epic Wild Extralines",bonus-epic-wild-extralines.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/5994aafa-36ea-4e30-8943-5d86606be4b5_vertical.png
+"Crazy Wild Sevens",crazy-wild-sevens.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/092536f9-4564-48dc-b23e-9f5e9620e52f_vertical.png
+"Golden Crown Extreme Booster",golden-crown-extreme-booster.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/735fbb43-1615-4afe-900a-0d0051173741_vertical.png
+"Lions Dice Extreme",lions-dice-extreme.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/b0cf9602-12b3-40dd-9c7b-cbdb53af956b_vertical.jpg
+"Locked Hearts 20",locked-hearts-20.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/cc5158ea-82e9-4b81-a839-5b32948641a3_vertical.png
+"Lucky Crown 5",lucky-crown-5.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/7cdc6231-c067-49d9-95ec-30f7ff6d5282_vertical.png
+"Triple Hot Chili",triple-hot-chili.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/7ddc101a-9b95-40de-8e4f-b8a07afc9b1c_vertical.png
+"Lucky Ginger",lucky-ginger.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/356d2a05-dd33-4bc1-a229-4a943961362a_vertical.png
+"Fortune Clover 20",fortune-clover-20.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/cf8c0f72-30eb-48ea-8025-29e725121d78_vertical.png
+"Mister Dice",mister-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/92bd0562-50d8-4a07-b176-4eed8f30af74_vertical.png
+"5 Wild Crown",5-wild-crown.jpg,440,600,https://v1.bundlecdn.com/casino-images/v/6f1a8ef7-0de9-4b48-b679-be4bd8e0304c_vertical.webp
+"Nile Queen Fortune",nile-queen-fortune.jpg,440,600,https://v1.bundlecdn.com/casino-images/v/34d0f005-27a4-4183-aab7-c42c065b7146_vertical.png
+"Golden Diamonds 40 Extreme",golden-diamonds-40-extreme.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/a6aa572f-839f-4dcd-8886-9907bbba8093_vertical.png
+"Nile Queen Temple Legacy",nile-queen-temple-legacy.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/2677584d-20f5-4395-8de4-db2655d5df21_vertical.jpg
+"10 Clover Deluxe",10-clover-deluxe.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/5a918b92-5c26-4a0d-bf26-58ba87e58bfa_vertical.png
+"777: Expand",777-expand.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/0760cb7c-0a85-459b-aa24-97d150b899a9_vertical.png
+"Epic Crown 10 Booster",epic-crown-10-booster.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/69bfff68-88b4-4aa7-9709-6280fe03a7ab_vertical.png
+"Bit Slot",bit-slot.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/4fb1943a-a5b4-486a-8a32-a0aa73b29bfa_vertical.png
+"Laurels of Olympus",laurels-of-olympus.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/a1fbf7b1-746f-4617-b1cc-e64881adf372_vertical.png
+"Stack Wild Attack",stack-wild-attack.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/d3ae5a5f-45d6-401c-b5b3-2196d3b2bf8d_vertical.png
+"Heart Gem 20",heart-gem-20.jpg,440,600,https://v1.bundlecdn.com/casino-images/v/aa2394ab-c027-4768-9560-f71d2ce65ab0_vertical.png
+"Bonus Royal Crown Extralines",bonus-royal-crown-extralines.jpg,440,600,https://v1.bundlecdn.com/casino-images/v/62895d87-1cbc-43d7-9244-d661e01c7523_vertical.png
+"Golden Crown Extreme",golden-crown-extreme.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/3374716e-9fd3-429f-9b9f-7c2eeef6c159_vertical.png
+"Majestic Crown 100",majestic-crown-100.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/fd2471f2-29b4-46c3-9bf8-cb3c6315ba6e_vertical.png
+"Clover Wealth 10",clover-wealth-10.jpg,440,600,https://v1.bundlecdn.com/casino-images/v/191334b2-4f72-49b2-a9df-704a3e79b6df_vertical.png
+"Joker's Hot 40",joker-s-hot-40.jpg,440,600,https://v1.bundlecdn.com/casino-images/v/0bf44ae4-939c-4391-92d3-e17dc4917307_vertical.png
+"Clover Drop",clover-drop.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/7099f12e-2a3c-409c-b132-89906b533717_vertical.png
+"Wild Crown 1000",wild-crown-1000.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/fc5578f4-f7d9-4b6e-b3c1-8e29ce8cf411_vertical.png
+"Dynamite Run Dice",dynamite-run-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/ef05ffbf-04e6-49ac-9590-000740a5f0af_vertical.png
+"Coyote Gems",coyote-gems.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/485891d7-b764-43c4-b5ae-b022a615d197_vertical.png
+"Dashing Hot 20",dashing-hot-20.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/f8dfce5b-f97a-4633-a55b-41d2c5aec713_vertical.png
+"Very Hot 5 Booster",very-hot-5-booster.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/3d61321c-ea3e-40af-a977-d6aa9172f09b_vertical.png
+"5 Star Fire",5-star-fire.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/dcfbc778-2350-4834-98ff-1f3c1f665fe9_vertical.png
+"Super Fire Jackpot",super-fire-jackpot.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/99a33a2e-8f9b-491d-87d2-e1b83717b88e_vertical.png
+"Bonus Stars",bonus-stars.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/aa75b547-39d2-414b-ac59-e321f1ff6529_vertical.png
+"Coin Splash",coin-splash.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/afe46d3b-5d09-4ed8-992a-c6301d1a266b_vertical.png
+"Three Reel Dice",three-reel-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/08584255-0c4b-4fa5-b089-a4bd404407d6_vertical.png
+"Majestic Crown x2",majestic-crown-x2.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/6979f767-f75d-4eda-8eb3-e948ea21fbb7_vertical.png
+"Dynamite Boom",dynamite-boom.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/7c800ad6-b979-4ed3-9e6f-2fa03e816943_vertical.png
+"Age of Rome",age-of-rome.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/ffcb5a71-3a88-41e3-b440-593362f51e94_vertical.png
+"Big Hit Sevens",big-hit-sevens.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/4bbf4299-f826-42c0-bf39-d17d51e23b4b_vertical.png
+"Clover Spread 40",clover-spread-40.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/17abd311-a066-4315-b38d-b737d01cbfb6_vertical.png
+"40 Joker Fire",40-joker-fire.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/0dfe7bad-f27c-4d6f-970a-469e9597a017_vertical.png
+"Wild Sticky Clover",wild-sticky-clover.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/c30a6345-f837-4440-9812-f9940c43d8c7_vertical.png
+"Triple Stacked Diamonds",triple-stacked-diamonds.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/14ad4d9e-1ac2-48bd-ab6c-ece48bd11b6c_vertical.png
+"Crown of Secret",crown-of-secret.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/baced39c-d342-4385-8969-dad5301fd9cd_vertical.png
+"Triple Royal Dice",triple-royal-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/v/cdcf5b44-727a-4c69-9329-9001adf4e400_vertical.png
+"Fruit Island Gems",fruit-island-gems.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/e3b0ab97-34d4-4583-907a-d0d4324bfafb_vertical.png
+"Eternal Hearts",eternal-hearts.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/f1ca94cc-4d2d-4c6a-82ef-9dff41ecd1c6_vertical.png
+"Hearts and Stars",hearts-and-stars.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/fd4dc8b5-c97e-4e5d-8f60-9351b26e5d42_vertical.png
+"Thunder Fruits",thunder-fruits.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/277c911b-7f5f-4617-9b9a-5917b8fe20b0_vertical.png
+"Dice Machine",dice-machine.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/6381d3c8-843d-4314-b5ea-9548a7a34a78_vertical.png
+"Cosmic Sevens",cosmic-sevens.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/a0b8d67c-8586-4c19-a819-7441a822c6a4_vertical.png
+"Savana Fruits",savana-fruits.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/8465cad4-ed2a-4428-a2ae-eb5588086017_vertical.png
+"Fruity Force 40",fruity-force-40.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/eddaf090-260f-47fb-934a-d1762748dd23_vertical.png
+"Brilliant Heart",brilliant-heart.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/a4dc6e5a-44c4-4356-a6fc-12ad343c4603_vertical.png
+"Crowns and Stars",crowns-and-stars.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/2646dcc2-b970-464b-9979-679192b795cf_vertical.png
+"Sticky Tiki",sticky-tiki.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/91a4761c-76cb-4fb6-867b-2afa13054091_vertical.png
+"Dynamite Run",dynamite-run.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/7144de15-0526-47c4-b774-bdca7d789de1_vertical.png
+"Hot Rush Triple Star",hot-rush-triple-star.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/b371d8ba-eadb-425b-9ce2-7a2d982152b4_vertical.png
+"Aqua Flame",aqua-flame.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/23818b5b-e04a-41eb-abfe-e6ef17ab1bbc_vertical.png
+"Funky Fruits",funky-fruits.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/fd8c8f6a-fee2-4c89-89cb-0e0a1252f570_vertical.png
+"Christmas Delight",christmas-delight.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/51d701d2-d43e-45a7-9191-f66683c0ef5a_vertical.png
+"Turbo Stars 20",turbo-stars-20.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/1c0da23f-4cd8-4d67-901d-b2339b4f7649_vertical.png
+"Juicy Heat 20",juicy-heat-20.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/4afb582c-4452-4e31-baba-0672b0173afb_vertical.png
+"Crown Stacks 40",crown-stacks-40.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/9d0986ff-4989-460f-ae7f-df40897f5aab_vertical.png
+"Hit Line Dice",hit-line-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/8a55a6bf-6091-46ea-882b-09f602d68383_vertical.png
+"Very Hot 40 Extreme",very-hot-40-extreme.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/e6228188-2b75-4af8-bb6f-1fc3907c8b3a_vertical.png
+"27 Double Fruits",27-double-fruits.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/6397a064-75c2-430b-ad74-3c9854535c67_vertical.png
+"Bonus Crown",bonus-crown.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/0a7bffc0-3dae-49e3-9899-4f32eb2b46c8_vertical.png
+"Only Anime",only-anime.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/24026f9f-42ea-4657-a5d8-6a7b36e84218_vertical.jpg
+"20 Hot Strike Jackpot",20-hot-strike-jackpot.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/30b4a813-a2b9-4f55-8db1-4f29ffbea130_vertical.png
+"Book of Amun",book-of-amun.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/44a3d991-8058-4a06-bbc2-ce1338bbee8f_vertical.png
+"Lava Diamonds Christmas",lava-diamonds-christmas.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/f49f8f47-2f0c-4b68-86a9-c68a51c89108_vertical.png
+"81 Magic Double",81-magic-double.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/f47a5cb2-195b-4457-893e-9398915d0970_vertical.png
+"Fortune Parrot",fortune-parrot.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/a466d2b3-2aac-419d-8b82-b468d4d90853_vertical.png
+"20 Super Flames",20-super-flames.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/c3b8e4f5-160b-4dfd-9670-b521ba037e36_vertical.png
+"Spooky Spins",spooky-spins.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/33e86557-aa74-4f94-a743-c42dbfe320cb_vertical.png
+"Wild Forties",wild-forties.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/63b49e61-5337-4651-af06-194dd6cf897c_vertical.png
+"Simply Sevens Dice Easter",simply-sevens-dice-easter.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/555aae8e-ae32-4fd0-88b7-aa39d6a1fd63_vertical.png
+"Top Hot 5",top-hot-5.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/f5546b0f-283b-461f-88ee-faa196be258f_vertical.png
+"Clovers & Stars",clovers-stars.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/94e88888-d198-4eac-a9bf-18f3bdbd33e1_vertical.png
+"Star Chaser",star-chaser.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/937928ae-4083-4c83-95ea-3bd473864008_vertical.png
+"Fruit Island Christmas",fruit-island-christmas.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/728a853a-d8b5-4366-8e0f-f6f36ed68494_vertical.png
+"Dashing Hot 5",dashing-hot-5.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/70ad15b8-7b31-4e37-b586-d7b653c5abf3_vertical.png
+"27 Wild Stacks",27-wild-stacks.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/de1c1607-ac45-4314-b666-0396c4713610_vertical.png
+"Hit Line",hit-line.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/36f7a17c-3be4-491b-99c2-a9a0c4dec594_vertical.png
+"Gold Line Dice",gold-line-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/eba876eb-f0b2-4f1a-8200-cd3698a8652a_vertical.png
+"Wild Sunburst",wild-sunburst.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/e272ac3d-772b-4e74-855b-7c9e00b1bb70_vertical.png
+"Majestic Crown 20",majestic-crown-20.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/445417dc-adbb-4995-9bc5-e8d58cbb455f_vertical.png
+"Buffalo Dice",buffalo-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/347002e8-54a0-42aa-a678-fa410d316e9f_vertical.png
+"Mega Hot 20",mega-hot-20.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/950710d2-7bf0-47e1-9abd-a412ba4a2c2b_vertical.png
+"100 Clover Fire",100-clover-fire.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/53a11aa4-2059-4280-90fe-9d593ed05f31_vertical.png
+"Sticky Hot",sticky-hot.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/5c80ef02-edcc-42a2-b13a-5f80c6b6a3ca_vertical.png
+"Double Clover Fire",double-clover-fire.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/cfb32c35-8326-42d7-8e5f-91a9705e89b5_vertical.png
+"Diamond Heart 5",diamond-heart-5.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/2001da3b-882d-4661-be20-1d5d65d8ad70_vertical.png
+"Dice Wild Lines",dice-wild-lines.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/e9430ec8-772b-46dd-b453-cd3cb791d62e_vertical.png
+"81 Vegas Crown",81-vegas-crown.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/dca70096-0895-45cf-9ccc-bf33366cfbed_vertical.png
+"Turbo Stars 10",turbo-stars-10.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/59bf1576-437c-43b6-a9c2-a97154cb968d_vertical.png
+"Lava Dice",lava-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/c6dbb9a3-db49-40bf-b123-06f289b66c36_vertical.png
+"Vintage Fruits 40",vintage-fruits-40.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/a5341849-fd81-48d7-bf42-daaea7d404d4_vertical.png
+"Apollo 27 Classic",apollo-27-classic.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/acb9adc8-9b4e-466e-8777-e8015098e050_vertical.png
+"Froot Classic",froot-classic.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/cb24db31-4235-41b9-abe9-c5120918b18d_vertical.png
+"10 Clover Fire",10-clover-fire.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/30557f59-a530-4c25-9227-ec573eca3008_vertical.png
+"Football Victory",football-victory.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/bb401884-858c-48c5-b8d6-baa66a9524e1_vertical.png
+"Spin Up",spin-up.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/6752b1c7-fc7f-4cae-aad2-7710c906c264_vertical.jpg
+"Buffalo Sevens",buffalo-sevens.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/679c45e2-58f9-4651-a3e9-d28fb32861f6_vertical.png
+"Mister Luck",mister-luck.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/2d61de6d-3742-4d35-89c2-48aa66409bf4_vertical.png
+"Mystic Jungle",mystic-jungle.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/c4f31671-8b00-4d1f-84a8-fda7723d5f1a_vertical.jpg
+"HOT RUSH Fruit Lines",hot-rush-fruit-lines.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/2087f137-6911-4dd5-8a39-dd9ec111ccbd_vertical.png
+"Wild Lucky Dice",wild-lucky-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/143c7f6a-8ee7-41bb-b178-4bafe942c932_vertical.png
+"Big Spin Sevens",big-spin-sevens.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/b4905cca-b93d-4148-b2d7-ec1a104f8872_vertical.png
+"Book of Scorpio",book-of-scorpio.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/3b34b72c-71a6-4794-9fd7-bc997ea67eaa_vertical.png
+"5 Hot Strike Dice",5-hot-strike-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/aeb5e0a5-8210-4435-8a7c-6c36f5c12d02_vertical.png
+"Wild 81",wild-81.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/9bcc3238-a97c-4d1e-b771-0e19db6e4c41_vertical.png
+"Hot Rush - Both Ways",hot-rush-both-ways.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/b6c89272-6eea-4a42-81fb-6ae41562006c_vertical.png
+"Eggspanding Rush",eggspanding-rush.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/962e21ec-35c5-48a6-bc33-ad2fd1b27509_vertical.png
+"Lava Diamonds",lava-diamonds.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/8ac4e1e6-ca0d-46e9-9cee-f0c0e7e1df53_vertical.png
+"Caps and Crowns",caps-and-crowns.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/9d7d3f8a-c6f3-4f73-89c2-70ce6aaff108_vertical.png
+"Bonus Epic Crown",bonus-epic-crown.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/f4faee33-964f-473e-917c-62e1e9071307_vertical.png
+"5 Clover Fire Lock & Cash",5-clover-fire-lock-cash.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/f67e8114-06a9-4f8f-adfe-b5884f866c82_vertical.png
+"Gold Line",gold-line.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/8c2cdae7-873b-4bed-a290-527c5bc2d4af_vertical.png
+"Triple Fields of Luck",triple-fields-of-luck.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/62409db4-6136-4c92-aa8a-974eabce2f0c_vertical.png
+"Hot Rush: Stars Deluxe",hot-rush-stars-deluxe.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/06d9ed80-881d-4056-802e-b801b62f28ff_vertical.png
+"Mayan's Battle",mayan-s-battle.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/d45a9baa-3ea3-48e1-95fb-a87317bd799c_vertical.jpg
+"Slot Royale",slot-royale.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/2ead123d-61ae-4c17-823e-76660e85c2c9_vertical.png
+"Amazing Joker",amazing-joker.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/219a0f9e-aa7a-4950-b494-0035f0c2fb23_vertical.png
+"Wild Craps",wild-craps.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/ff4bcfff-7682-4a09-bfc7-e2fb8ff21ec8_vertical.png
+"Double Wild Dice",double-wild-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/9aae13db-425b-4ddf-bfa9-b4d0171863d3_vertical.png
+"Bikini Dice",bikini-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/f71936e9-7f9d-4daa-bc04-1dd11faa4ca0_vertical.png
+"Lady Triple Fortune",lady-triple-fortune.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/8398f6b2-fa85-4857-92d1-1920cde0d4a1_vertical.png
+"HOT RUSH: Crown Burst",hot-rush-crown-burst.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/e9b74fca-98b2-4a39-bb5e-f1856f384cd4_vertical.webp
+"Simply Sevens Dice",simply-sevens-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/4ed7875a-a3c1-4b39-b353-a4ae688c333a_vertical.png
+"Money 5",money-5.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/a2d7c933-3570-4265-a329-a36f913ae826_vertical.jpg
+"Froot Machine",froot-machine.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/ff7e4150-e109-4aa3-a348-1652bb3963d4_vertical.png
+"Epic Clover 100",epic-clover-100.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/58690784-a4e7-4a33-bde1-15927ddb3e10_vertical.png
+"Epic Crown 10",epic-crown-10.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/633645dc-d664-4d36-9774-4fd0b0ebac14_vertical.png
+"Chilli Double",chilli-double.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/a75ec970-ede0-44a4-bb90-24b12e8b1d8a_vertical.png
+"Jackpot Chance - 20 Wild Crown",jackpot-chance-20-wild-crown.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/d43759d2-62b1-4848-88e2-4ebd6a4fa2f8_vertical.png
+"Turbo Fire",turbo-fire.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/b2c3bcd7-d833-459f-bd10-b2ea5e677139_vertical.png
+"Jackpot Chance - 40 Jokers Free Games",jackpot-chance-40-jokers-free-games.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/8aab9e6f-0e78-4555-b513-f2d9dcdd3985_vertical.png
+"Wild Trail",wild-trail.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/680bb69b-cf3c-4cec-b678-efa51a97c803_vertical.png
+"Jackpot Chance - Moon Dog",jackpot-chance-moon-dog.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/949ccc38-e302-48f0-9b0a-3406cb1a735c_vertical.png
+"Jolly Presents",jolly-presents.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/a86d61e4-4c42-48ff-8e10-5e3594db6096_vertical.png
+"Wild Heart Beat",wild-heart-beat.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/083ca7ac-39a2-4f42-8626-4114656cfcef_vertical.png
+"Mr First Cryptonium",mr-first-cryptonium.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/90986ab7-7654-45b9-a191-34c727f6bb12_vertical.png
+"40 Fruit Frenzy",40-fruit-frenzy.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/5b847034-64b4-40d5-8302-08d67024e3c3_vertical.png
+"Santa's Presents",santa-s-presents.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/5d238b16-83d5-4813-a494-711cb6fcc81c_vertical.png
+"Winning Clover 5 Extreme",winning-clover-5-extreme.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/e9478bfd-fa79-4942-8044-7e54d7ad60ae_vertical.png
+"20 Fruit Frenzy",20-fruit-frenzy.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/c5937842-57b1-4dac-9b5f-878cb99ce9c1_vertical.png
+"Wild Hot 40 Blow Dice",wild-hot-40-blow-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/24e2fc70-2e9b-4da6-8730-015921cf9531_vertical.png
+"Wild Hot 40 Dice",wild-hot-40-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/0691e90a-d653-4e69-9bdf-2744b0016329_vertical.png
+"Chilli Hot 5",chilli-hot-5.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/a3060403-1891-49da-872e-821c8bea85e4_vertical.png
+"Epic Crown 5",epic-crown-5.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/8f9a1df6-f1b4-46d0-a78c-9cd4cb6ddb71_vertical.png
+"40 Hot Joker",40-hot-joker.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/0c3541ac-b390-4675-b04e-58597a9b6bb4_vertical.png
+"Fear Of Dark",fear-of-dark.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/b6c91c9a-d201-49fc-a1d2-e407e4024e0a_vertical.png
+"Winning Clover 5",winning-clover-5.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/29a715c8-1fd9-4dea-8f93-58a5d32ce926_vertical.png
+"Dead Night",dead-night.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/a55d7142-5a85-4ed7-919d-e1660624ba56_vertical.png
+"20 Hot Strike Dice",20-hot-strike-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/5e725a44-1331-45dd-970a-c1cdfea9da80_vertical.png
+"Retro Fire",retro-fire.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/fd42c954-2b99-4a2c-80bf-cc3ca4577d97_vertical.png
+"Epic Fire 40",epic-fire-40.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/81d83844-98c2-4bf9-abd4-0fd70fe755d5_vertical.png
+"10 Jingle Fruits",10-jingle-fruits.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/f875afbe-b41c-4196-9e8e-b71bae561521_vertical.png
+"Clover Blast 5",clover-blast-5.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/aee46208-8b73-4fd4-9103-6602ca9d900f_vertical.png
+"Simply Sevens",simply-sevens.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/7638e65e-1d38-4bde-b7c4-d5b657a4e657_vertical.png
+"Joker Triple Double",joker-triple-double.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/3936dbea-7641-4904-8611-a552232ef393_vertical.jpg
+"Hot Hot Stereo Win",hot-hot-stereo-win.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/90a5d449-30a7-4939-90a1-9e8fccc8e544_vertical.png
+"Blazing Heat",blazing-heat.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/4153a099-9bc9-4c8d-9a32-cd95c8d489d1_vertical.png
+"Fire Stars",fire-stars.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/9a56f8f0-ce09-41b2-bdb8-fa6e11d594ff_vertical.png
+"Epic Clover 40",epic-clover-40.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/9e8f0bf3-efab-4152-8f06-31c710a36a38_vertical.png
+"Bikini Fruits",bikini-fruits.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/28e4f2f6-b730-45de-9e2f-eda17b28db0b_vertical.png
+"40 Dice Flames",40-dice-flames.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/909917c8-1d87-494f-b69d-b4450addd57a_vertical.png
+"5 Hot Strike",5-hot-strike.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/8586897d-dacd-4e40-8607-0e80a0ba077e_vertical.png
+"Heat Double",heat-double.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/667b191e-c850-4944-aeac-6fd28ab36007_vertical.png
+"Wild Lucky Clover 2",wild-lucky-clover-2.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/3132b113-e533-44d6-bf26-8c16f2f64947_vertical.png
+"Fruit Wild Lines",fruit-wild-lines.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/68185f06-d00f-49da-a57b-1c0c5ed89b40_vertical.png
+"40 Fruit Reels",40-fruit-reels.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/dc93dd4b-7ef5-4547-9be0-97a935265cbc_vertical.png
+"Super Lucky",super-lucky.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/cef5114f-f951-4ab3-9e05-289fd3feee21_vertical.png
+"Wild 27",wild-27.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/f8edfc46-fb01-40cb-a0e9-1650e3998cfd_vertical.png
+"Wild Hot 40 Free Spins",wild-hot-40-free-spins.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/6b4602ae-1349-4a91-9d7b-b78d6f72dbfa_vertical.png
+"Money Standard Dice",money-standard-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/490ef60f-4fc3-4c40-ba63-1176a2ec1580_vertical.png
+"Very Hot Dice 40",very-hot-dice-40.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/7de1f21f-6f31-4a62-bb13-4e3783909580_vertical.png
+"40 Hot Strike Dice",40-hot-strike-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/a7516cb7-b7c8-464e-86b1-470747f42c9b_vertical.png
+"10 Wild Dice",10-wild-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/1ae782af-6e3e-4291-bd33-cf735fed1448_vertical.png
+"20 Dice Flames",20-dice-flames.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/6bd6c115-f9e1-4d7b-86ea-39fecd433eac_vertical.png
+"Dice Mega Cash",dice-mega-cash.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/6879400d-0252-4ac3-a9f7-9739be6659c5_vertical.png
+"Coyote Dice",coyote-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/8b9c14f0-bc45-440a-88c0-1cacb11926fa_vertical.png
+"Golden Crown 40",golden-crown-40.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/4442e3e1-897c-4e49-bc98-6d6cfac82e26_vertical.png
+"40 Fire Cash",40-fire-cash.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/ec3c2b2e-71e9-439f-82c7-7341dc009b7e_vertical.png
+"Pixel Hot 40",pixel-hot-40.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/dd26c5b9-bede-4a53-8418-f9c3c4566e1a_vertical.png
+"Very Hot 5 Extreme",very-hot-5-extreme.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/80a5ddda-b305-4ba8-8b9b-270558cd88f9_vertical.jpg
+"Golden Explosion",golden-explosion.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/dd1903f0-2850-4785-94ea-fb66b535cd5e_vertical.png
+"20 Hot Strike",20-hot-strike.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/04a472cd-8092-4980-9036-9bc3f975e151_vertical.png
+"Fruits And Stars 20 Deluxe",fruits-and-stars-20-deluxe.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/da4a18d5-9a81-4cf2-af21-b77c8067ab9d_vertical.png
+"Coyote Sevens",coyote-sevens.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/3b9b8e6f-7213-4b78-931f-6cff782bd1cc_vertical.png
+"20 Fire Cash",20-fire-cash.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/2a495440-9deb-4f18-bdfd-1b407e0dab85_vertical.png
+"40 Hot Strike",40-hot-strike.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/2ef47e8e-7cac-4a66-a286-51607dfe2bc6_vertical.png
+"Book of Spells",book-of-spells.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/772e223e-fab6-4f94-a423-c07496672295_vertical.png
+"African Treasure",african-treasure.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/77b26d21-5cdb-4da0-b05f-8591701f5a41_vertical.png
+"King of Thunder",king-of-thunder.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/41d426da-5fc1-4866-a081-688fb1d29b5a_vertical.jpg
+"Wild Hot 40 Blow",wild-hot-40-blow.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/c37724a8-82be-41ee-b7b6-5c0cee641fdb_vertical.png
+"Money Standard Wild",money-standard-wild.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/74d7b0fc-f5b1-42e4-a024-56879bf2eb3a_vertical.png
+"10 Wild Santa",10-wild-santa.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/f82eefda-4c3d-4054-92e4-7fdc07d5244b_vertical.png
+"Hot Stars Christmas",hot-stars-christmas.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/c3f64c00-8d08-4605-8a74-2d6963ad9463_vertical.jpg
+"Twinkling Hot 40 Christmas",twinkling-hot-40-christmas.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/a60845d5-386d-462c-93eb-bf0a296829a8_vertical.png
+"Lolla's World Christmas",lolla-s-world-christmas.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/de97231d-11d5-43dd-9fb9-116c8c23dcbd_vertical.png
+"Crystal Hot 40 Christmas",crystal-hot-40-christmas.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/95cbca31-da50-428a-81c6-a55d264dae95_vertical.png
+"Turbo Hot 40 Christmas",turbo-hot-40-christmas.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/9e0d3b17-229e-456e-ab07-5662eeaa2087_vertical.png
+"Fruits and Stars Christmas",fruits-and-stars-christmas.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/2329afe8-0096-4392-8f0d-7f18122f73ee_vertical.png
+"Wild Hot 40 Christmas",wild-hot-40-christmas.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/1eb662d6-0d45-4b90-9a25-982ca4415905_vertical.png
+"Golden Crown Christmas",golden-crown-christmas.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/366bf1c6-3845-458b-903b-965ac7edbcf6_vertical.jpg
+"Retro 7 Hot Christmas",retro-7-hot-christmas.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/f1b6e459-60e1-4674-846c-c1a337b7f35c_vertical.png
+"Very Hot 40 Christmas",very-hot-40-christmas.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/6e460d2e-ea17-425e-b9f7-38cacd1f877a_vertical.png
+"Very Hot 5 Christmas",very-hot-5-christmas.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/17532a3c-3542-454e-bb1c-3931bf17f763_vertical.png
+"Fruits and Stars 40 Christmas",fruits-and-stars-40-christmas.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/1754f6c0-8112-4506-88aa-fb148166d4ca_vertical.png
+"5 Crown Fire",5-crown-fire.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/38a2a4a8-22f6-4b47-9036-984e92a2a9c1_vertical.png
+"Heat Classic 5",heat-classic-5.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/ae4556fe-16df-40a2-9a56-7df15e7cf219_vertical.png
+"Fast Fruits",fast-fruits.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/9cc67504-db71-4782-b7d1-9cbbf96125fa_vertical.png
+"Heating Fruits",heating-fruits.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/cea5e41e-ca5b-4080-8475-ad89895da348_vertical.png
+"Bonus Bells",bonus-bells.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/39be8ef0-3061-4388-9093-605305b63a57_vertical.png
+"Power Of The Great",power-of-the-great.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/695394b9-7502-45d6-aad2-4757d7e8591f_vertical.jpg
+"Book of Dread",book-of-dread.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/bb19f128-7bce-4df8-86c5-eea90d439a9c_vertical.png
+"Winter Fruits",winter-fruits.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/65fd3b23-4f98-4cb1-92eb-02966d29a2d9_vertical.png
+"Da Vinci Dice",da-vinci-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/526494a7-d44d-434d-af36-0854431a3f35_vertical.jpg
+"Wild Lucky Clover",wild-lucky-clover.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/d0eb71e9-1da0-46e8-882a-c65037a92b44_vertical.png
+"10 Wild Pumpkin",10-wild-pumpkin.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/ec424dc3-ea61-4b32-ba8d-8f323ec57b73_vertical.png
+"40 Mega Flames",40-mega-flames.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/a61d7d0b-4ec0-4885-93fa-06e7e30f949d_vertical.png
+"Crystal Hot 40 Halloween",crystal-hot-40-halloween.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/b18c237e-f868-4d20-b838-3ac5e7e537cf_vertical.png
+"Very Hot 40 Respin",very-hot-40-respin.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/cbcd7c4e-f6ba-477c-8221-12610ea99236_vertical.png
+"Wild Hot 40 Halloween",wild-hot-40-halloween.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/489db43a-7679-41d8-a428-26b5c01ae917_vertical.png
+"Clover Coin",clover-coin.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/bb6085fa-5993-4e14-8b27-8c45f8ecdbca_vertical.png
+"Wild Joker Hot",wild-joker-hot.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/e0c017b8-1872-49f2-bae3-56e5ae53ef1c_vertical.png
+"Giga Hot 40",giga-hot-40.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/4c20b826-14e8-4519-ad0a-179a5d8eb84e_vertical.png
+"Island Respins",island-respins.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/c3923b35-540c-44da-a6dc-0ceb8150cd4c_vertical.png
+"Book of Ibis",book-of-ibis.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/43fcf1e8-4388-4ff3-ac58-c7ed075ef1fb_vertical.png
+"Fruity Win 40",fruity-win-40.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/5df3058a-95a5-4b29-abdd-9c19466d4a9a_vertical.png
+"Fruity Win 20",fruity-win-20.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/327f3e21-f4c5-49d5-9458-eff5c3e7ad6a_vertical.png
+"Great Whale",great-whale.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/e3cde27f-da65-4ebe-a233-7960bf8e5be4_vertical.png
+"Da Vinci's Fruits",da-vinci-s-fruits.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/8a61c9e3-bbbc-4f84-9c0f-dc15f71f59e7_vertical.jpg
+"Money Standard",money-standard.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/8c8882de-0016-467a-b311-b6f14c4b0ab6_vertical.png
+"Crystal Hot 40 Max",crystal-hot-40-max.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/94b1f062-9e66-424c-974d-13b53a081173_vertical.png
+"5 Wild Heart",5-wild-heart.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/acb8b79e-2237-421b-b582-674235d9f835_vertical.png
+"Reel Dice",reel-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/517d1853-4afd-44ad-b7db-e01a5df2d075_vertical.png
+"Classic Lucky Spin",classic-lucky-spin.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/709d9abb-9ac2-49d6-8d7a-c203de04eb9b_vertical.png
+"Mayan Coins",mayan-coins.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/ba7b1cd4-2670-49d0-a7ad-795756d45234_vertical.png
+"Lost Book",lost-book.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/38549c82-9b46-4f79-96b7-bb388bd087f6_vertical.png
+"FRUIT MAGIC",fruit-magic.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/3c02caf1-0384-48ed-bd54-6b070bdde78f_vertical.png
+"Havana Dice",havana-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/85ae86b1-a4c7-48e0-8d0e-1a5a3823d1cb_vertical.png
+"Eye Of Tut",eye-of-tut.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/7259c9ba-83b0-4a2a-9d9c-7132a1105519_vertical.png
+"WildParadice",wildparadice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/d94b8a62-932c-4a0b-bb51-ba24bd18979a_vertical.jpg
+"Mini Mega Cash",mini-mega-cash.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/960ee801-45a5-4521-bc55-d49904dae6d2_vertical.png
+"10 Wild Diamond",10-wild-diamond.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/387accf1-8848-4a32-93c5-0da5570be9a2_vertical.png
+"Fruity Face",fruity-face.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/e87037ff-5b4e-4f05-94b5-10d521f55db6_vertical.png
+"Vegas Dice",vegas-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/e7641093-8282-40ea-86e6-f8fb627099e9_vertical.png
+"Book of Spells 2",book-of-spells-2.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/02c3f4fe-9f51-4621-b7e3-4a4c3de9ad0d_vertical.png
+"Heating Ice Deluxe",heating-ice-deluxe.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/730d4e43-2e6f-4929-8102-c294ac2c34da_vertical.png
+"Very Hot 20",very-hot-20.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/df7fd8a2-9e81-441f-b8a4-bd5d02a36f39_vertical.png
+"20 Mega Flames",20-mega-flames.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/2c98aa0b-ff89-4007-b92a-b534747d5e20_vertical.png
+"Turbo Hot 80",turbo-hot-80.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/3a00d851-9c92-4571-a56e-980fcf03976d_vertical.png
+"40 Cash Bells",40-cash-bells.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/ad4e95f1-4b99-4ac0-afc7-040c5461bdc1_vertical.png
+"Fruity Hot 5",fruity-hot-5.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/170170a5-6cae-49d7-952a-70d958c8b504_vertical.png
+"Action Hot 20",action-hot-20.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/bc2c5c39-7e7b-49e4-91c7-2a9f3e5f479c_vertical.png
+"Action Hot 40",action-hot-40.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/b581bd5f-e013-4fb0-a884-21f8907bf601_vertical.png
+"Seven Classic Slot",seven-classic-slot.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/1ff05c98-0222-438a-83c5-b8de935a8453_vertical.png
+"Winning Stars",winning-stars.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/a3c39f02-9a78-4364-9975-553281ae13b7_vertical.png
+"Twenty Fruits",twenty-fruits.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/b9a0b84a-ace9-4d96-8006-7445a6870c80_vertical.png
+"Fruity Hot",fruity-hot.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/6266d804-9f46-4b72-aab2-90e9fb10e4dc_vertical.png
+"Twenty Dice",twenty-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/9e65859c-5a7a-4156-a0f7-77799fd934c6_vertical.png
+"Casino Fruits",casino-fruits.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/d922ffb7-6db4-44d6-8843-0f95256e2b5a_vertical.png
+"El Grande Toro",el-grande-toro.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/6601d8d9-bcf2-4444-bf75-c76861b67a4d_vertical.jpg
+"Lucky Brilliants",lucky-brilliants.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/ae15e909-6be0-4bd6-90c0-2dd2aecc45be_vertical.png
+"Heating Ice",heating-ice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/4c7f7080-4c99-4b58-8fb1-a549741a67cd_vertical.png
+"TURBO HOT 100",turbo-hot-100.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/37cfa79e-1434-4dbd-a001-7291a16a2f40_vertical.png
+"Crystal Hot 40 Free Spins",crystal-hot-40-free-spins.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/67fbac1c-76b0-4e2d-baed-1ba6619f545e_vertical.png
+"40 Dice Fire",40-dice-fire.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/99f5c4e6-53b1-4ca0-b0d2-3a6588fa20d9_vertical.png
+"Book of Luxor Double",book-of-luxor-double.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/73ce477a-b295-4b0c-a6bf-1e96f3180b61_vertical.jpg
+"40 Clover Fire",40-clover-fire.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/d0266130-34bd-4a79-aa49-c4512c663149_vertical.png
+"Crown Fruit",crown-fruit.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/9e5628cd-5214-4c83-914a-d0dd991469a1_vertical.png
+"Viking Gold",viking-gold.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/3764e462-48a0-439f-8cc9-4e99028b5ed7_vertical.png
+"Jazzy Fruits",jazzy-fruits.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/3ec0d885-4974-415c-9e6d-5c8647371c4e_vertical.png
+"Retro 7 Hot",retro-7-hot.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/43125681-9e21-4253-93f7-f8fb57a1d1c3_vertical.png
+"Cubes and Stars",cubes-and-stars.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/ce39700d-e441-4864-a1e3-f3fe75ab577b_vertical.png
+"50 Wild Cash",50-wild-cash.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/2e2bcca2-3d61-4686-b289-1a1d5e089887_vertical.png
+"5 Fluo Hot",5-fluo-hot.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/9e8516a4-4ba8-4721-897e-f7788ce8ae4b_vertical.png
+"Dice of Spells",dice-of-spells.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/bd212add-4bb5-4619-b310-fe0fc5da0843_vertical.png
+"Lolla's World",lolla-s-world.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/82d87fbb-16db-46f6-a9df-390aa8c3bcc1_vertical.png
+"Very Hot 40",very-hot-40.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/d6376560-bdff-4b1a-b39b-b834eae7c081_vertical.png
+"5 Dice Fire",5-dice-fire.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/10fb86db-b7cd-4790-843d-1582a4a0985a_vertical.png
+"Mystery Joker Hot",mystery-joker-hot.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/b863136f-edb6-4361-a013-8cf008741eb6_vertical.png
+"Crystal Jewels",crystal-jewels.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/1bebefd3-6b0f-471b-80a0-50838f8b6c5d_vertical.png
+"5 Fluo Dice",5-fluo-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/57ca4ff8-5f62-4e72-8cb7-a605412c2075_vertical.png
+"Heating Dice",heating-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/930ce44b-5a7a-4f5f-9c0d-c4eaeac3f884_vertical.png
+"Wild West",wild-west.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/a1686c81-048b-44de-8ac4-d3010e3f0e50_vertical.webp
+"Triple Dice",triple-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/0ecb6fd3-fc8c-49ba-a887-94403e3fbefb_vertical.png
+"Hot Stars",hot-stars.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/a4578480-b965-4f86-8ecc-f0a1d81c25a7_vertical.png
+"Book of Bruno",book-of-bruno.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/ebaa66ff-7596-4d38-8708-37dd0fd6c33c_vertical.png
+"Aloha Charm",aloha-charm.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/0428da9d-efe3-4350-9dc7-b7bb8aef268a_vertical.png
+"Rainbow Sevens",rainbow-sevens.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/436f92f2-5545-4de5-88fe-680de0dd9070_vertical.png
+"10 Wild Crown",10-wild-crown.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/00662fdf-18f7-4a3a-948f-432410b5d512_vertical.png
+"40 Wild Clover",40-wild-clover.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/9da4c19c-73b9-48ce-9958-845b944e7b8d_vertical.png
+"5 Clover Fire",5-clover-fire.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/8da43eec-28a6-4c00-b21e-856c60e14ee3_vertical.png
+"Book of Spells Deluxe",book-of-spells-deluxe.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/24c1b42c-689a-45ea-9b62-80c8417569c8_vertical.png
+"Twinkling Hot 80",twinkling-hot-80.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/01c7e7dd-1b83-4dec-8fcb-14da1ecc6c44_vertical.png
+"Turbo Dice 40",turbo-dice-40.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/3ce14ae4-727f-4b8b-ac25-0cbcbcd99059_vertical.png
+"40 Wild Dice",40-wild-dice.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/2020cd30-9afa-4288-9530-09a6ada4a8e0_vertical.png
+"Crystal Joker Hot",crystal-joker-hot.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/7e15758e-5876-45c3-9c49-17602342b748_vertical.png
+"Crystal Hot 100",crystal-hot-100.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/3aeb9fb4-2d69-4da1-b913-5ef291036b8d_vertical.png
+"Jewels Beat",jewels-beat.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/97e9330f-2775-4597-a57b-8724351f2aaa_vertical.png
+"Mega Cubes Deluxe",mega-cubes-deluxe.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/7bcb23db-02e4-483d-9669-07eb80a38404_vertical.png
+"Golden Crown",golden-crown.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/07776dd4-1d4c-415a-b1f5-3b1965a2e489_vertical.png
+"Very Hot 5",very-hot-5.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/0629ce4c-ee83-4295-ba05-1451cbc54f7e_vertical.png
+"Fruity Joker Hot",fruity-joker-hot.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/0f17ce75-477b-44df-af6a-3ef5fbe6bf7d_vertical.png
+"Crystal Hot 40 Deluxe",crystal-hot-40-deluxe.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/e55e5379-e92e-4c12-9be8-d96976c9e0ba_vertical.png
+"Wild Hot 40",wild-hot-40.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/f13c04ab-54f8-4140-be82-2fa96b64979c_vertical.png
+"Fruit Island",fruit-island.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/63c45656-8351-4b30-8260-62d6e809cc33_vertical.png
+"Wild Kingdom",wild-kingdom.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/9c7a60c3-9708-4e8b-9d69-32efafbb1b6b_vertical.png
+"Starlight",starlight.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/25bf5523-514c-4f92-b018-01d9448b07cf_vertical.png
+"Crystal Hot 80",crystal-hot-80.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/af7d6656-347b-4a12-9534-24153c2b7e15_vertical.png
+"Crystal Hot 40",crystal-hot-40.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/c1ac8ffd-b0d7-45fe-96f6-fbe64bd9bbc3_vertical.png
+"Fruits and Stars 40",fruits-and-stars-40.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/cf5d39aa-3595-42b8-a2b2-efd67a383865_vertical.png
+"Turbo Hot 40",turbo-hot-40.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/02eca7d9-0151-4c2b-887e-4075415491bf_vertical.png
+"Star Runner",star-runner.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/dc2dc28f-e79a-43c4-a09b-5ef693c8bfac_vertical.png
+"Tropical Hot",tropical-hot.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/911cc041-7c86-4c45-90b5-399b1118842b_vertical.png
+"Triple Hot",triple-hot.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/76444408-8314-4d5f-8da0-588dc5a1c294_vertical.png
+"Katanas of Time",katanas-of-time.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/e6c1f58d-030e-4a05-8955-93ac9a0c7e69_vertical.png
+"Twinkling Hot 40",twinkling-hot-40.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/2aa0ddce-c195-48c9-89bf-72e4480cf5ae_vertical.png
+"Mega Hot",mega-hot.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/71876f7d-5dce-45f9-904c-c33e6e33ca80_vertical.webp
+"Star Gems",star-gems.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/fd45193c-f34e-40a7-8107-634cb3cbf920_vertical.png
+"Pyramid",pyramid.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/41b89abf-2582-4480-af9c-55ee55a63324_vertical.jpg
+"Space Guardians",space-guardians.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/4c020781-b8ac-43a4-b35b-480421cbef22_vertical.png
+"Templars Quest",templars-quest.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/39a18556-06b8-43a4-b539-0e24d61f9371_vertical.jpg
+"Crystals of Magic",crystals-of-magic.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/eede1597-140d-422f-ae87-025bcc712ccb_vertical.jpg
+"Twinkling Hot 5",twinkling-hot-5.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/bf110b34-6f5f-4b2a-8e7a-f931f45be0e0_vertical.png
+"Wizard",wizard.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/411af2de-69e7-48a2-b94e-497653ac038c_vertical.png
+"Dolphins Shine",dolphins-shine.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/185d46fa-6e90-4e41-9fb9-8e42b614a9c7_vertical.png
+"Monsters",monsters.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/0f894f1a-a2f2-4550-baaf-4fd4d220601f_vertical.jpg
+"Juicy Hot",juicy-hot.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/3e9ed810-c364-469c-b010-331fe37fc0e7_vertical.png
+"Fruits and Stars",fruits-and-stars.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/8ac7e031-0b07-41bb-9914-eac4abdff2f5_vertical.png
+"Deep Jungle",deep-jungle.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/d2ca5e63-4ea2-47c4-bd68-5dc7d460a367_vertical.png
+"Forest Fruits",forest-fruits.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/48f2a451-9e48-44c1-bda0-043b691bd4aa_vertical.png
+"Postman",postman.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/87d1f7dd-b993-4689-976e-03269bc775f8_vertical.jpg
+"Turbo Stars 40",turbo-stars-40.jpg,440,600,https://v1.bundlecdn.com/casino-images/mrslotty/af3cf21b-cbf1-467d-ac1b-4261618075fa_vertical.png
